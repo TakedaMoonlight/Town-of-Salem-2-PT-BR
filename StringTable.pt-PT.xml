@@ -5514,7 +5514,7 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 	<Entry key="GUI_KEYWORD_ENCHANT">Encantamento</Entry>
     <Entry key="GUI_KEYWORD_ENCHANT_TOOLTIP"><![CDATA[
 
-• Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparentar terem o <style="PowerAlignmentColor">Crime</style> de <style="PowerAlignmentColor">Intrusão</style> para <style="TownColor">%name_role8%es</style>.<br>
+• Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparentar terem o <style="PowerAlignmentColor">Crime</style> de <style="PowerAlignmentColor">Assassinato</style> e serem membros do <style="CovenColor">Coven</style> para <style="TownColor">%name_role8%es</style>.<br>
 • Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparentar serem <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role14%s</style>.<br>
 • Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparecer como <style="PowerAlignmentColor">Suspeito</style> para <style="TownColor">%name_role17%s</style>.<br>
 • Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparecer como membros do <style="CovenColor">Coven</style> para <style="TownColor">%name_role16%s</style>.]]></Entry>
