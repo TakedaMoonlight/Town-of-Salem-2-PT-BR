@@ -49,7 +49,7 @@
     <Entry key="ITEM_3_21_BLURB">Visão, proteção e morte. Uma poção de cada, mas apenas Níque sabe qual é qual.</Entry>
     <!--Petra / Petra Rasteiro-->
     <Entry key="ITEM_3_22_BLURB">Com um olhar de pedra e beleza avassaladora. Tenha cuidado ao olhar para Petra.</Entry>
-    <!--Thomas / Tomás “Magno” Fortuna-->
+    <!--Thomas / Tomás Magno-->
     <Entry key="ITEM_3_23_BLURB">Alto lá, seus marujos de terra firme! Tomás tá aqui pra cruzar lâminas convosco!</Entry>
     <!--Rosemary / Rosmarina Silvestre-->
     <Entry key="ITEM_3_24_BLURB">Antes tida como lenda, Rosmarina vem das florestas sombrias próximas a Salém.</Entry>
@@ -881,7 +881,7 @@ Jogo de Cartas</Entry>
     <Entry key="PACK_BLOS">Navio Cheio de Butim</Entry>
     <Entry key="PACK_BLOS_BLURB"><![CDATA[- <style="UIGold">1.300 Pontos da Cidade</style>
 - 3 de cada Pergaminho <color=#DD861F>Abençoado</color> e <color=#8E4EA1>Amaldiçoado</color>
-- Personagem <color=#B9F484>Tomás “Magno” Fortuna</color>
+- Personagem <color=#B9F484>Tomás Magno</color>
 - Pet <color=#B9F484>Louro</color>, o Papagaio
 - Casa <color=#B9F484>Vingança da Rainha Ana</color>
 - Decoração de Jardim <color=#B9F484>Bandeira Pirata</color>
@@ -8270,7 +8270,7 @@ Você desbloqueou "%item%"!</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_366">Silencie alguém</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_367">Informação Indefinida</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_367">Cegue uma função de Salém Investigativo</Entry>
-	<Entry key="GUI_ACHIEVEMENT_TITLE_368">Não Veja o Mal, Não Escute o Mal, Não Fale o Mal</Entry>
+	<Entry key="GUI_ACHIEVEMENT_TITLE_368">Não Veja o Mal, Não Ouça o Mal, Não Fale o Mal</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_368">Cegue, Ensurdeça e Silencie jogadores em uma partida</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_369">Estou Ficando Maluco?</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_369">Veja um jogador com Surdez ser linchado</Entry>
