@@ -3825,7 +3825,7 @@ Funções de <Style="TownColor">Salém</style> <style="InvestigativeAlignmentCol
 	<Entry key="GUI_FACTION_GOAL_10">Saqueie com sucesso todos os Secanos.</Entry>
 	<Entry key="GUI_FACTION_GOAL_11">Advinhe as funções de 3 jogadores para condená-los.</Entry>
 	<Entry key="GUI_FACTION_GOAL_12">Mate ou converta todos na cidade.</Entry>
-	<Entry key="GUI_FACTION_GOAL_13">Mate todas as Almas Amaldiçoadas.</Entry>
+	<Entry key="GUI_FACTION_GOAL_13">Sobreviva para ver todas as Almas Amaldiçoadas morrerem.</Entry>
 
     <Entry key="GUI_FACTION_VICTORY_CONDITION_0">Você não pode vencer.</Entry>
     <Entry key="GUI_FACTION_VICTORY_CONDITION_1">Você vence com outros membros de Salém.</Entry>
