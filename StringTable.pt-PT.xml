@@ -9644,8 +9644,8 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_ROLE_TARGETING_40_NOMICON_INSTEAD_SPECIAL">Em vez disso, você decide incendiar seus alvos encharcados ([[:18]]) essa noite.</Entry><!--douse-->
     <Entry key="GUI_ROLE_TARGETING_40_NOMICON_CANCEL_SPECIAL">Em vez disso, você decide não incendiar seus alvos encharcados ([[:18]]) essa noite.</Entry><!--douse-->
     <!--ROLE 41 = BAKER/FAMINE-->
-    <Entry key="GUI_ROLE_TARGETING_41">Você decidiu dar [[:35]] para %target% essa noite.</Entry><!--Bread-->
-    <Entry key="GUI_ROLE_TARGETING_41_INSTEAD">Em vez disso, você decide dar [[:35]] para %target% essa noite.</Entry><!--Bread-->
+    <Entry key="GUI_ROLE_TARGETING_41">Você decidiu dar [[:35]] para %target2% essa noite.</Entry><!--Bread-->
+    <Entry key="GUI_ROLE_TARGETING_41_INSTEAD">Em vez disso, você decide dar [[:35]] para %target2% essa noite.</Entry><!--Bread-->
     <Entry key="GUI_ROLE_TARGETING_41_CANCEL">Em vez disso, você decide não dar [[:35]] para ninguém essa noite.</Entry><!--Bread-->
     <Entry key="GUI_ROLE_TARGETING_41_HORSEMAN">Você decidiu levar %target% à inanição essa noite.</Entry>
     <Entry key="GUI_ROLE_TARGETING_41_HORSEMAN_INSTEAD">Em vez disso, você decide levar %target% à inanição essa noite.</Entry>
@@ -10044,11 +10044,11 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_FACTION_TARGETING_41">%name% decidiu atacar %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_41_INSTEAD">%name%, no lugar disso, decide atacar %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_41_CANCEL">%name%, no lugar disso, decide não atacar ninguém essa noite.</Entry>
-    <Entry key="GUI_FACTION_TARGETING_41_TARGET2">%name% decidiu dar [[:35]] para %target% essa noite.</Entry>
-    <Entry key="GUI_FACTION_TARGETING_41_INSTEAD_TARGET2">%name%, no lugar disso, decide dar [[:35]] para %target% essa noite.</Entry>
+    <Entry key="GUI_FACTION_TARGETING_41_TARGET2">%name% decidiu dar [[:35]] para %target2% essa noite.</Entry>
+    <Entry key="GUI_FACTION_TARGETING_41_INSTEAD_TARGET2">%name%, no lugar disso, decide dar [[:35]] para %target2% essa noite.</Entry>
     <Entry key="GUI_FACTION_TARGETING_41_CANCEL_TARGET2">%name%, no lugar disso, decide não dar [[:35]] para ninguém essa noite.</Entry>
-    <Entry key="GUI_FACTION_TARGETING_41_NOMICON_TARGET2">%name% decidiu dar [[:35]] para %target% essa noite.</Entry>
-	<Entry key="GUI_FACTION_TARGETING_41_NOMICON_INSTEAD_TARGET2">%name%, no lugar disso, decide dar [[:35]] para %target% essa noite.</Entry>
+    <Entry key="GUI_FACTION_TARGETING_41_NOMICON_TARGET2">%name% decidiu dar [[:35]] para %target2% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_41_NOMICON_INSTEAD_TARGET2">%name%, no lugar disso, decide dar [[:35]] para %target2% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_41_NOMICON_CANCEL_TARGET2">%name%, no lugar disso, decide não dar [[:35]] para ninguém essa noite.</Entry>
     <Entry key="GUI_FACTION_TARGETING_250">%name% decidiu levar %target% à inanição essa noite.</Entry>
     <Entry key="GUI_FACTION_TARGETING_250_INSTEAD">%name%, no lugar disso, decide levar %target% à inanição essa noite.</Entry>
