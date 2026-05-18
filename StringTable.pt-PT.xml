@@ -2423,7 +2423,7 @@ Use a Lista de Funções para adicionar quantas funções deseja na partida, e e
 	<Entry key="GUI_LOBBY_PREVIOUS_GAME_PREVIOUS_ROLES_TITLE">Funções Anteriores:</Entry>
 	<Entry key="GUI_LOBBY_PREVIOUS_GAME_BANNER_WINNER">%x% venceu!</Entry>
 	
-	<Entry key="GUI_LOBBY_PREVIOUS_HEADER_PLAYER">Game Name</Entry>
+	<Entry key="GUI_LOBBY_PREVIOUS_HEADER_PLAYER">Nome na Partida</Entry>
 	<Entry key="GUI_LOBBY_PREVIOUS_HEADER_ROLE">Função</Entry>
 	<Entry key="GUI_LOBBY_PREVIOUS_HEADER_ACCOUNT">Conta</Entry>
 	
