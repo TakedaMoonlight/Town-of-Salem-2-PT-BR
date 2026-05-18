@@ -3430,7 +3430,7 @@ Discussão e lógica estão sempre em desacordo, Bem versus Mal, Inteligência v
 <indent=1em>4.</indent><Style="BP">Jogadores geralmente não possuem uma maneira indiscutível de comprovar sua Função / Time enquanto estão vivos. Eles podem apenas fazer alegações e fornecer evidências para tentar convencer os outros.</style>
 <indent=1em>5.</indent><Style="BP">Cada jogador possui uma Função com uma habilidade que interage com outros jogadores. Essa interação deixa fatos e evidências para trás, podendo ser usada por <Style="TownColor">Salém</style> para determinar quem está mentindo. </style>
 A seguinte seção é uma introdução para a Lógica de Town of Salem 2, como vista por um <Style="TownColor">Salemita</style>. ]]></Entry>
-    <Entry key="GUI_TSS_SOCIAL_INTERACTION_TITLE"><![CDATA[Examplo: Sem Interação]]></Entry>
+    <Entry key="GUI_TSS_SOCIAL_INTERACTION_TITLE"><![CDATA[Exemplo: Sem Interação]]></Entry>
     <Entry key="GUI_TSS_SOCIAL_INTERACTION_CONTENT"><![CDATA[Vamos falar de um cenário sem habilidades, e, portanto, nenhuma interação além do que as pessoas dizem. Também iremos assumir que o <style="CovenColor">Coven</style> possa conversar à noite. 
 
 Agora temos uma situação onde há pouquíssima evidência, e a única coisa que resta é a discussão. Ninguém irá admitir que é Do Mal, mas também não há fundamento para acusar ninguém de ser culpado de crimes ou irregularidades. O <style="CovenColor">Coven</style> poderia tentar coordenar, mas novamente, sem algo para acusar alguém, o máximo que eles podem fazer é se unirem contra uma mesma pessoa. Embora isso não seja muito diferente de uma ‘caça às bruxas’ real, é um jogo de ‘disse-me-disse’.
@@ -3461,7 +3461,7 @@ Essas Visitas, portanto, criam pistas e informações conhecidas por mais de um 
     <Entry key="GUI_TSS_SOCIAL_ROLEDECK_MODBAN_LINE"><![CDATA[A Lista de Funções também pode conter Modificadores e Funções Banidas.]]></Entry>
     <Entry key="GUI_TSS_SOCIAL_ROLEDECK_MODIFIERS"><![CDATA[Modificadores podem mudar o jogo de maneiras drásticas, desde fazer todos os jogadores anônimos, extender durações de tempo das fazes, até mudar as regras do Time do <style="ApocalypseColor">Apocalipse</style>. ]]></Entry>
     <Entry key="GUI_TSS_SOCIAL_ROLEDECK_BANNED"><![CDATA[Funções Banidas não podem aparecer na partida de forma alguma, mesmo com entradas aleatórias.]]></Entry>
-    <Entry key="GUI_TSS_SOCIAL_ROLEDECKEX_TITLE"><![CDATA[Examplo: A Lista de Funções]]></Entry>
+    <Entry key="GUI_TSS_SOCIAL_ROLEDECKEX_TITLE"><![CDATA[Exemplo: A Lista de Funções]]></Entry>
     <Entry key="GUI_TSS_SOCIAL_ROLEDECKEX_CONTENT"><![CDATA[Vamos fingir que dois jogadores, Francisca e Luís, ambos alegam ser <Style="TownColor">Xerife</style>. Apenas um <Style="TownColor">Xerife</style> é garantido na partida, e enquanto há uma entrada de ‘<Style="TownColor">Salém</style> <style="RandomColor">Aleatório</style>’ em nossa lista, as chances de ter sorteado um segundo <Style="TownColor">Xerife</style> não são muito altas.
 
 Para resolver esses conflitos, nós consideramos se alguém está mentindo, e se for o caso, quem. 
