@@ -3361,7 +3361,7 @@ Vamos analisar as características e alguns exemplos de cada. ]]></Entry>
 	<Entry key="GUI_TSS_FACTIONS_TOWN_CONTENT1"><![CDATA[O <Style="TownColor">Time de Salém</Style> é a Maioria Desinformada da Cidade. <Style="TownColor">Salemitas</Style> não sabem quem é aliado e quem é inimigo e, diante dos Julgamentos, todos alegam estar do mesmo lado. Seu objetivo é desmascarar os mentirosos e livrar a Cidade dos Malfeitores. 
 
 Os Julgamentos de cada dia são sua principal maneira de eliminar o mal da Cidade. Nenhum nível de Defesa protegerá um jogador de ser Linchado se for assim que a maioria votar, e ser a maioria é sua maior vantagem.]]></Entry>
-	<Entry key="GUI_TSS_FACTIONS_TOWN_CONTENT2"><![CDATA[O Time de <Style="TownColor">Salém</style> incluí diversas pessoas com diversas habilidades. Muitas dessas habilidades focam em trabalho em equipe. Por exemplo: 
+	<Entry key="GUI_TSS_FACTIONS_TOWN_CONTENT2"><![CDATA[O Time de <Style="TownColor">Salém</style> inclui diversas pessoas com diversas habilidades. Muitas dessas habilidades focam em trabalho em equipe. Por exemplo: 
 <indent=1em>•</indent><Style="BP">Funções de <Style="TownColor">Salém</Style> <Style="InvestigativeAlignmentColor">Investigativo</Style> buscam por informações à noite para compartilhar com outros jogadores.</style>
 <indent=1em>•</indent><Style="BP">Nenhum <Style="TownColor">Salemita</style> possui Defesa naturalmente por si mesmo, porém Funções de <Style="TownColor">Salém</Style> <Style="ProtectiveAlignmentColor">Protetor</style> protegem outros jogadores à noite.</style>
 
@@ -6874,7 +6874,7 @@ Por favor, esteja ciente que conversas que você considera como apropriadas entr
 <indent=1em>•</indent><Style="BP">Caçar jogadores & guardar rancor (Perseguir alguém baseado em quem ele é como pessoa ou por rancor de uma partida anterior.)</style>
 <indent=1em>•</indent><Style="BP">Incitar denúncias falsas: Dizer que irá ou pedir para denunciarem alguém por algo que não aconteceu. Isso não inclui um usuário achar que uma regra foi quebrada, no sim, onde a pessoa acusando falsamente diz que uma regra foi quebrada, como alegar que o jogador em questão disse algo racista nos sussurros.</style>
 <indent=1em>•</indent><Style="BP">Praticar Bullying, body shaming, assédio, conversas sexuais, racismo, preconceito, política, toxicidade extrema, ataques pessoais, intolerância religiosa, envergonhar alguém por idioma ou país, sexismo.</style>
-<indent=1em>•</indent><Style="BP">Contornar o filtro de palavras sérias ou repetidamente contornar palavras suaves. Isso incluí pessoas trabalhando juntas para soletrar palavras filtradas.</style>
+<indent=1em>•</indent><Style="BP">Contornar o filtro de palavras sérias ou repetidamente contornar palavras suaves. Isso inclui pessoas trabalhando juntas para soletrar palavras filtradas.</style>
 <indent=1em>•</indent><Style="BP">Incitar suicídio ou ameaçar/alegar querer/estar planejando cometer suicídio.</style>
 <indent=1em>•</indent><Style="BP">Fazer piadas sobre eventos trágicos.</style>
 <indent=1em>•</indent><Style="BP">Qualquer coisa relacionada a crimes contra crianças, seja abuso ou pedofilia. Para o propósito do jogo, são consideradas crianças todos com menos de 18 anos.</style>
