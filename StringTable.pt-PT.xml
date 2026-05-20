@@ -5032,7 +5032,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_189" style="bad_alert">Outra [[#39]] possui [[:16]] de %name%!</Entry><!--Witch--><!--Control-->
 	<Entry key="GAME_190" style="bad_alert">Você causou uma [[:15]] de casa na noite passada!</Entry><!--Rampage-->
 	<Entry key="GAME_191" style="bad_alert">Você não selecionou um alvo então %name% foi escolhido aleatoriamente.</Entry>
-	<Entry key="GAME_192" style="bad_alert">Sua [[:17]] em %name% atracou alguém!</Entry><!--Trap-->
+	<Entry key="GAME_192" style="bad_alert">Sua [[:17]] na casa de %name% atacou alguém!</Entry><!--Trap-->
 	<Entry key="GAME_194" style="bad_alert">O [[#45]] terá sua vingança de além do túmulo!</Entry><!--Jester-->
 	<Entry key="GAME_195" style="system">Por favor, não faça spam no chat.</Entry>
 	<Entry key="GAME_196" style="system">Sua mensagem era muito longa.</Entry>
