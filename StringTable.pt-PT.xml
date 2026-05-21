@@ -15,8 +15,8 @@
     <Entry key="ITEM_3_4_BLURB">Egídio sabe que não tem essa de "muito peso".</Entry>
 	<!--Jack / Silas Teixeira-->
     <Entry key="ITEM_3_5_BLURB">Silas segura 'O Parte-Carvalhos' e está pronto para usá-lo.</Entry>
-	<!--Brokk / Fabrício Ferreira-->
-    <Entry key="ITEM_3_6_BLURB">Fabrício pode trabalhar com metal, além de saber esmagar cabeças.</Entry>
+	<!--Brokk / Hefesto Ferreira-->
+    <Entry key="ITEM_3_6_BLURB">Hefesto pode trabalhar com metal, além de saber esmagar cabeças.</Entry>
 	<!--Artemys / Artemis Aruana-->
     <Entry key="ITEM_3_7_BLURB">Artemis pode ser tão rápida quanto o vento e tão implacável quanto um predador.</Entry>
 	<!--Francisco / Francisco Chevalier-->
@@ -1107,7 +1107,7 @@ Jogo de Cartas</Entry>
     <Entry key="SKIN_3">Maria</Entry>
     <Entry key="SKIN_4">Egídio</Entry>
     <Entry key="SKIN_5">Silas</Entry>
-    <Entry key="SKIN_6">Fabrício</Entry>
+    <Entry key="SKIN_6">Hefesto</Entry>
 	<Entry key="SKIN_7">Artemis</Entry>
     <Entry key="SKIN_8">Francisco</Entry>
     <Entry key="SKIN_9">Avílio</Entry>
