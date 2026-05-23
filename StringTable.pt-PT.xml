@@ -9507,8 +9507,8 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_ROLE_TARGETING_30_SPECIAL">Você decidiu invocar [[:140]]s de seus colegas de time essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_30_INSTEAD_SPECIAL">Em vez disso, você decide invocar [[:140]]s de seus colegas de time essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_30_CANCEL_SPECIAL">Em ver disso, você decide não invocar nenhum [[:140]] essa noite.</Entry>
-    <Entry key="GUI_ROLE_TARGETING_30_NOMICON">Você decidiu atacar %target2% essa noite.</Entry>
-    <Entry key="GUI_ROLE_TARGETING_30_NOMICON_INSTEAD">Em vez disso, você decide atacar %target2% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_30_NOMICON">Você decidiu atacar %target% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_30_NOMICON_INSTEAD">Em vez disso, você decide atacar %target% essa noite.</Entry>
     <Entry key="GUI_ROLE_TARGETING_30_NOMICON_CANCEL">Em vez disso, você decide não atacar ninguém essa noite.</Entry>
     <Entry key="GUI_ROLE_TARGETING_30_NOMICON_SPECIAL">Você decidiu invocar [[:140]]s de seus colegas de time essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_30_NOMICON_INSTEAD_SPECIAL">Em vez disso, você decide invocar [[:140]]s de seus colegas de time essa noite.</Entry>
@@ -9920,8 +9920,8 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_FACTION_TARGETING_30_SPECIAL">%name% decidiu invocar [[:140]]s de seus colegas de time essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_30_INSTEAD_SPECIAL">%name%, no lugar disso, decide invocar [[:140]]s de seus colegas de time essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_30_CANCEL_SPECIAL">%name%, no lugar disso, decide não invocar nenhum [[:140]] essa noite.</Entry>
-    <Entry key="GUI_FACTION_TARGETING_30_NOMICON">%name% decidiu atacar %target2% essa noite.</Entry>
-    <Entry key="GUI_FACTION_TARGETING_30_NOMICON_INSTEAD">%name%, no lugar disso, decide atacar %target2% essa noite.</Entry>
+    <Entry key="GUI_FACTION_TARGETING_30_NOMICON">%name% decidiu atacar %target% essa noite.</Entry>
+    <Entry key="GUI_FACTION_TARGETING_30_NOMICON_INSTEAD">%name%, no lugar disso, decide atacar %target% essa noite.</Entry>
     <Entry key="GUI_FACTION_TARGETING_30_NOMICON_CANCEL">%name%, no lugar disso, decide não atacar ninguém essa noite.</Entry>
     <Entry key="GUI_FACTION_TARGETING_30_NOMICON_SPECIAL">%name% decidiu invocar [[:140]]s de seus colegas de time essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_30_NOMICON_INSTEAD_SPECIAL">%name%, no lugar disso, decide invocar [[:140]]s de seus colegas de time essa noite.</Entry>
