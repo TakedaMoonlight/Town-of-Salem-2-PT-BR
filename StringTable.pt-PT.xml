@@ -3948,7 +3948,7 @@ Você atacará uma pessoa aleatória que visitar seu alvo na mesma noite.</Entry
 
     <!--Deputy-->
     <Entry key="GUI_ROLE_ABILITY_SUMMARY_7">Você pode tentar Atirar em um jogador durante o dia.</Entry>
-    <Entry key="GUI_ROLE_SPECIAL_ABILITY_VERB_7">Meio Dia</Entry>
+    <Entry key="GUI_ROLE_SPECIAL_ABILITY_VERB_7">Meio-Dia</Entry>
     <Entry key="GUI_ROLE_SPECIAL_ABILITY_DESC_7">Tente Atirar em um jogador durante o dia.
 	
 Caso seu alvo tenha no mínimo Defesa Básica ou seja Do Bem, você irá errar seu tiro, caso essas condições não aconteçam, você conseguirá Atirar em seu alvo com sucesso.
