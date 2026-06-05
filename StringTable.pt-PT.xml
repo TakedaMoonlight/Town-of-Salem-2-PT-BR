@@ -5000,7 +5000,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_158" style="identity_alert">%name% é capaz de materializar objetos do nada. Ele deve ser o %role%.</Entry><!--Conjurer-->
 	<Entry key="GAME_159" style="identity_alert">%name% lidera os místicos. Ele deve ser o %role%.</Entry><!--Coven Leader-->
 	<Entry key="GAME_160" style="identity_alert">%name% pode manipular os sonhos das pessoas. Ele deve ser o %role%.</Entry><!--Dreamweaver-->
-	<Entry key="GAME_161" style="identity_alert">%name% é treinado em encanamentos. Ele deve ser o %role%.</Entry><!--Enchanter-->
+	<Entry key="GAME_161" style="identity_alert">%name% é treinado em encantamentos. Ele deve ser o %role%.</Entry><!--Enchanter-->
 	<Entry key="GAME_162" style="identity_alert">%name% é versado em diversos tipos de maldições. Ele deve ser o %role%.</Entry><!--Hex Master-->
 	<Entry key="GAME_163" style="identity_alert">%name% pode alterar a aparência de alguém para os outros. Ele deve ser o %role%.</Entry><!--Illusionist-->
 	<Entry key="GAME_164" style="identity_alert">%name% fica à espreita. Ele deve ser o %role%.</Entry><!--Jinx-->
