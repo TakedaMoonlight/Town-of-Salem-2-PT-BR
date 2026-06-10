@@ -3823,7 +3823,7 @@ Funções de <Style="TownColor">Salém</style> <style="InvestigativeAlignmentCol
 	<Entry key="GUI_FACTION_GOAL_8">Linche seu alvo por quaisquer meios necessários.</Entry>
 	<Entry key="GUI_FACTION_GOAL_9">Seja linchado por quaisquer meios necessários.</Entry>
 	<Entry key="GUI_FACTION_GOAL_10">Saqueie com sucesso todos os Secanos.</Entry>
-	<Entry key="GUI_FACTION_GOAL_11">Advinhe as funções de 3 jogadores para condená-los.</Entry>
+	<Entry key="GUI_FACTION_GOAL_11">Adivinhe as funções de 3 jogadores para condená-los.</Entry>
 	<Entry key="GUI_FACTION_GOAL_12">Mate ou converta todos na cidade.</Entry>
 	<Entry key="GUI_FACTION_GOAL_13">Mate todas as Almas Amaldiçoadas.</Entry>
 
@@ -5841,7 +5841,7 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
     <Entry key="GUI_KEYWORD_DOOM_TOOLTIP"><![CDATA[
     
 • O <style="DoomsayerColor">%name_role43%</style> pode causar uma <style="PowerAlignmentColor">Condenação</style> a três jogadores, tentando adivinhar suas funções.<br>
-• Caso o <style="DoomsayerColor">%name_role43%</style> advinhe as funções dos jogadores corretamente, todos eles terão uma <style="PowerAlignmentColor">Condenação</style>, fazendo com que sofram um <style="PowerAlignmentColor">Ataque Imparável Astral</style> na noite seguinte.<br>
+• Caso o <style="DoomsayerColor">%name_role43%</style> adivinhe as funções dos jogadores corretamente, todos eles terão uma <style="PowerAlignmentColor">Condenação</style>, fazendo com que sofram um <style="PowerAlignmentColor">Ataque Imparável Astral</style> na noite seguinte.<br>
 • Caso o <style="DoomsayerColor">%name_role43%</style> erre suas adivinhações, ele receberá uma mensagem dizendo que pelo menos um de seus palpites está errado.]]></Entry>
 	<Entry key="GUI_KEYWORD_HAUNT">Assombrar</Entry>
     <Entry key="GUI_KEYWORD_HAUNT_TOOLTIP"><![CDATA[
