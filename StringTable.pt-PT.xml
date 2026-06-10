@@ -5165,7 +5165,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_322" style="good_alert">O VIP é %name%.</Entry>
 	<Entry key="GAME_323" style="good_alert">Sua sede de sangue está saciada.</Entry>
 	<Entry key="GAME_324" style="good_alert">Sua sede de sangue está aumentando.</Entry>
-	<Entry key="GAME_325" style="good_alert">Sua sede de sangue atingiu o ápice. Você desferirá um Ataque Poderoso e uma Irrupção essa noite.</Entry>
+	<Entry key="GAME_325" style="good_alert">Sua sede de sangue atingiu o ápice. Você irá desferir um [[:2]] e uma [[:15]] essa noite.</Entry>
 	<Entry key="GAME_326" style="bad_alert">%name% se desconectou da vida.</Entry>
 	<Entry key="GAME_327" style="bad_alert">Você não pode sussurrar no modo VIP.</Entry>
 	<Entry key="GAME_328" style="bad_alert">Você não pode conversar na Prisão no modo VIP.</Entry>
