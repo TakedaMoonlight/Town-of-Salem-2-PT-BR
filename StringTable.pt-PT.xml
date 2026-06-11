@@ -5846,7 +5846,7 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 	<Entry key="GUI_KEYWORD_HAUNT">Assombrar</Entry>
     <Entry key="GUI_KEYWORD_HAUNT_TOOLTIP"><![CDATA[
     
-• O <style="JesterColor">%name_role45%</style> pode <style="PowerAlignmentColor">Assombrar</style> um jogador caso ele seja linchado e tenha cumprido o requerimento de <style="PowerAlignmentColor">Tagarela</style>.<br>
+• O <style="JesterColor">%name_role45%</style> pode <style="PowerAlignmentColor">Assombrar</style> um jogador caso ele seja linchado e tenha cumprido o requisito de <style="PowerAlignmentColor">Matraca</style>.<br>
 • Apenas jogadores que votaram <style="GuiltyColor">Culpado</style> ou Se <style="AbstainColor">Abstiveram</style> podem ser <style="PowerAlignmentColor">Assombrados</style>.<br>
 • A <style="PowerAlignmentColor">Assombração</style> causa um <style="PowerAlignmentColor">Ataque Imparável Astral</style> ao alvo.]]></Entry>
 	<Entry key="GUI_KEYWORD_IGNITE">Incendiar</Entry>
@@ -6102,7 +6102,7 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 	<Entry key="GUI_KEYWORD_LOAD_TOOLTIP"><![CDATA[
 	
 • Como o <style="TownColor">Vigilante</style>, você pode <style="PowerAlignmentColor">Carregar</style> uma bala em sua arma.]]></Entry>	
-	<Entry key="GUI_KEYWORD_CHATTERBOX">Tagarela</Entry>
+	<Entry key="GUI_KEYWORD_CHATTERBOX">Matraca</Entry>
 	<Entry key="GUI_KEYWORD_CHATTERBOX_TOOLTIP"><![CDATA[
 
 • Como o <style=JesterColor">Bufão</style>, você deverá mandar de 1-4 mensagens no chat todos os dias.<br>
