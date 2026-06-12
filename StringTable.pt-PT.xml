@@ -4843,7 +4843,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_2" style="good_alert">Você não conseguiu encontrar evidências de irregularidades. %name% parece inocente.</Entry>
 	<Entry key="GAME_3" style="bad_alert">Alguém te deu uma bebida na noite passada e você dormiu! Você sofreu um [[:31]].</Entry>
 	<Entry key="GAME_4" style="good_alert">Alguém te deu uma bebida na noite passada, mas você tem uma alta tolerância.</Entry>
-	<Entry key="GAME_5" style="identity_alert">%name% você uma vida simples. Ele deve ser um %role%.</Entry>
+	<Entry key="GAME_5" style="identity_alert">%name% vive uma vida simples. Ele deve ser um %role%.</Entry>
 	<Entry key="GAME_6" style="bad_alert">Sua voz parece ter se perdido! Você está sob [[:25]].</Entry>
 	<Entry key="GAME_7" style="identity_alert">%name% é devoto ao Necronomicon. Ele deve ser um %role%.</Entry>
 	<Entry key="GAME_8" style="bad_alert">Você foi morto por um membro do <![CDATA[<style="CovenColor">]]>Coven<![CDATA[</style>]]>!</Entry>
