@@ -63,7 +63,7 @@
     <Entry key="ITEM_3_28_BLURB">Caçando na escuridão da noite, Sabrina não consegue evitar estender a mão e surrupiar qualquer coisa que chame sua atenção.</Entry>
     <!--Headless Horseman / Cavaleiro Sem Cabeça-->
     <Entry key="ITEM_3_29_BLURB">Nem mesmo os mais ilustres ladrões de estrada ousam trilhar certas vias, para que não lhes arranquem a cabeça.</Entry>
-    <!--Firebug / Incendiário-->
+    <!--Firebug / Arsonista-->
     <Entry key="ITEM_3_30_BLURB">Incendeia a noite com chamas caóticas, deixando um rastro de cinzas fumegantes por onde passa.</Entry>
     <!--Kande / Kande Efenbáquia-->
     <Entry key="ITEM_3_31_BLURB">Emprega misturas mortais, espalhando um perigo silencioso entre os inocentes.</Entry>
@@ -1002,7 +1002,7 @@ Jogo de Cartas</Entry>
 	<Entry key="PACK_GREEK_USD_BLURB">
 		<![CDATA[- <style="UIGold">Mapa Grego</style>
 - Animação de Morte <color=#B9F484>Relâmpago</color>
-- Skin <color=#B9F484>Zeus</color> (Incendiário)
+- Skin <color=#B9F484>Zeus</color> (Arsonista)
 - Skin <color=#B9F484>Hermes</color> (Rosmarina)
 - Skin <color=#B9F484>Minotauro</color> (Licaonte)
 - Skin <color=#B9F484>Espartano</color> (Jonas)
@@ -1146,7 +1146,7 @@ Jogo de Cartas</Entry>
 	<Entry key="SKIN_42">Núncamas</Entry>
 	<Entry key="SKIN_43">Cavaleiro Sem Cabeça</Entry>
 	<Entry key="SKIN_44">Chef Mástor</Entry>
-	<Entry key="SKIN_45">Incendiário</Entry>
+	<Entry key="SKIN_45">Arsonista</Entry>
 	<Entry key="SKIN_46">Kande</Entry>
 	<Entry key="SKIN_47">Odin</Entry>
 	<Entry key="SKIN_48">Pensinique</Entry>
@@ -7996,8 +7996,8 @@ Você desbloqueou "%item%"!</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_229">Lembre-se que você era um Carcereiro</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_230">Eu te Salvo!</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_230">Tenha sucesso em proteger alguém de ser atacado</Entry>
-	<Entry key="GUI_ACHIEVEMENT_TITLE_231">A Prova de Balas</Entry>
-	<Entry key="GUI_ACHIEVEMENT_DESC_231">Salve-se da morte com seu colete a prova de balas</Entry>
+	<Entry key="GUI_ACHIEVEMENT_TITLE_231">À Prova de Balas</Entry>
+	<Entry key="GUI_ACHIEVEMENT_DESC_231">Salve-se da morte com seu colete à prova de balas</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_232">Alvo Neutralizado</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_232">Mate o Arquimago enquanto protege alguém</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_233">Cordeiro Sacrificial</Entry>
@@ -8408,7 +8408,7 @@ Você desbloqueou "%item%"!</Entry>
   <Entry key="GUI_ACHIEVEMENT_DESC_435">Adicione um jogador revelado à sua Lista de Convidados</Entry>
   <Entry key="GUI_ACHIEVEMENT_TITLE_436">Lista Inflexível</Entry>
   <Entry key="GUI_ACHIEVEMENT_DESC_436">Rejeite 3 ou mais jogadores na mesma noite</Entry>
-  <Entry key="GUI_ACHIEVEMENT_TITLE_437">Assembléia</Entry>
+  <Entry key="GUI_ACHIEVEMENT_TITLE_437">Assembleia</Entry>
   <Entry key="GUI_ACHIEVEMENT_DESC_437">Inicie um Tribunal</Entry>
   <Entry key="GUI_ACHIEVEMENT_TITLE_438">Caça às Bruxas</Entry>
   <Entry key="GUI_ACHIEVEMENT_DESC_438">Execute 2 membros do Coven durante um Tribunal</Entry>
