@@ -8089,7 +8089,7 @@ Você desbloqueou "%item%"!</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_276">O Dom da Visão</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_276">Tenha 6 Visões em uma partida</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_277">O Futuro Pode Esperar</Entry>
-	<Entry key="GUI_ACHIEVEMENT_DESC_277">Não tenha nenhuma Visão devido a Insônia</Entry>
+	<Entry key="GUI_ACHIEVEMENT_DESC_277">Não tenha nenhuma Visão devido à Insônia</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_278">Mais Uma Vez, Sherlock</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_278">Reerga um Investigador e encontre um assassino</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_279">A Redenção do Vigilante</Entry>
