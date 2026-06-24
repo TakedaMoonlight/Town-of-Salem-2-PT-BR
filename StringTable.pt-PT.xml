@@ -168,8 +168,8 @@
 	<Entry key="ITEM_5_17_BLURB">Carregue o peso do seu time nas costas.</Entry>
 	<!--Card Dealer / Crupiê-->
 	<Entry key="ITEM_5_18_BLURB">Às vezes solta a carta, mas no fim do dia? A banca sempre fecha no verde.</Entry>
-	<!--Janitor / Zelador-->
-	<Entry key="ITEM_5_19_BLURB">O Zelador é um especialista em limpeza que trabalha para o crime organizado.</Entry>
+	<!--Janitor / Faxineiro-->
+	<Entry key="ITEM_5_19_BLURB">O Faxineiro é um especialista em limpeza que trabalha para o crime organizado.</Entry>
 	<!--Clef / Clave-->
 	<Entry key="ITEM_5_50_BLURB">Suas partituras ficam escondidas sob o chapéu!</Entry>
 	<!--Piper / Flávia-->
@@ -1187,7 +1187,7 @@ Jogo de Cartas</Entry>
     <Entry key="SKIN_83">Conselheira</Entry>
     <Entry key="SKIN_84">Mafioso</Entry>
     <Entry key="SKIN_85">Isabella</Entry>
-    <Entry key="SKIN_86">Zelador</Entry>
+    <Entry key="SKIN_86">Faxineiro</Entry>
 
     <!--PET SKIN NAMES-->
     <Entry key="PET_SKIN_-1">Sem Pet</Entry>
