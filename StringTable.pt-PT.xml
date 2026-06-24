@@ -5191,7 +5191,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_348" style="good_alert">%name% foi promovido para [[#52]] principal!</Entry>
 	<Entry key="GAME_349" style="bad_alert">Você não escolheu um primeiro alvo então você não realizou nenhuma habilidade noturna.</Entry>
 	<Entry key="GAME_350" style="bad_alert">Você não escolheu um segundo alvo então você não realizou nenhuma habilidade noturna.</Entry>
-	<Entry key="GAME_351" style="lover_alert">Sua [[:37]] secreta é um [[#101]].</Entry> <!--Obsession, Town Investigative-->
+	<Entry key="GAME_351" style="lover_alert">Sua [[:37]] secreta é um %role%.</Entry> <!--Obsession-->
 	<Entry key="GAME_352" style="good_alert">Você conseguiu [[:87]] %name% com sucesso.</Entry>
 	<Entry key="GAME_353" style="good_alert"></Entry>
 	<Entry key="GAME_354" style="good_alert"></Entry>
