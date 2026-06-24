@@ -5202,7 +5202,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_359" style="good_alert"></Entry>
 	<Entry key="GAME_360" style="good_alert"></Entry>
 	<Entry key="GAME_361" style="good_alert"></Entry>
-	<Entry key="GAME_362" style="lover_alert">Não há mais alvos válidos para serem sua [[:37]] secreta.</Entry> <!--Obsession, Invalid-->
+	<Entry key="GAME_362" style="bad_alert">Não há mais alvos válidos para serem sua [[:37]] secreta.</Entry> <!--Obsession, Invalid-->
 	<Entry key="GAME_363" style="good_alert"></Entry>
 	<Entry key="GAME_364" style="good_alert"></Entry>
 	<Entry key="GAME_365" style="good_alert"></Entry>
