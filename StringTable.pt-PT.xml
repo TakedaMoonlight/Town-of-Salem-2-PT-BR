@@ -4993,7 +4993,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_151" style="identity_alert">%name% observa cuidadosamente o que acontece com os outros. Ele deve ser um %role%.</Entry><!--Spy-->
 	<Entry key="GAME_152" style="identity_alert">%name% adora uma bebida refrescante. Ele deve ser um %role%.</Entry><!--TavernKeeper-->
 	<Entry key="GAME_153" style="identity_alert">%name% é versado na arte de rastreamento. Ele deve ser um %role%.</Entry><!--Tracker-->
-	<Entry key="GAME_154" style="identity_alert">%name% está a espera de uma grande captura. Ele deve ser um %role%.</Entry><!--Trapper-->
+	<Entry key="GAME_154" style="identity_alert">%name% está à espera de uma grande captura. Ele deve ser um %role%.</Entry><!--Trapper-->
 	<Entry key="GAME_155" style="identity_alert">%name% gosta de usar truques nas pessoas. Ele deve ser um %role%.</Entry><!--Trickster-->
 	<Entry key="GAME_156" style="identity_alert">%name% é um herói de guerra paranóico. Ele deve ser um %role%.</Entry><!--Veteran-->
 	<Entry key="GAME_157" style="identity_alert">%name% quebrará a lei para fazer justiça. Ele deve ser um %role%.</Entry><!--Vigilante-->
