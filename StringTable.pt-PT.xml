@@ -4950,21 +4950,32 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_56" style="good_alert">Você não encontrou nenhuma evidência de [[:121]] na casa de %name%.</Entry><!--No Crime-->
 	<Entry key="GAME_SHORT_56" style="good_alert">%name% [[:111]]</Entry><!--No Crime-->
 	<Entry key="GAME_57" style="good_alert">Você sente que %name% e %name2% são amigos!</Entry>
+	<Entry key="GAME_SHORT_57" style="good_alert">%name% + %name2% amigos</Entry>
 	<Entry key="GAME_58" style="bad_alert">Você sente que %name% e %name2% são inimigos!</Entry>
+	<Entry key="GAME_SHORT_58" style="bad_alert">%name% + %name2% inimigos</Entry>
 	<Entry key="GAME_59" style="bad_alert">Você não realizou sua habilidade noturna.</Entry>
+	<Entry key="GAME_SHORT_59">N/A</Entry>
 	<Entry key="GAME_60" style="bad_alert">A defesa de %name% era muito alta para matá-lo!</Entry>
+	<Entry key="GAME_SHORT_60" style="bad_alert">%name% possui defesa</Entry>
 	<Entry key="GAME_61" style="bad_alert">%name% foi atacado na noite passada!</Entry>
+	<Entry key="GAME_SHORT_61" style="bad_alert">%name% foi atacado</Entry>
 	<Entry key="GAME_62" style="bad_alert">O túmulo de %name% estava vazio!</Entry>
+	<Entry key="GAME_SHORT_62" style="bad_alert">Túmulo de %name% vazio</Entry>
 	<Entry key="GAME_63" style="bad_alert">Sua Égide protegeu alguém na noite passada!</Entry>
+	<Entry key="GAME_SHORT_63" style="bad_alert">Égide protegeu</Entry>
 	<Entry key="GAME_64" style="bad_alert">Você foi morto pelo [[#48]] que você prendeu!</Entry><!--Serial Killer-->
 	<Entry key="GAME_65" style="bad_alert">Você prendeu a [[#251]] e foi obliterado. Carambolas!</Entry><!--War-->
 	<Entry key="GAME_66" style="bad_alert">Você foi assombrado por um [[#45]]. Você morreu de susto!</Entry><!--Jester-->
 	<Entry key="GAME_67" style="good_alert">Você atirou em alguém que te visitou na noite passada!</Entry>
+	<Entry key="GAME_SHORT_67" style="good_alert">Atirou em alguém</Entry>
 	<Entry key="GAME_68" style="good_alert"></Entry>
 	<Entry key="GAME_69" style="bad_alert"></Entry>
 	<Entry key="GAME_70" style="bad_alert">Você encontrou evidências que mostram que %name% é um assassino e sua função é %role%.</Entry>
+	<Entry key="GAME_SHORT_70" style="bad_alert">%name% é um %role%</Entry>
 	<Entry key="GAME_71" style="good_alert">Você não conseguiu encontrar nenhuma evidência de que %name% é um assassino.</Entry>
+	<Entry key="GAME_SHORT_71" style="good_alert">%name% não é assassino</Entry>
 	<Entry key="GAME_72" style="good_alert">Você adicionou "%role%" na sua lista de resultados de autópsia. Agora você pode encontrá-lo a noite.</Entry>
+	<Entry key="GAME_SHORT_72" style="good_alert">%role% na lista de autópsias</Entry>
 	<Entry key="GAME_73" style="good_alert"></Entry>
 	<Entry key="GAME_74" style="good_alert"></Entry>
 	<Entry key="GAME_75" style="good_alert"></Entry>
@@ -4973,21 +4984,32 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_78" style="good_alert"></Entry>
 	<Entry key="GAME_79" style="good_alert"></Entry>
 	<Entry key="GAME_80" style="good_alert">Você protegeu %name%, e uma [[:32]] protegeu você!</Entry>
+	<Entry key="GAME_SHORT_80" style="good_alert">Protegeu %name% e salvo por uma [[:32]]</Entry>
 	<Entry key="GAME_81" style="good_alert">Você protegeu %name%, e um [[#6]] protegeu você!</Entry><!--Crusader-->
+	<Entry key="GAME_SHORT_81" style="good_alert">Protegeu %name% e salvo por um [[#6]]</Entry><!--Crusader-->
 	<Entry key="GAME_82" style="bad_alert">Você foi morto protegendo %name%!</Entry>
 	<Entry key="GAME_83" style="bad_alert">%name% visitou %name2% na noite passada!</Entry>
+	<Entry key="GAME_SHORT_83" style="bad_alert">%name% visitou %name2%</Entry>
 	<Entry key="GAME_84" style="good_alert"></Entry>
 	<Entry key="GAME_85" style="bad_alert">A cidade é muito maligna para encontrar alguém bom!</Entry>
+	<Entry key="GAME_SHORT_85" style="bad_alert">Cidade muito maligna</Entry>
 	<Entry key="GAME_86" style="good_alert">Uma [[:58]] lhe mostrou %name% e %name2%, revelando que pelo menos um deles é [[:39]]!</Entry><!--vision-->
+	<Entry key="GAME_SHORT_86" style="good_alert">Pelo menos um de %name% ou %name2% é [[:39]]</Entry><!--vision-->
 	<Entry key="GAME_87" style="good_alert">A cidade é muito boa para encontrar alguém mau!</Entry>
+	<Entry key="GAME_SHORT_87" style="good_alert">Cidade muito boa</Entry>
 	<Entry key="GAME_88" style="bad_alert">A cidade é muito pequena para encontrar um malfeitor precisamente!</Entry>
+	<Entry key="GAME_SHORT_88" style="bad_alert">Cidade muito pequena</Entry>
 	<Entry key="GAME_89" style="bad_alert">Uma [[:58]] lhe mostrou %name%, %name2%, e %name3%, revelando que pelo menos um deles é [[:40]]!</Entry><!--vision-->
+	<Entry key="GAME_SHORT_89" style="bad_alert">Pelo menos um de %name%, %name2%, ou %name3% é [[:40]]</Entry><!--vision-->
 	<Entry key="GAME_90" style="bad_alert">%name2% visitou %name%!</Entry>
+	<Entry key="GAME_SHORT_90" style="bad_alert">%name2% visitou %name%</Entry>
 	<Entry key="GAME_91" style="bad_alert">Você foi morto por um [[#43]]!</Entry><!--Doomsayer-->
 	<Entry key="GAME_92" style="bad_alert">Você viu o [[#31]] %name% visitar %name2%!</Entry>
+	<Entry key="GAME_SHORT_92" style="bad_alert">%name%, o [[#31]] em %name2%</Entry><!--Jinx-->
 	<Entry key="GAME_93" style="bad_alert"></Entry>
 	<Entry key="GAME_94" style="bad_alert">Você foi morto pelo [[#36]]!</Entry><!--Ritualist-->
 	<Entry key="GAME_95" style="bad_alert">%name% visitou %name2% na noite passada!</Entry>
+	<Entry key="GAME_SHORT_95" style="bad_alert">%name% visitou %name2%</Entry>
 	<Entry key="GAME_96" style="good_alert"></Entry>
 	<Entry key="GAME_97" style="good_alert"></Entry>
 	<Entry key="GAME_98" style="good_alert"></Entry>
@@ -5003,11 +5025,17 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_108" style="good_alert"></Entry>
 	<Entry key="GAME_109" style="bad_alert">Você foi morto por um [[#46]]!</Entry><!--Pirate-->
 	<Entry key="GAME_110" style="good_alert">Você espalhou pestilência para %name%.</Entry><!--Pestilence-->
+	<Entry key="GAME_SHORT_110" style="good_alert">Espalhou peste para %name%</Entry><!--Pestilence-->
 	<Entry key="GAME_111" style="good_alert">%name% visitou %name2% na noite passada!</Entry>
+	<Entry key="GAME_SHORT_111" style="good_alert">%name% visitou %name2%</Entry>
 	<Entry key="GAME_112" style="good_alert">%name% não visitou ninguém na noite passada.</Entry>
+	<Entry key="GAME_SHORT_112" style="good_alert">%name% não visitou</Entry>
 	<Entry key="GAME_113" style="bad_alert">%name% visitou %name2% e foi pego em sua [[:15]]!</Entry>
+	<Entry key="GAME_SHORT_113" style="bad_alert">[[:15]] atingiu %name% em %name2%</Entry>
 	<Entry key="GAME_114" style="bad_alert">%name% visitou %name2% e foi pego em sua [[:15]]!</Entry>
+	<Entry key="GAME_SHORT_114" style="bad_alert">[[:15]] atingiu %name% em %name2%</Entry>
 	<Entry key="GAME_115" style="bad_alert">%name% visitou %name2% e foi pego em sua [[:15]]!</Entry>
+	<Entry key="GAME_SHORT_115" style="bad_alert">[[:15]] atingiu %name% em %name2%</Entry>
 	<Entry key="GAME_116" style="bad_alert">Você sucumbiu a uma pestilência!</Entry><!--Pestilence-->
 	<Entry key="GAME_117" style="bad_alert">Você foi morto por uma [[#49]]!</Entry><!--Shroud-->
 	<Entry key="GAME_118" style="good_alert"></Entry>
@@ -5020,10 +5048,14 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_125" style="good_alert"></Entry>
 	<Entry key="GAME_126" style="bad_alert">Você foi incendiado por um [[#40]]!</Entry><!--Arsonist-->
 	<Entry key="GAME_127" style="bad_alert">Você foi encharcado ([[:18]]) em gasolina!</Entry><!--Douse-->
+	<Entry key="GAME_SHORT_127" style="bad_alert">Encharcado ([[:18]])</Entry><!--Douse-->
 	<Entry key="GAME_128" style="good_alert">Você limpou a gasolina de si mesmo.</Entry><!--Arsonist-->
+	<Entry key="GAME_SHORT_128" style="good_alert">Limpou-se</Entry><!--Arsonist-->
 	<Entry key="GAME_129" style="good_alert">O [[#9]] tentou [[:64]] você, mas sua defesa era muito alta!</Entry><!--Jailor--><!--Execute-->
+	<Entry key="GAME_SHORT_129" style="good_alert">[[#9]] falhou em [[:64]] por defesa</Entry><!--Jailor--><!--Execute-->
 	<Entry key="GAME_130" style="bad_alert">Você foi executado pelo [[#9]]!</Entry><!--Jailor-->
 	<Entry key="GAME_131" style="bad_alert">Você atacou o [[#9]] que prendeu você!</Entry><!--Jailor-->
+	<Entry key="GAME_SHORT_131" style="bad_alert">Atacou [[#9]]</Entry><!--Jailor-->
 	<Entry key="GAME_132" style="good_alert">Você possui um ataque de %role%.</Entry>
 	<Entry key="GAME_133" style="bad_alert">Você foi assassinado pelo [[#48]] que visitou!</Entry><!--Serial Killer-->
 	
