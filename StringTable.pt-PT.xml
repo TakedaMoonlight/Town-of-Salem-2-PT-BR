@@ -6087,11 +6087,11 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 • <style="VampireColor">Vampiros</style> podem <style="PowerAlignmentColor">Converter</style> um jogador durante a noite.<br>
 • Jogadores <style="PowerAlignmentColor">Convertidos</style> irão virar membros do time de <style="VampireColor">Vampiros</style><br>
 • Caso não seja possível <style="PowerAlignmentColor">Converter</style> o jogador, você irá apenas o <style="PowerAlignmentColor">Drenar</style>.]]></Entry>
-	<Entry key="GUI_KEYWORD_COUNTERCLAIM"><![CDATA[Counter Claim (<style="CursedSoulColor">sob revisão</style>)]]></Entry>
+	<Entry key="GUI_KEYWORD_COUNTERCLAIM">Contra Declaração</Entry>
     <Entry key="GUI_KEYWORD_COUNTERCLAIM_TOOLTIP"><![CDATA[
 
-• Counter Claim is a term used by players when they want to refute another player's role claim.<br>
-• Players will often abbreviate this term with CC.]]></Entry>
+• "<style="PowerAlignmentColor">Contra Declaração</style>" é um termo usado pelos jogadores quando eles desejam refutar a <style="PowerAlignmentColor">Declaração</style> de alguém.<br>
+• Os jogadores frequentemente abreviam esse termo como CD.]]></Entry>
 	<Entry key="GUI_KEYWORD_CARE">Cuidar</Entry>
     <Entry key="GUI_KEYWORD_CARE_TOOLTIP"><![CDATA[
 
