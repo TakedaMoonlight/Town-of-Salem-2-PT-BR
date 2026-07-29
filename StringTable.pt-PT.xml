@@ -5507,8 +5507,11 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_443" style="bad_alert">Você não elegeu um Soberano hoje.</Entry>
 	<Entry key="GAME_444" style="bad_alert">A eleição deu empate, você pode tentar de novo amanhã.</Entry>
 	<Entry key="GAME_445" style="good_alert">Seu corpo está transbordando de energia, você está Sobrecarregado!</Entry>
+	<Entry key="GAME_SHORT_445" style="good_alert">Sobrecarregado</Entry>
 	<Entry key="GAME_446" style="bad_alert">Você não está mais Sobrecarregado.</Entry>
+	<Entry key="GAME_SHORT_446" style="bad_alert">Não mais Sobrecarregado</Entry>
 	<Entry key="GAME_447" style="bad_alert">Um [[#59]] tentou Sobrecarregar você, mas você é imune.</Entry>
+	<Entry key="GAME_SHORT_447" style="bad_alert">Sobrecarregado mas imune</Entry>
 
 	<Entry key="BET_1" style="plain_white">%name% desafiou %name2% para uma aposta de %wager% PFs em uma partida de [[:98]].</Entry>
 	<Entry key="BET_2" style="plain_white">%name2% aceitou o desafio de %name% para [[:98]].</Entry>
@@ -6396,6 +6399,12 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 	<Entry key="GUI_PREFIX_NAME_TOOLTIP"><![CDATA[
 • Esse prefixo será automaticamente substituído pelo seu nome.]]></Entry>
 
+	<Entry key="GUI_KEYWORD_SHUFFLEBOX">Passinhador</Entry>
+	<Entry key="GUI_KEYWORD_SHUFFLEBOX_TOOLTIP"><![CDATA[
+• Em modos de jogo com Bate-Papo por Voz como um <style=JesterColor">Bufão</style>, você precisará dar 20-30 passinhos bobos a cada dia.<br>
+• Caso falhe em fazer isso, você morrerá de tédio durante a noite.<br>
+• Caso falhe em cumprir o requerimento e consiga ser <style="PowerAlignmentColor">Linchado</style>, sua vitória será invalidada.<br>]]></Entry>
+
     <!--Prefixes and Tooltips End-->
 
 
@@ -6532,7 +6541,9 @@ Tem certeza que deseja abandonar a partida e retornar ao Menu Principal?</Entry>
 	<Entry key="GUI_SETTINGS_DISPLAY_MODE_WINDOWED">Modo Janela</Entry>
     <Entry key="GUI_SETTINGS_EFFECTS_CHECKBOX">Efeitos</Entry>
     <Entry key="GUI_SETTINGS_CINEMATIC_AUDIO_CHECKBOX">Cinemáticas</Entry>
-	<Entry key="GUI_SETTINGS_VOICE_CHECKBOX">Voice</Entry>
+	<Entry key="GUI_SETTINGS_VOICE_CHECKBOX">Voz</Entry>
+	<Entry key="GUI_SETTINGS_VOICE_INPUT_CHECKBOX">Entrada de Voz</Entry>
+	<Entry key="GUI_SETTINGS_VOICE_OUTPUT_LABEL">Dispositivo de Saída de Voz</Entry>
 	<Entry key="GUI_SETTINGS_VOICE_AUTODETECT_CHECKBOX">Detectar Voz Automaticamente</Entry>
 	<Entry key="GUI_SETTINGS_VOICE_AUTODETECT_TOOLTIP">Ligado: Voz será automaticamente detectada. Desligado: Voz só será detectada quando a tecla "Aperte para Falar" for usada.</Entry>
 	<Entry key="GUI_SETTINGS_VOICE_INPUT_LABEL">Dispositivo de Voz</Entry>
@@ -6654,6 +6665,18 @@ Gostaria de limpar suas Preferências do Jogador?</Entry>
 	<Entry key="TWITCH_SHOUT_JUDGEMENT_VOTE">Hora do julgamento! Envie sua escolha no chat para votar agora.</Entry>
 	<Entry key="TWITCH_SHOUT_JUDGEMENT_CHOICES">Palavras válidas para culpado: '%guiltywords%'; inocente: '%innocentwords%'; abster: '%abstainwords%'.</Entry>
     <Entry key="TWITCH_REDIRECT_BODY">Login Completo! Feche essa página e retorne ao jogo.</Entry>
+	<Entry key="GUI_SETTINGS_DISCORD_ACCOUNT_LINKED">Discord Vinculado</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_NOT_ACCOUNT_LINKED">Discord Não Vinculado</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_CONNECTING">Conectando...</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_CONNECT_FAILED">Falha na Conexão. Aguarde e tente novamente.</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_NAME_LABEL">Nome da Conta:</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_LINK_ACCOUNT">Vincular Conta</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_UNLINK_ACCOUNT">Desvincular Conta</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_CANCEL_LINK">Cancelar</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_VOICE_DEVICES_LOADING">Carregando</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_VOICE_DEVICES_NONE">Nenhum</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_VOICE_DEVICES_MIC">Microfone</Entry>
+    <Entry key="GUI_SETTINGS_DISCORD_VOICE_DEVICES_SPEAKER">Fala</Entry>
     <Entry key="GUI_SETTINGS_COPY_PLAYER_LOG">Copiar Registro</Entry>
     <Entry key="GUI_SETTINGS_COPY_PLAYER_LOG_CONFIRM">Copiando o Registro de Jogador para a Área de Transferência. Tem certeza que deseja continuar?</Entry>
     <Entry key="GUI_SETTINGS_VIEW_PLAYER_LOG">Ver Registro</Entry>
@@ -8979,6 +9002,10 @@ Tem certeza que deseja sair?
     <Entry key="GUI_WINNERS_ARE_10">Vitória do %name_role46%</Entry>
     <Entry key="GUI_WINNERS_ARE_11">Vitória do %name_role43%</Entry>
     <Entry key="GUI_WINNERS_ARE_12">Vitória dos Vampiros</Entry>
+	<Entry key="GUI_WINNERS_ARE_13">Vitória das Almas Errantes!</Entry>
+    <Entry key="GUI_WINNERS_ARE_14">Partida Empatada</Entry>
+
+	<Entry key="GUI_SOLO_WINNER"><![CDATA[<bounce>%name% venceu como %role%!</bounce>]]></Entry>
 	
 	<Entry key="GUI_END_GAME_TOWNIES_WIN">Vitória de Salém!</Entry>
 	<Entry key="GUI_END_GAME_COVEN_WIN">Vitória do Coven!</Entry>
@@ -9149,6 +9176,23 @@ Por favor, preencha o formulário completamente.</Entry>
     <Entry key="MOD_61">Relatório de utilização concluído. Os resultados foram copiados e podem ser colados em uma planilha.</Entry>
 	<Entry key="MOD_62">Modo de jogo agendado com sucesso para as datas especificadas.</Entry>
 	<Entry key="MOD_63">Cache do modo de jogo recarregado com sucesso.</Entry>
+
+	<Entry key="VOICE_CHAT_TYPE_0">Nenhum</Entry>
+	<Entry key="VOICE_CHAT_TYPE_0_DESC" style="chat_normal">Você não pode falar ou ouvir ninguém.</Entry>
+	<Entry key="VOICE_CHAT_TYPE_1">Proximidade</Entry>
+	<Entry key="VOICE_CHAT_TYPE_1_DESC" style="chat_normal">Você pode falar e ouvir qualquer um dentro de seu círculo de proximidade.</Entry>
+	<Entry key="VOICE_CHAT_TYPE_2">Casa</Entry>
+	<Entry key="VOICE_CHAT_TYPE_2_DESC" style="chat_normal">Você pode falar e ouvir qualquer um dentro da mesma casa que você.</Entry>
+	<Entry key="VOICE_CHAT_TYPE_3">Time</Entry>
+	<Entry key="VOICE_CHAT_TYPE_3_DESC" style="chat_normal">Você pode falar e ouvir qualquer um em seu time.</Entry>
+	<Entry key="VOICE_CHAT_TYPE_4">Julgamento</Entry>
+	<Entry key="VOICE_CHAT_TYPE_4_DESC" style="chat_normal">Você só pode falar caso esteja em julgamento, você pode ouvir qualquer um em julgamento.</Entry>
+	<Entry key="VOICE_CHAT_TYPE_5">Murmuro do Julgamento</Entry>
+	<Entry key="VOICE_CHAT_TYPE_5_DESC" style="chat_normal">Você pode falar e ouvir a todos. Jogadores que não estão em julgamento são mais quietos.</Entry>
+	<Entry key="VOICE_CHAT_TYPE_6">Vencedores</Entry>
+	<Entry key="VOICE_CHAT_TYPE_6_DESC" style="chat_normal">Você só pode falar caso sejaum vencedor, você pode ouvir qualquer um que seja vencedor.</Entry>
+	<Entry key="VOICE_CHAT_TYPE_7">Prisão</Entry>
+	<Entry key="VOICE_CHAT_TYPE_7_DESC" style="chat_normal">Você só pode falar caso esteja na Prisão, você não pode ouvir o Carcereiro.</Entry>
 	<!--
     <Entry key="NPC_NAME_1">Jaqueline</Entry>
     <Entry key="NPC_NAME_2">Reverendo Ramires</Entry>
@@ -9395,6 +9439,7 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_27">Agraciado</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_28">Surdo</Entry>
     <Entry key="GUI_ABILITY_EFFECT_TOOLTIP_29">Traidor de Salém</Entry>
+	<Entry key="GUI_ABILITY_EFFECT_TOOLTIP_30">Encantado</Entry>
     <!--Add new GUI_ABILITY_EFFECT_TOOLTIP_x items above here. For every new item created, also create
     a new GUI_ABILITY_EFFECT_KEYWORD_x item below, and new GUI_KEYWORD_x and GUI_KEYWORD_x_TOOLTIP entries.
     The entry immediately below should contain a value that maps to (matches) the Title of the corresponding
@@ -11258,5 +11303,22 @@ Obrigado por jogar, e divirtam-se!
 
 
 ]]></Entry>
+	<Entry key="GUI_SONY_VIEW_PS_PROFILE">Ver Perfil</Entry>
+	<Entry key="GUI_BLOCKED_PLAYERS_MANAGE">Gerenciar Jogadores Bloqueados</Entry>
+	<Entry key="GUI_BLOCK_PLAYER_BUTTON">Bloquear Jogador</Entry>
+	<Entry key="GUI_UNBLOCK_PLAYER_TITLE">Desbloquear Jogador</Entry>
+	<Entry key="GUI_UNBLOCK_PLAYER_CONFIRMATION">Gostaria de desbloquear %name%?</Entry>
+	<Entry key="GUI_BLOCK_PLAYER_CONFIRMATION">Tem certeza que deseja bloquear %name%?</Entry>
+	<Entry key="GUI_BLOCKED_PLAYERS_DEFINITION">Jogadores bloqueados não podem se comunicar com você e nem verão suas mensagens. Você não será colocado em uma partida com um jogador que você tenha bloqueado.</Entry>
+	<Entry key="GUI_BLOCK_PLAYER_SUCCESSFUL">Jogador bloqueado com sucesso.</Entry>
+	<Entry key="GUI_BLOCK_PLAYER_FAILED">Falha na tentativa de bloquear jogador.</Entry>
+	<Entry key="GUI_UNBLOCK_PLAYER_SUCCESSFUL">Jogador foi desbloqueado.</Entry>
+	<Entry key="GUI_UNBLOCK_PLAYER_FAILED">Falha na tentativa de desbloquear jogador.</Entry>
+	
+	<Entry key="DISCORD_RICH_PRESENCE_MENUS">Nos menus</Entry>
+	<Entry key="DISCORD_RICH_PRESENCE_PARTY">Em um grupo</Entry>
+	<Entry key="DISCORD_RICH_PRESENCE_LOBBY">Em um lobby</Entry>
+	<Entry key="DISCORD_RICH_PRESENCE_GAME">Em uma partida</Entry>
+	<Entry key="DISCORD_PARTY_INVITE">Junte-se a mim em Town of Salem 2!</Entry>
 
 </StringTable>
