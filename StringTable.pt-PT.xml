@@ -4861,52 +4861,82 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<!--ToS2 Role feedback -->
 	<Entry key="GAME_0" style="bad_alert">Se estiver vendo isso, um bug aconteceu. Por favor, pegue seus registros de jogador no menu de configurações, e envie para nós em support@townofsalem.io. Obrigado!</Entry>
 	<Entry key="GAME_1" style="bad_alert">%name% parece suspeito!</Entry>
+	<Entry key="GAME_SHORT_1">%name% é Suspeito</Entry>
 	<Entry key="GAME_2" style="good_alert">Você não conseguiu encontrar evidências de irregularidades. %name% parece inocente.</Entry>
+	<Entry key="GAME_SHORT_2">%name% é Inocente</Entry>
 	<Entry key="GAME_3" style="bad_alert">Alguém te deu uma bebida na noite passada e você dormiu! Você sofreu um [[:31]].</Entry>
-	<Entry key="GAME_4" style="good_alert">Alguém te deu uma bebida na noite passada, mas você tem uma alta tolerância.</Entry>
+	<Entry key="GAME_SHORT_3">Você sofreu um [[:31]]</Entry>
+	<Entry key="GAME_4" style="good_alert">Alguém te deu uma bebida na noite passada, mas você tem uma alta tolerância. Não foi possível causar um [[:31]] a você.</Entry>
+	<Entry key="GAME_SHORT_4" style="good_alert">Você sofreu um [[:31]] mas você é imune</Entry>
 	<Entry key="GAME_5" style="identity_alert">%name% vive uma vida simples. Ele deve ser um %role%.</Entry>
+	<Entry key="GAME_SHORT_5">%name% é um %role%</Entry>
 	<Entry key="GAME_6" style="bad_alert">Sua voz parece ter se perdido! Você está sob [[:25]].</Entry>
+	<Entry key="GAME_SHORT_6" style="bad_alert">Lhe causaram [[:25]]</Entry>
 	<Entry key="GAME_7" style="identity_alert">%name% é devoto ao Necronomicon. Ele deve ser um %role%.</Entry>
+	<Entry key="GAME_SHORT_7" style="identity_alert">%name% é um %role%.</Entry>
 	<Entry key="GAME_8" style="bad_alert">Você foi morto por um membro do <![CDATA[<style="CovenColor">]]>Coven<![CDATA[</style>]]>!</Entry>
 	<Entry key="GAME_9" style="bad_alert">Você foi morto por um [[#3]]!</Entry><!--Bodyguard-->
 	<Entry key="GAME_10" style="bad_alert">Você foi morto pelo [[#31]]!</Entry><!--Jinx-->
 	<Entry key="GAME_11" style="bad_alert">Você foi morto pelo [[#23]] que você visitou!</Entry><!--Veteran-->
 	<Entry key="GAME_12" style="bad_alert">Uma sensação de calma envolve você, como se nada mais importasse. Sua vontade já não é mais sua. Você esteve sob o [[:16]] de uma [[#39]]!</Entry><!--Control--><!--Witch-->
+	<Entry key="GAME_SHORT_12" style="bad_alert">Sob [[:16]]</Entry>
 	<Entry key="GAME_13" style="identity_alert">%name% transborda de energia. Ele deve ser um %role%.</Entry>
+	<Entry key="GAME_SHORT_13" style="identity_alert">%name% é o %role%.</Entry>
 	<Entry key="GAME_14" style="bad_alert">Você errou seu tiro! Isso pode significar que %name% possui [[:50]] ou é [[:39]].</Entry><!--Deputy missed shot-->
 	<Entry key="GAME_15" style="identity_alert">%name% bebe sangue. Ele deve ser um %role%.</Entry>
+	<Entry key="GAME_SHORT_15" style="identity_alert">%name% é um %role%.</Entry>
 	<Entry key="GAME_16" style="identity_alert">%name% é um enigma que pode trocar almas. Ele deve ser uma %role%.</Entry>
+	<Entry key="GAME_SHORT_16" style="identity_alert">%name% é uma %role%.</Entry>
 	<Entry key="GAME_17" style="bad_alert">Você foi morto por um [[#7]]!</Entry><!--Deputy-->
 	<Entry key="GAME_18" style="bad_alert">%name% infectou %name2% com a [[:9]].</Entry><!--Plague-->
+	<Entry key="GAME_SHORT_18" style="bad_alert">%name% infectou %name2%</Entry><!--Plague-->
 	<Entry key="GAME_19" style="vital">%name% é o seu alvo. Linche-o a qualquer custo!</Entry><!--Executioner-->
 	<Entry key="GAME_20" style="vital">%name% morreu. Você se tornou um [[#45]]!</Entry><!--Jester-->
 	<Entry key="GAME_21" style="identity_alert">%name% protege a cidade com uma égide. Ele deve ser um %role%!</Entry><!--Oracle-->
+	<Entry key="GAME_SHORT_21" style="identity_alert">%name% é um %role%!</Entry><!--Oracle-->
 	<Entry key="GAME_22" style="bad_alert">Você perdeu sua [[:5]].</Entry>
 	<Entry key="GAME_23" style="system">Você não pode enviar mensagens incluindo vogais hoje.</Entry>
 	<Entry key="GAME_24" style="bad_alert">Você não trocou de função já que não existem mais alvos válidos!</Entry>
+	<Entry key="GAME_SHORT_24" style="bad_alert">Sem Alvos Para Trocar</Entry>
 	<Entry key="GAME_25" style="bad_alert">Você rejeitou pelo menos um visitante não convidado à sua [[:113]]!</Entry>
+	<Entry key="GAME_SHORT_25" style="bad_alert">Pelo menos uma visita bloqueada</Entry>
 	<Entry key="GAME_26" style="good_alert">Não havia visitantes não convidados em sua [[:113]].</Entry>
+	<Entry key="GAME_SHORT_26" style="good_alert">Sem visitas</Entry>
 	<Entry key="GAME_27" style="bad_alert">Você foi morto por um [[#6]]!</Entry><!--Crusader-->
 	<Entry key="GAME_28" style="identity_alert">%name% é um mestre em doutrinação. Ele deve ser o %role%. </Entry>
-	<Entry key="GAME_29" style="good_alert">Alguém atacou você, mas um [[#3]] lutou com seu atacante!</Entry><!--NEW MESSAGES WITHOUT THE ROLE START FROM HERE.--> 
+	<Entry key="GAME_SHORT_28" style="identity_alert">%name% é o %role%. </Entry>
+	<Entry key="GAME_29" style="good_alert">Alguém atacou você, mas um [[#3]] lutou com seu atacante!</Entry><!--NEW MESSAGES WITHOUT THE ROLE START FROM HERE.-->
+	<Entry key="GAME_SHORT_29" style="good_alert">Atacado mas salvo por um [[#3]]</Entry>
 	<Entry key="GAME_30" style="good_alert">Alguém atacou você, mas uma [[:17]] salvou você!</Entry><!--Trap-->
+	<Entry key="GAME_SHORT_30" style="good_alert">Atacado mas salvo por [[:17]]</Entry><!--Trap-->
 	<Entry key="GAME_31" style="good_alert">Alguém atacou você, mas uma [[:32]] protegeu você!</Entry><!--Barrier-->
+	<Entry key="GAME_SHORT_31" style="good_alert">Atacado mas salvo por [[:32]]</Entry><!--Barrier-->
 	<Entry key="GAME_32" style="good_alert">Alguém atacou você, mas um [[#6]] protegeu você!</Entry><!--Crusader-->
+	<Entry key="GAME_SHORT_32" style="good_alert">Atacado mas salvo por um [[#6]]</Entry><!--Crusader-->
 	<Entry key="GAME_33" style="good_alert">Alguém atacou você, mas sua armadura te protegeu!</Entry><!--Bodyguard Self-->
+	<Entry key="GAME_SHORT_33" style="good_alert">Atacado mas se salvou</Entry><!--Bodyguard Self-->
 	<Entry key="GAME_34" style="good_alert">Alguém atacou você, mas sua defesa enquanto em [[:69]] era muito alta!</Entry><!--Alert-->
+	<Entry key="GAME_SHORT_34" style="good_alert">Atacado mas salvo por [[:69]]</Entry><!--Alert-->
 	<Entry key="GAME_35" style="good_alert">Alguém atacou você, mas sua defesa era muito alta!</Entry>
+	<Entry key="GAME_SHORT_35" style="good_alert">Atacado mas salvo por defesa</Entry>
 	<Entry key="GAME_36" style="bad_alert">Você foi morto por um [[#24]]!</Entry><!--Vigilante-->
 	<Entry key="GAME_37" style="bad_alert">Voce foi convertido pelo [[#60]]!</Entry><!--Cultist-->
 	<Entry key="GAME_38" style="good_alert">Alguém atacou você, mas um [[:92]] absorveu o ataque!</Entry><!--Trickster save generalized-->
+	<Entry key="GAME_SHORT_38" style="good_alert">Atacado mas salvo por [[:92]]</Entry><!--Trickster save generalized-->
 	<Entry key="GAME_39" style="bad_alert">Você atacou um visitante prejudicial de %name%, mas a defesa dele era muito alta!</Entry>
+	<Entry key="GAME_SHORT_39" style="bad_alert">Atacou alguém visitando %name% mas defesa</Entry>
 	<Entry key="GAME_40" style="vital">Você tem %number% segundos para selecionar sua primeira ação.</Entry>
 	<Entry key="GAME_41" style="vital">Você tem %number% segundos para selecionar sua segunda ação.</Entry>
 	<Entry key="GAME_42" style="good_alert">Com os poderes do [[:21]] você possui [[:1]].</Entry>
 	<Entry key="GAME_43" style="fullmoon">Há um [[:137]]. Todos abaixaram suas armas e escudos por essa noite!</Entry>
 	<Entry key="GAME_44" style="bad_alert">Você não é capaz de ouvir nada, você está com [[:138]]!</Entry>
+	<Entry key="GAME_SHORT_44" style="bad_alert">Lhe causaram [[:138]]</Entry><!--Deaf-->
 	<Entry key="GAME_45" style="good_alert">O [[#37]] tentou lhe causar [[:138]], mas seus sentidos estão aguçados!</Entry>
+	<Entry key="GAME_SHORT_45" style="good_alert">Tentaram lhe causar [[:138]] mas falharam</Entry>
 	<Entry key="GAME_46" style="bad_alert">Você não consegue ver nada além da escuridão, você está com [[:139]]!</Entry>
+	<Entry key="GAME_SHORT_46" style="bad_alert">Lhe causaram [[:139]]</Entry>
 	<Entry key="GAME_47" style="good_alert">O [[#37]] tentou lhe causar [[:139]], mas seus sentidos estão aguçados!</Entry>
+	<Entry key="GAME_SHORT_47" style="good_alert">Tentaram lhe causar [[:139]] mas falharam</Entry>
 	<Entry key="GAME_48" style="plain_white">Você decidiu causar [[:25]] em seu alvo essa noite.</Entry>
 	<Entry key="GAME_49" style="plain_white">Você decidiu causar [[:138]] em seu alvo essa noite.</Entry>
 	<Entry key="GAME_50" style="plain_white">Você decidiu causar [[:139]] em seu alvo essa noite.</Entry>
@@ -4914,8 +4944,11 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_52" style="good_alert"></Entry>
 	<Entry key="GAME_53" style="bad_alert">Você foi morto por um [[#48]]!</Entry><!--Serial Killer-->
 	<Entry key="GAME_54" style="bad_alert">Sua habilidade falhou devido a um [[:122]].</Entry><!--UO-->
+	<Entry key="GAME_SHORT_54" style="bad_alert">[[:122]]</Entry><!--UO-->
 	<Entry key="GAME_55" style="bad_alert">Você encontrou evidências de [[:108]] na casa de %name%!</Entry><!--Murder-->
+	<Entry key="GAME_SHORT_55" style="bad_alert">Evidência de [[:108]] em %name%</Entry><!--Murder-->
 	<Entry key="GAME_56" style="good_alert">Você não encontrou nenhuma evidência de [[:121]] na casa de %name%.</Entry><!--No Crime-->
+	<Entry key="GAME_SHORT_56" style="good_alert">%name% [[:111]]</Entry><!--No Crime-->
 	<Entry key="GAME_57" style="good_alert">Você sente que %name% e %name2% são amigos!</Entry>
 	<Entry key="GAME_58" style="bad_alert">Você sente que %name% e %name2% são inimigos!</Entry>
 	<Entry key="GAME_59" style="bad_alert">Você não realizou sua habilidade noturna.</Entry>
