@@ -2193,7 +2193,7 @@ Conquistas</Entry>
   
 	<Entry key="GUI_GAME_TYPE_0">Nenhum</Entry>
 	<Entry key="GUI_GAME_TYPE_1">Clássico</Entry>
-	<Entry key="GUI_GAME_TYPE_2">Personalizado</Entry>
+	<Entry key="GUI_GAME_TYPE_2">Personalizado (Texto)</Entry>
 	<Entry key="GUI_GAME_TYPE_3">Tutorial</Entry>
 	<Entry key="GUI_GAME_TYPE_4">Quatro Cavaleiros</Entry>
 	<Entry key="GUI_GAME_TYPE_5">Todos Aleatórios</Entry>
@@ -2219,6 +2219,7 @@ Conquistas</Entry>
   <Entry key="GUI_GAME_TYPE_29">Padrão</Entry>
   <Entry key="GUI_GAME_TYPE_30">Todos Aleatórios Anômalos</Entry>
   <Entry key="GUI_GAME_TYPE_31">Muitos Todos Aleatórios</Entry>
+	<Entry key="GUI_GAME_TYPE_32">Personalizado (Voz)</Entry>
 	
 	<Entry key="GUI_GAME_TYPE_DESC_0">Nenhum é um problema! Reporte um bug se estiver vendo esse texto.</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_1">Clássico é o melhor modo de jogo para novos jogadores.</Entry>
@@ -2262,6 +2263,7 @@ Necessárias 10 partidas jogadas.</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_29">A experiência padrão de Town Of Salem!</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_30">Todos Aleatórios Anômalos é um verdadeiro mistério!</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_31">Muitos Todos Aleatórios é verdadeiramente tudo o que você quer que seja!</Entry>
+	<Entry key="GUI_GAME_TYPE_DESC_32">A experiência completa do bate-papo por voz! Necessário possuir a Escritura da Cidade para jogar.</Entry>
   
     <Entry key="GUI_GAME_TYPE_DESC_JOIN_WITH_CODE">Insira o código do lobby para entrar no lobby em questão.</Entry>
 
@@ -2385,6 +2387,13 @@ Use a Lista de Funções para adicionar quantas funções deseja na partida, e e
 	<Entry key="GUI_DOCK_GHOST_PLAY">Jogos Fantasmas</Entry>
 	<Entry key="GUI_DOCK_NECROPASS">Necronomicon</Entry>
 	<Entry key="GUI_DOCK_FOOLSFORTUNE">Gastar Ficha do Bufão</Entry>
+	<Entry key="GUI_DOCK_MUTE">Desativar Microfone</Entry>
+	<Entry key="GUI_DOCK_UNMUTE">Reativar Microfone</Entry>
+	<Entry key="GUI_DOCK_DEAFEN">Desativar Áudio</Entry>
+	<Entry key="GUI_DOCK_UNDEAFEN">Reativar Áudio</Entry>
+	<Entry key="GUI_DOCK_LOCK_HOUSE">Trancar Casa</Entry>
+	<Entry key="GUI_DOCK_UNLOCK_HOUSE">Destrancar Casa</Entry>
+	<Entry key="GUI_DOCK_CLAIM">Declarar Função</Entry>
 
 	<Entry key="GUI_DOCK_ROLE_LIST">Lista de Funções</Entry>
 	<Entry key="GUI_DOCK_GAME_MODE">Modo de Jogo</Entry>
@@ -3693,6 +3702,8 @@ Funções de <Style="TownColor">Salém</style> <style="InvestigativeAlignmentCol
     <Entry key="GUI_ROLE_SHORTNAME_214">Todos Os Díspares</Entry>
     <Entry key="GUI_ROLE_SHORTNAME_215">Eleição</Entry>
     <Entry key="GUI_ROLE_SHORTNAME_216">Sem Mortes N1</Entry>
+	<Entry key="GUI_ROLE_SHORTNAME_217">Anomalia</Entry>
+	<Entry key="GUI_ROLE_SHORTNAME_218">Sem Pergaminhos</Entry>
 	
 	<Entry key="GUI_ROLE_SHORTNAME_241">Oculta</Entry>
 	
@@ -4379,9 +4390,12 @@ Você pode entreouvir os sussurros de outros jogadores.
 </Entry>
     <Entry key="GUI_ROLE_ABILITY1_VERB_38">Sentido</Entry>
     <Entry key="GUI_ROLE_ABILITY1_DESC_38">Você consegue saber quem seu alvo visita e ver todos que visitam seu alvo durante a noite.</Entry>
+	<Entry key="GUI_ROLE_SPECIAL_ABILITY_VERB_38">Sintonizar</Entry>
+	<Entry key="GUI_ROLE_SPECIAL_ABILITY_DESC_38">A qualquer distância durante a Fase de Conversa, selecione qualquer jogador para ouvir em volume total independentemente de sua localização.</Entry>
     <Entry key="GUI_ROLE_ATTRIBUTES_38">Com o Necronomicon você também pode desferir um Ataque Básico em seu alvo.
 
 Seus sentidos aguçados permitem que você ouça todos os sussurros.</Entry>
+	<Entry key="GUI_ROLE_ATTRIBUTES_38_VOICE">Com o Necronomicon, você pode escolher um alvo para atacar, desferindo um Ataque Básico.</Entry>
 
     <!--Witch-->
     <Entry key="GUI_ROLE_ABILITY_SUMMARY_39">Controle alguém a cada noite.</Entry>
@@ -4467,6 +4481,11 @@ Caso você não cumpra o requerimento e seja linchado, sua vitória será invali
 Caso você não cumpra o requerimento até o final do dia, você morrerá de tédio.
 
 Mensagens enviadas durante a fase de Julgamento ou as últimas palavras não contarão.</Entry>
+	<Entry key="GUI_ROLE_ATTRIBUTES_45_VOICE">No começo de cada dia, você deverá dar de 20 a 30 passinhos bobos para cumprir o requisito de seu Passinhador.
+	
+Caso você não cumpra o requerimento e seja linchado, sua vitória será invalidada.
+
+Caso você não cumpra o requerimento até o final do dia, você morrerá de tédio.</Entry>
 
     <!--Pirate-->
     <Entry key="GUI_ROLE_ABILITY_SUMMARY_46">Escolha Vasculhar um jogador para descobrir se ele é um Secano, ou escolha Saquear um jogador, desferindo um Ataque Básico.</Entry>
@@ -4832,6 +4851,8 @@ Pelo menos 1 Modificador e Banimento serão adicionados.
 
 Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de ocorrer em relação ao anterior.<![CDATA[<br><br>]]>
 </Entry>
+
+	<Entry key="GUI_ROLEDESC_NOSCROLLS">O modificador Sem Pergaminhos desabilita Pergaminhos e o Tomo do Destino.</Entry>
     
 	<!--Shared Ability messages between multiple roles-->
 	<Entry key="GUI_ROLE_ABILITY1_SHOOT">Atirar</Entry>
