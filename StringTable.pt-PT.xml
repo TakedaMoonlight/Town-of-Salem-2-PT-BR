@@ -6204,12 +6204,12 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 • O <style="TownColor">Investigador</style> pode visitar um jogador para verificar por evidências de que foram cometidos <style="PowerAlignmentColor">Crimes</style>.<br>
 • Se um jogador cometeu <style="PowerAlignmentColor">Assassinato</style> pode significar que ele matou um jogador na noite em que foi <style="PowerAlignmentColor">Investigado</style>. Também pode significar que ele tinha um <style="PowerAlignmentColor">Encantamento</style> feito pelo <style="CovenColor">Encantador</style>, ou uma <style="ShroudColor">Moratalha</style> o <style="PowerAlignmentColor">Envolveu</style>.<br>
 • Se um a jogador não cometeu <style="PowerAlignmentColor">Asssassinato</style> pode significar que ele não matou ninguém na noite em que foi <style="PowerAlignmentColor">Investigado</style>. Entretanto, isso não significa que ele não seja um assassino. Um assassino membro do <style="CovenColor">Coven</style> pode ter uma <style="PowerAlignmentColor">Ilusão</style> sob ele, feita pelo <style="CovenColor">Ilusionista</style>.]]></Entry>
-	<Entry key="GUI_KEYWORD_CLAIM"><![CDATA[Claim (<style="CursedSoulColor">sob revisão</style>)]]></Entry>
+	<Entry key="GUI_KEYWORD_CLAIM">Declaração</Entry>
     <Entry key="GUI_KEYWORD_CLAIM_TOOLTIP"><![CDATA[
 
-• When a player asks you to Claim they are asking for your role.<br>
-• The player could be asking for your role directly, but be careful! Some roles can use this information against you. These roles are the <style="CovenColor">Ritualist</style>, and the <style="DoomsayerColor">Doomsayer</style>.<br>
-• It is generally safer to claim your "Sub-Alignment", typically just called your "Alignment" when asked for, or making a claim, unless you know the roles that can use your role against you are either dead, or not possible!<br>
+• Quando um jogador pede para você se <style="PowerAlignmentColor">Declarar</style>, ele está pedindo sua função ou alinhamento.<br>
+• O jogador pode estar pedindo por sua função diretamente, mas cuidado! Algumas funções podem utilizar essa informação contra você. As principais funções são o <style="CovenColor">Ritualista</style> e o <style="DoomsayerColor">Condenador</style>.<br>
+• Geralmente é mais seguro <style="PowerAlignmentColor">Declarar</style> "Sub-Alignment", typically just called your "Alignment" when asked for, or making a claim, unless you know the roles that can use your role against you are either dead, or not possible!<br>
 • Your Sub-Alignment is shown in your role card under your role and faction. This would be things like <style="TownColor">Town</style> <style="ProtectiveAlignmentColor">Protective</style>, or <style="TownColor">Town</style> <style="InvestigativeAlignmentColor">Investigative</style>.]]></Entry>
 	<Entry key="GUI_KEYWORD_TOWNELDER"><![CDATA[Town Elder (<style="CursedSoulColor">sob revisão</style>)]]></Entry>
     <Entry key="GUI_KEYWORD_TOWNELDER_TOOLTIP"><![CDATA[
@@ -6389,6 +6389,13 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 
 • Uma vez por partida, o <style="CovenColor">Ilusionista</style> pode usar a habilidade <style="PowerAlignmentColor">Espectro</style>, lançando uma <style="PowerAlignmentColor">Ilusão</style> em cada membro do <style="CovenColor">Coven</style> de uma vez.<br>
 • Essa habilidade ignora <style="CovenColor">Traidores de Salém</style>.]]></Entry>
+
+	<Entry key="GUI_KEYWORD_SHUFFLEBOX">Passinhador</Entry>
+	<Entry key="GUI_KEYWORD_SHUFFLEBOX_TOOLTIP"><![CDATA[
+		
+• Em modos de jogo com Bate-Papo por Voz como um <style=JesterColor">Bufão</style>, você precisará dar 20-30 passinhos bobos a cada dia.<br>
+• Caso falhe em fazer isso, você morrerá de tédio durante a noite.<br>
+• Caso falhe em cumprir o requerimento e consiga ser <style="PowerAlignmentColor">Linchado</style>, sua vitória será invalidada.<br>]]></Entry>
     <!--Keywords and Tooltips End-->	
 	
 	<Entry key="GUI_PREFIX_ROLE">Função</Entry>
@@ -6398,12 +6405,6 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 	<Entry key="GUI_PREFIX_NAME">Nome</Entry>
 	<Entry key="GUI_PREFIX_NAME_TOOLTIP"><![CDATA[
 • Esse prefixo será automaticamente substituído pelo seu nome.]]></Entry>
-
-	<Entry key="GUI_KEYWORD_SHUFFLEBOX">Passinhador</Entry>
-	<Entry key="GUI_KEYWORD_SHUFFLEBOX_TOOLTIP"><![CDATA[
-• Em modos de jogo com Bate-Papo por Voz como um <style=JesterColor">Bufão</style>, você precisará dar 20-30 passinhos bobos a cada dia.<br>
-• Caso falhe em fazer isso, você morrerá de tédio durante a noite.<br>
-• Caso falhe em cumprir o requerimento e consiga ser <style="PowerAlignmentColor">Linchado</style>, sua vitória será invalidada.<br>]]></Entry>
 
     <!--Prefixes and Tooltips End-->
 
