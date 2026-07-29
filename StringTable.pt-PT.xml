@@ -5060,60 +5060,115 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_133" style="bad_alert">Você foi assassinado pelo [[#48]] que visitou!</Entry><!--Serial Killer-->
 	
 	<Entry key="GAME_134" style="identity_alert">%name% está apaixonado. Ele deve ser um %role%.</Entry><!--Admirer-->
+	<Entry key="GAME_SHORT_134">%name% é um %role%</Entry>
 	<Entry key="GAME_135" style="identity_alert">%name% não lembra qual é sua função. Ele deve ser um %role%.</Entry><!--Amnesiac-->
+	<Entry key="GAME_SHORT_135">%name% é um %role%</Entry>
 	<Entry key="GAME_136" style="identity_alert">%name% é um protetor treinado. Ele deve ser um %role%.</Entry><!--Bodyguard-->
+	<Entry key="GAME_SHORT_136">%name% é um %role%</Entry>
 	<Entry key="GAME_137" style="identity_alert">%name% é versado em magia protetora. Ele deve ser um %role%.</Entry><!--Cleric-->
+	<Entry key="GAME_SHORT_137">%name% é um %role%</Entry>
 	<Entry key="GAME_138" style="identity_alert">%name% é um cirurgião habilidoso. Ele deve ser um %role%.</Entry><!--Coroner-->
+	<Entry key="GAME_SHORT_138">%name% é um %role%</Entry>
 	<Entry key="GAME_139" style="identity_alert">%name% é um protetor divino. Ele deve ser um %role%.</Entry><!--Crusader-->
+	<Entry key="GAME_SHORT_139">%name% é um %role%</Entry>
 	<Entry key="GAME_140" style="identity_alert">%name% é uma poderosa força da justiça. Ele deve ser um %role%.</Entry><!--Deputy-->
+	<Entry key="GAME_SHORT_140">%name% é um %role%</Entry>
 	<Entry key="GAME_141" style="identity_alert">%name% coleta informações das pessoas. Ele deve ser um %role%.</Entry><!--Investigator-->
+	<Entry key="GAME_SHORT_141">%name% é um %role%</Entry>
 	<Entry key="GAME_142" style="identity_alert">%name% detém pessoas durante a noite. Ele deve ser o %role%.</Entry><!--Jailor-->
+	<Entry key="GAME_SHORT_142">%name% é o %role%</Entry>
 	<Entry key="GAME_143" style="identity_alert">%name% observa quem visita as pessoas durante a noite. Ele deve ser um %role%.</Entry><!--Lookout-->
+	<Entry key="GAME_SHORT_143">%name% é um %role%</Entry>
 	<Entry key="GAME_144" style="identity_alert">%name% é o líder da cidade. Ele deve ser o %role%.</Entry><!--Mayor-->
+	<Entry key="GAME_SHORT_144">%name% é o %role%</Entry>
 	<Entry key="GAME_145" style="identity_alert">%name% é uma respeitada figura real. Ele deve ser o %role%.</Entry><!--Monarch-->
+	<Entry key="GAME_SHORT_145">%name% é o %role%</Entry>
 	<Entry key="GAME_146" style="identity_alert">%name% não irá descansar até a justiça ser feita. Ele deve ser o %role%.</Entry><!--Prosecutor-->
+	<Entry key="GAME_SHORT_146">%name% é o %role%</Entry>
 	<Entry key="GAME_147" style="identity_alert">%name% pode espiar o futuro. Ele deve ser um [[#14]].</Entry><!--Psychic-->
+	<Entry key="GAME_SHORT_147">%name% é um %role%</Entry>
 	<Entry key="GAME_148" style="identity_alert">%name% possui poderes místicos. Ele deve ser um %role%.</Entry><!--Retributionist-->
+	<Entry key="GAME_SHORT_148">%name% é um %role%</Entry>
 	<Entry key="GAME_149" style="identity_alert">%name% pode ver os corações das pessoas para descobrir suas intenções. Ele deve ser um %role%.</Entry><!--Seer-->
+	<Entry key="GAME_SHORT_149">%name% é um %role%</Entry>
 	<Entry key="GAME_150" style="identity_alert">%name% é um protetor da cidade. Ele deve ser um %role%.</Entry><!--Sheriff-->
+	<Entry key="GAME_SHORT_150">%name% é um %role%</Entry>
 	<Entry key="GAME_151" style="identity_alert">%name% observa cuidadosamente o que acontece com os outros. Ele deve ser um %role%.</Entry><!--Spy-->
+	<Entry key="GAME_SHORT_151">%name% é um %role%</Entry>
 	<Entry key="GAME_152" style="identity_alert">%name% adora uma bebida refrescante. Ele deve ser um %role%.</Entry><!--TavernKeeper-->
+	<Entry key="GAME_SHORT_152">%name% é um %role%</Entry>
 	<Entry key="GAME_153" style="identity_alert">%name% é versado na arte de rastreamento. Ele deve ser um %role%.</Entry><!--Tracker-->
+	<Entry key="GAME_SHORT_153">%name% é um %role%</Entry>
 	<Entry key="GAME_154" style="identity_alert">%name% está à espera de uma grande captura. Ele deve ser um %role%.</Entry><!--Trapper-->
+	<Entry key="GAME_SHORT_154">%name% é um %role%</Entry>
 	<Entry key="GAME_155" style="identity_alert">%name% gosta de usar truques nas pessoas. Ele deve ser um %role%.</Entry><!--Trickster-->
+	<Entry key="GAME_SHORT_155">%name% é um %role%</Entry>
 	<Entry key="GAME_156" style="identity_alert">%name% é um herói de guerra paranóico. Ele deve ser um %role%.</Entry><!--Veteran-->
+	<Entry key="GAME_SHORT_156">%name% é um %role%</Entry>
 	<Entry key="GAME_157" style="identity_alert">%name% quebrará a lei para fazer justiça. Ele deve ser um %role%.</Entry><!--Vigilante-->
+	<Entry key="GAME_SHORT_157">%name% é um %role%</Entry>
 	<Entry key="GAME_158" style="identity_alert">%name% é capaz de materializar objetos do nada. Ele deve ser o %role%.</Entry><!--Conjurer-->
-	<Entry key="GAME_159" style="identity_alert">%name% lidera os místicos. Ele deve ser o %role%.</Entry><!--Coven Leader-->
+	<Entry key="GAME_SHORT_158">%name% é o %role%</Entry>
+	<Entry key="GAME_159" style="identity_alert">%name% lidera os místicos. Ele deve ser o %role%.</Entry><!--Archmage-->
+	<Entry key="GAME_SHORT_159">%name% é o %role%</Entry>
 	<Entry key="GAME_160" style="identity_alert">%name% pode manipular os sonhos das pessoas. Ele deve ser o %role%.</Entry><!--Dreamweaver-->
+	<Entry key="GAME_SHORT_160">%name% é o %role%</Entry>
 	<Entry key="GAME_161" style="identity_alert">%name% é treinado em encantamentos. Ele deve ser o %role%.</Entry><!--Enchanter-->
+	<Entry key="GAME_SHORT_161">%name% é o %role%</Entry>
 	<Entry key="GAME_162" style="identity_alert">%name% é versado em diversos tipos de maldições. Ele deve ser o %role%.</Entry><!--Hex Master-->
+	<Entry key="GAME_SHORT_162">%name% é o %role%</Entry>
 	<Entry key="GAME_163" style="identity_alert">%name% pode alterar a aparência de alguém para os outros. Ele deve ser o %role%.</Entry><!--Illusionist-->
+	<Entry key="GAME_SHORT_163">%name% é o %role%</Entry>
 	<Entry key="GAME_164" style="identity_alert">%name% fica à espreita. Ele deve ser o %role%.</Entry><!--Jinx-->
+	<Entry key="GAME_SHORT_164">%name% é o %role%</Entry>
 	<Entry key="GAME_165" style="identity_alert">%name% possui um olhar de pedra. Ela deve ser a %role%.</Entry><!--Medusa-->
+	<Entry key="GAME_SHORT_165">%name% é a %role%</Entry>
 	<Entry key="GAME_166" style="identity_alert">%name% utiliza os mortos para fazer seu trabalho sujo. Ele deve ser o %role%.</Entry><!--Necromancer-->
+	<Entry key="GAME_SHORT_166">%name% é o %role%</Entry>
 	<Entry key="GAME_167" style="identity_alert">%name% usa plantas e ervas para incapacitar seus inimigos. Ele deve ser o %role%.</Entry><!--Poisoner-->
+	<Entry key="GAME_SHORT_167">%name% é o %role%</Entry>
 	<Entry key="GAME_168" style="identity_alert">%name% trabalha com alquimia. Ele deve ser o %role%.</Entry><!--Potion Master-->
+	<Entry key="GAME_SHORT_168">%name% é o %role%</Entry>
 	<Entry key="GAME_169" style="identity_alert">%name% realiza rituais mortais com conhecimentos específicos. Ele deve ser o %role%.</Entry><!--Ritualist-->
+	<Entry key="GAME_SHORT_169">%name% é o %role%</Entry>
 	<Entry key="GAME_170" style="identity_alert">%name% trabalha com bonecos. Ele deve ser o %role%.</Entry><!--Voodoo Master-->
+	<Entry key="GAME_SHORT_170">%name% é o %role%</Entry>
 	<Entry key="GAME_171" style="identity_alert">%name% possui sentidos aguçados. Ele deve ser o %role%!</Entry><!--Wildling-->
+	<Entry key="GAME_SHORT_171">%name% é o %role%</Entry>
 	<Entry key="GAME_172" style="identity_alert">%name% pode dominar a mente dos outros. Ela deve ser a %role%.</Entry><!--Witch-->
+	<Entry key="GAME_SHORT_172">%name% é a %role%</Entry>
 	<Entry key="GAME_173" style="identity_alert">%name% gosta de ver coisas queimarem. Ele deve ser um %role%.</Entry><!--Arsonist-->
+	<Entry key="GAME_SHORT_173">%name% é um %role%</Entry>
 	<Entry key="GAME_174" style="identity_alert">%name% tem cheiro de pão fresco. Ele deve ser o %role%.</Entry><!--Baker-->
+	<Entry key="GAME_SHORT_174">%name% é o %role%</Entry>
 	<Entry key="GAME_175" style="identity_alert">%name% parece desnutrido. Ele deve ser a %role%, Cavaleiro do Apocalipse.</Entry><!--Famine-->
+	<Entry key="GAME_SHORT_175">%name% é a %role%</Entry>
 	<Entry key="GAME_176" style="identity_alert">%name% ganha mais poder a cada assassinato. Ele deve ser o %role%.</Entry><!--Berserker-->
+	<Entry key="GAME_SHORT_176">%name% é o %role%</Entry>
 	<Entry key="GAME_177" style="identity_alert">%name% te faz ter ódio de todos. Ele deve ser a %role%, Cavaleiro do Apocalipse.</Entry><!--War-->
+	<Entry key="GAME_SHORT_177">%name% é a %role%</Entry>
 	<Entry key="GAME_178" style="identity_alert">%name% te enche com uma sensação de desgraça iminente. Ele deve ser um %role%.</Entry><!--Doomsayer-->
+	<Entry key="GAME_SHORT_178">%name% é um %role%</Entry>
 	<Entry key="GAME_179" style="identity_alert">%name% quer que alguém seja linchado a qualquer custo. Ele deve ser o %role%.</Entry><!--Executioner-->
+	<Entry key="GAME_SHORT_179">%name% é o %role%</Entry>
 	<Entry key="GAME_180" style="identity_alert">%name% quer ser linchado. Ele deve ser um %role%.</Entry><!--Jester-->
+	<Entry key="GAME_SHORT_180">%name% é um %role%</Entry>
 	<Entry key="GAME_181" style="identity_alert">%name% busca saquear a cidade. Ele deve ser um %role%.</Entry><!--Pirate-->
+	<Entry key="GAME_SHORT_181">%name% é o %role%</Entry>
 	<Entry key="GAME_182" style="identity_alert">%name% é o portador de uma doença. Ele deve ser o %role%.</Entry><!--Plaguebearer-->
+	<Entry key="GAME_SHORT_182">%name% é o %role%</Entry>
 	<Entry key="GAME_183" style="identity_alert">%name% fede a doença. Ele deve ser a %role%, Cavaleiro do Apocalipse.</Entry><!--Pestilence-->
+	<Entry key="GAME_SHORT_183">%name% é a %role%</Entry>
 	<Entry key="GAME_184" style="identity_alert">%name% deseja matar a todos. Ele deve ser um %role%.</Entry><!--Serial Killer-->
+	<Entry key="GAME_SHORT_184">%name% é um %role%</Entry>
 	<Entry key="GAME_185" style="identity_alert">%name% é como um fantasma. Ele deve ser uma %role%.</Entry><!--Shroud-->
+	<Entry key="GAME_SHORT_185">%name% é uma %role%</Entry>
 	<Entry key="GAME_186" style="identity_alert">%name% emana a presença de várias pessoas. Ele deve ser o %role%.</Entry><!--Soul Collector-->
+	<Entry key="GAME_SHORT_186">%name% é o %role%</Entry>
 	<Entry key="GAME_187" style="identity_alert">%name% lhe enche com uma sensação de pavor. Ele deve ser a %role%, Cavaleiro do Apocalipse.</Entry><!--Death-->
+	<Entry key="GAME_SHORT_187">%name% é a %role%</Entry>
 	<Entry key="GAME_188" style="identity_alert">%name% uiva para a lua. Ele deve ser um %role%.</Entry><!--Werewolf-->
+	<Entry key="GAME_SHORT_188">%name% é um %role%</Entry>
 
 	<Entry key="GAME_189" style="bad_alert">Outra [[#39]] possui [[:16]] de %name%!</Entry><!--Witch--><!--Control-->
 	<Entry key="GAME_190" style="bad_alert">Você causou uma [[:15]] de casa na noite passada!</Entry><!--Rampage-->
