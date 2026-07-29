@@ -6209,8 +6209,8 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 
 • Quando um jogador pede para você se <style="PowerAlignmentColor">Declarar</style>, ele está pedindo sua função ou alinhamento.<br>
 • O jogador pode estar pedindo por sua função diretamente, mas cuidado! Algumas funções podem utilizar essa informação contra você. As principais funções são o <style="CovenColor">Ritualista</style> e o <style="DoomsayerColor">Condenador</style>.<br>
-• Geralmente é mais seguro <style="PowerAlignmentColor">Declarar</style> "Sub-Alignment", typically just called your "Alignment" when asked for, or making a claim, unless you know the roles that can use your role against you are either dead, or not possible!<br>
-• Your Sub-Alignment is shown in your role card under your role and faction. This would be things like <style="TownColor">Town</style> <style="ProtectiveAlignmentColor">Protective</style>, or <style="TownColor">Town</style> <style="InvestigativeAlignmentColor">Investigative</style>.]]></Entry>
+• Geralmente é mais seguro <style="PowerAlignmentColor">Declarar</style> seu "Sub-Alinhamento", normalmente chamado apenas de "Alinhamento" quando solicitado. Fazer uma <style="PowerAlignmentColor">Declaração</style> completa de sua função não é recomendado a menos que você saiba que as funções que podem usar sua função contra você estão mortas ou não são possíveis!<br>
+• Seu Sub-Alinhamento é exibido em seu Cartão de Função abaixo de sua função e seu time. Exemplos de Sub-Alinhamentos são <style="TownColor">Salém</style> <style="ProtectiveAlignmentColor">Protetor</style> ou <style="TownColor">Salém</style> <style="InvestigativeAlignmentColor">Investigativo</style>.]]></Entry>
 	<Entry key="GUI_KEYWORD_TOWNELDER"><![CDATA[Town Elder (<style="CursedSoulColor">sob revisão</style>)]]></Entry>
     <Entry key="GUI_KEYWORD_TOWNELDER_TOOLTIP"><![CDATA[
     
