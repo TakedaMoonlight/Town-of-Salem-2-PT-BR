@@ -5171,46 +5171,68 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_SHORT_188">%name% é um %role%</Entry>
 
 	<Entry key="GAME_189" style="bad_alert">Outra [[#39]] possui [[:16]] de %name%!</Entry><!--Witch--><!--Control-->
+	<Entry key="GAME_SHORT_189" style="bad_alert">%name% já Sob [[:16]]</Entry><!--Witch--><!--Control-->
 	<Entry key="GAME_190" style="bad_alert">Você causou uma [[:15]] de casa na noite passada!</Entry><!--Rampage-->
+	<Entry key="GAME_SHORT_190" style="bad_alert">Causou [[:15]] em casa</Entry>
 	<Entry key="GAME_191" style="bad_alert">Você não selecionou um alvo então %name% foi escolhido aleatoriamente.</Entry>
+	<Entry key="GAME_SHORT_191" style="bad_alert">%name% selecionado aleatoriamente</Entry>
 	<Entry key="GAME_192" style="bad_alert">Sua [[:17]] na casa de %name% atacou alguém!</Entry><!--Trap-->
+	<Entry key="GAME_SHORT_192" style="bad_alert">[[:17]] atacou alguém em %name%</Entry><!--Trap-->
 	<Entry key="GAME_194" style="bad_alert">O [[#45]] terá sua vingança de além do túmulo!</Entry><!--Jester-->
 	<Entry key="GAME_195" style="system">Por favor, não faça spam no chat.</Entry>
 	<Entry key="GAME_196" style="system">Sua mensagem era muito longa.</Entry>
 	<Entry key="GAME_197" style="system">Sua mensagem possuía caracteres inválidos.</Entry>
 	<Entry key="GAME_198" style="mayor_reveal">%name% se revelou como o [[#11]]!</Entry><!--Mayor-->
 	<Entry key="GAME_199" style="good_alert">Sua [[:17]] está construída.</Entry><!--Trap-->
+	<Entry key="GAME_SHORT_199" style="good_alert">[[:17]] construída</Entry><!--Trap-->
 	<Entry key="GAME_200" style="bad_alert"></Entry>
 	<Entry key="GAME_201" style="good_alert">Você foi atacado por uma [[:17]], mas uma [[:32]] protegeu você.</Entry><!--Cleric and Potion Master--><!--Trap-->
+	<Entry key="GAME_SHORT_201" style="good_alert">Atacado por [[:17]] mas salvo por [[:32]]</Entry><!--Barrier--><!--Trap-->
 	<Entry key="GAME_202" style="good_alert">Você foi atacado por uma [[:17]], mas um [[#6]] protegeu você.</Entry><!--Trap--><!--Crusader-->
+	<Entry key="GAME_SHORT_202" style="good_alert">Atacado por [[:17]] mas salvo por [[#6]]</Entry><!--Trap--><!--Crusader-->
 	<Entry key="GAME_203" style="bad_alert">Você foi atacado por uma [[:17]].</Entry><!--Trap-->
 	<Entry key="GAME_204" style="good_alert">Você foi atacado por uma [[:17]], mas sua defesa era muito alta.</Entry><!--Trap-->
+	<Entry key="GAME_SHORT_204" style="good_alert">Atacado por [[:17]] mas salvo por defesa</Entry><!--Trap-->
 	<Entry key="GAME_205" style="good_alert">Seu [[:92]] absorveu um ataque de %role%!</Entry>
+	<Entry key="GAME_SHORT_205" style="good_alert">[[:92]] absorveu ataque de %role%!</Entry>
 	<Entry key="GAME_206" style="mayor_reveal"></Entry>
 	<Entry key="GAME_207" style="bad_alert">Você não realizou sua habilidade diurna.</Entry>
+	<Entry key="GAME_SHORT_207" style="bad_alert">N/A</Entry>
 	<Entry key="GAME_208" style="good_alert">Você levou %name% para a [[:14]]!</Entry><!--Jail-->
+	<Entry key="GAME_SHORT_208" style="good_alert">%name% levado à [[:14]]</Entry><!--Jail-->
 	<Entry key="GAME_209" style="bad_alert"><![CDATA[<color=#FFCD00FF>]]>Você foi levado para a [[:14]]!<![CDATA[</color>]]></Entry><!--Jail-->
+	<Entry key="GAME_SHORT_209" style="bad_alert">Na [[:14]]</Entry>
 	<Entry key="GAME_210" style="green_text">%name% foi levado para a [[:14]]!</Entry><!--Jail-->
 	<Entry key="GAME_211" style="good_alert">%name% foi atacado por um [[#25]] mas a defesa dele era muito alta.</Entry><!--Conjurer-->
 	<Entry key="GAME_212" style="bad_alert">Você foi morto por um [[#25]].</Entry><!--Conjurer-->
 	<Entry key="GAME_213" style="bad_alert">Você azarou alguém que visitou %name%!</Entry>
+	<Entry key="GAME_SHORT_213" style="bad_alert">Azarou alguém em %name%</Entry>
 	<Entry key="GAME_214" style="bad_alert">O [[#9]] decidiu [[:64]] você.</Entry><!--Jailor--><!--Execute-->
 	<Entry key="GAME_215" style="good_alert">O [[#9]] mudou de ideia.</Entry><!--Jailor-->
 	<Entry key="GAME_216" style="good_alert">Alguém tentou te dar uma bebida, mas você estava de [[:30]].</Entry><!--Hungover-->
+	<Entry key="GAME_SHORT_216" style="good_alert">Sofreu [[:31]] mas estava de [[:30]]</Entry><!--Roleblock--><!--Hungover-->
 	<Entry key="GAME_217" style="plain_white">Você matou um membro de Salém, portanto você não pode atacar novamente.</Entry>
+	<Entry key="GAME_SHORT_217" style="plain_white">Matou Salemita</Entry>
 	<Entry key="GAME_218" style="plain_white">%name% deixou um testamento.</Entry>
 	<Entry key="GAME_219" style="plain_white">%name% não deixou um testamento.</Entry>
 	<Entry key="GAME_220" style="transform_alert">O [[#41]] se transformou na [[#250]], Cavaleiro do Apocalipse! Uma grande fome começou!</Entry><!--Baker and Famine-->
 	<Entry key="GAME_221" style="good_alert">Você escolheu sabiamente. Todas as três funções estão corretas.</Entry>
+	<Entry key="GAME_SHORT_221" style="good_alert">Adivinhações corretas</Entry>
 	<Entry key="GAME_222" style="bad_alert">Você fez uma escolha ruim. Pelo menos uma de suas adivinhações está incorreta.</Entry>
+	<Entry key="GAME_SHORT_222" style="bad_alert">Pelo menos uma adivinhação incorreta</Entry>
 	<Entry key="GAME_223" style="good_alert">Você adivinhou com sucesso a função de %name%.</Entry>
+	<Entry key="GAME_SHORT_223" style="good_alert">Função de %name% correta</Entry>
 	<Entry key="GAME_224" style="good_alert">O sangue te fortalece! Agora ao atacar você irá desferir um [[:2]].</Entry>
+	<Entry key="GAME_SHORT_224" style="good_alert">Agora desfere [[:2]]</Entry>
 	<Entry key="GAME_225" style="good_alert">O sangue te fortalece! Agora você causará uma [[:15]] na casa de seu alvo, passivamente atacando qualquer visitante.</Entry><!--Rampage-->
+	<Entry key="GAME_SHORT_225" style="good_alert">Agora causa [[:15]]</Entry>
 	<Entry key="GAME_226" style="good_alert">O sangue te fortalece! Agora você irá desferir um [[:3]] quando causar uma [[:15]]! Você ganhou [[:7]]!</Entry><!--Unstoppable--><!--Rampage-->
+	<Entry key="GAME_SHORT_226" style="good_alert">Agora desfere [[:3]]</Entry>
 	<Entry key="GAME_227" style="bad_alert">O [[#44]] conseguiu fazer com que seu alvo fosse linchado!</Entry><!--Executioner-->
 	<Entry key="GAME_227_SELF" style="good_alert">Você conseguiu fazer com que seu alvo fosse linchado!</Entry>
 	<Entry key="GAME_228" style="transform_alert">Uma [[:9]] consumiu a cidade, transformando o [[#47]] na [[#252]], Cavaleiro do Apocalipse!</Entry><!--Plague--><!--Plaguebearer and Pestilence-->
 	<Entry key="GAME_229" style="good_alert">Você coletou a alma de %name% com sucesso.</Entry>
+	<Entry key="GAME_SHORT_229" style="good_alert">Coletou a alma de %name%</Entry>
 	<Entry key="GAME_230" style="transform_alert">Agora o [[#50]] se tornou a [[#253]], Destruidor de Mundos e Cavaleiro do Apocalipse!</Entry><!--Soul Collector and Death-->
 	<Entry key="GAME_231" style="good_alert"></Entry>
 	<Entry key="GAME_232" style="bad_alert"></Entry>
@@ -5248,13 +5270,19 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_264" style="plain_white">Em vez disso, você decide usar sua poção de Revelação essa noite.</Entry>
 	<Entry key="GAME_265" style="plain_white">Em vez disso, você decide usar sua poção de Morte essa noite.</Entry>
 	<Entry key="GAME_266" style="plain_white">O [[#27]] está invadindo seus sonhos! Um membro de Salém deve visitar você para lhe ajudar a cair no sono.</Entry><!--Dreamweaver-->
+	<Entry key="GAME_SHORT_266" style="plain_white">Sonho Tecido</Entry>
 	<Entry key="GAME_267" style="plain_white">O [[#27]] não lhe deixará dormir e lhe causou [[:28]]!</Entry><!--Dreamweaver--><!--Insomnia-->
-	<Entry key="GAME_268" style="plain_white">Um membro de Salém te salvou da [[:28]]!</Entry><!--Insane-->
+	<Entry key="GAME_SHORT_267" style="plain_white">[[:28]]</Entry><!--Dreamweaver--><!--Insomnia-->
+	<Entry key="GAME_268" style="plain_white">Um membro de Salém te salvou da [[:28]]!</Entry><!--Insomnia-->
+	<Entry key="GAME_SHORT_268" style="plain_white">[[:28]] previnida</Entry>
 	<Entry key="GAME_269" style="good_alert">O [[#27]] se foi! Você não está mais sofrendo de [[:28]].</Entry><!--Dreamweaver--><!--Insomnia-->
+	<Entry key="GAME_SHORT_269" style="good_alert">[[:28]] curada</Entry><!--Dreamweaver--><!--Insomnia-->
 	<Entry key="GAME_270" style="good_alert"></Entry>
 	<Entry key="GAME_271" style="good_alert"></Entry>
 	<Entry key="GAME_272" style="bad_alert">Você não pode utilizar suas habilidades enquanto estiver sofrendo de [[:28]].</Entry><!--Insomnia-->
+	<Entry key="GAME_SHORT_272" style="bad_alert">[[:28]]</Entry><!--Insomnia-->
 	<Entry key="GAME_273" style="good_alert">O [[#27]] tentou invadir seus sonhos, mas você é imune.</Entry><!--Dreamweaver-->
+	<Entry key="GAME_SHORT_273" style="good_alert">Sonho Tecido mas imune</Entry><!--Dreamweaver-->
 	<Entry key="GAME_274" style="bad_alert"></Entry>
 	<Entry key="GAME_275" style="good_alert"></Entry>
 	<Entry key="GAME_276" style="bad_alert"></Entry>
@@ -5267,28 +5295,40 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_283" style="good_alert"></Entry>
 	<Entry key="GAME_284" style="good_alert"></Entry>
 	<Entry key="GAME_285" style="lover_alert">%name% é sua [[:37]]. Você agora pode [[:88]] dele.</Entry>
+	<Entry key="GAME_SHORT_285" style="lover_alert">%name% é sua [[:37]]</Entry><!--Obsession-->
 	<Entry key="GAME_286" style="bad_alert">%name% rejeitou você. Ele não era sua [[:37]]!</Entry><!--Admirer-->
+	<Entry key="GAME_SHORT_286" style="bad_alert">%name% não é [[:37]]</Entry><!--Admirer-->
 	<Entry key="GAME_287" style="lover_alert">Você morreu de coração partido!</Entry>
 	<Entry key="GAME_288" style="lover_alert">Você não se importa com um amante, um Cavaleiro não sente amor, não sente dor, não sente felicidade.</Entry>
 	<Entry key="GAME_289" style="bad_alert">Sua [[:17]] foi desmantelada.</Entry><!--Trap-->
+	<Entry key="GAME_SHORT_289" style="bad_alert">[[:17]] desmantelada</Entry><!--Trap-->
 	<Entry key="GAME_290" style="good_alert">Sua [[:17]] em %name% foi ativada por %role%.</Entry><!--Trap-->
+	<Entry key="GAME_SHORT_290" style="good_alert">[[:17]] em %name% ativada por %role%</Entry><!--Trap-->
 	<Entry key="GAME_291" style="bad_alert">Você guardou sua arma por ter matado acidentalmente um membro de Salém!</Entry>
+	<Entry key="GAME_SHORT_291" style="bad_alert">Matou Salemita</Entry>
 	<Entry key="GAME_292" style="bad_alert">Você conseguiu [[:18]] um jogador que visitou você.</Entry><!--Douse-->
+	<Entry key="GAME_SHORT_292" style="bad_alert">Conseguiu [[:18]] um visitante</Entry><!--Douse-->
 	<Entry key="GAME_293" style="bad_alert">Você morreu de fome!</Entry>
 	<Entry key="GAME_294" style="bad_alert">%name2% visitou %name% enquanto você decidiu o [[:11]], e você o atacou!</Entry><!--Shroud-->
+	<Entry key="GAME_SHORT_294" style="bad_alert">Atacou %name% porquê %name2% visitou</Entry><!--Shroud-->
 	<Entry key="GAME_295" style="good_alert">O [[#37]] tentou lhe colocar sob [[:25]], mas sua voz estava bem descansada!</Entry><!--Sielnce-->
+	<Entry key="GAME_SHORT_295" style="good_alert">Tentaram causar [[:25]] mas imune</Entry><!--Silence-->
 	<Entry key="GAME_296" style="good_alert">Você está construindo sua [[:17]].</Entry><!--Trap-->
 	<Entry key="GAME_297" style="good_alert">O [[#27]] se foi! Você consegue descansar tranquilamente agora.</Entry><!--Dreamweaver-->
 	<Entry key="GAME_298" style="good_alert">Ninguém visitou %name% na noite passada.</Entry>
+	<Entry key="GAME_SHORT_298" style="good_alert">Ninguém visitou %name%</Entry>
 	<Entry key="GAME_299" style="good_alert">O [[#12]] decidiu [[:29]] %name%.</Entry><!--knight-->
 	<Entry key="GAME_300" style="bad_alert">Um dos jogadores que você decidiu [[:29]] foi morto.</Entry><!--knight-->
+	<Entry key="GAME_SHORT_300" style="bad_alert">Um Nomeado ([[:29]]) foi morto</Entry><!--knight-->
 	<Entry key="GAME_301" style="plain_white">%role% não possui uma habilidade que pode ser usada.</Entry>
 	<Entry key="GAME_302" style="good_alert">Você passivamente coletou uma alma do Submundo.</Entry>
+	<Entry key="GAME_SHORT_302" style="good_alert">Coletou uma alma</Entry>
 	<Entry key="GAME_303" style="good_alert"></Entry>
 	<Entry key="GAME_304" style="mayor_reveal">%name% alcançou seu objetivo como %role% e deixou a cidade.</Entry>
 	<Entry key="GAME_305" style="bad_alert">Você morreu de [[:38]]!</Entry> <!--scurvy-->
 	<Entry key="GAME_306" style="system">Caso ninguém morra até amanhã, a partida terminará em um empate.</Entry>
 	<Entry key="GAME_307" style="bad_alert">Você atacou alguém visitando %name%.</Entry>
+	<Entry key="GAME_SHORT_307" style="bad_alert">Atacou alguém em %name%</Entry>
 	<Entry key="GAME_308" style="bad_alert">Não haviam jogadores válidos restantes para você assombrar.</Entry>
 	<Entry key="GAME_309" style="bad_alert"></Entry>
 	<Entry key="GAME_310" style="bad_alert"></Entry>
@@ -5314,7 +5354,9 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_330" style="good_alert">Há %number% dias restantes para encontrar o Traidor de Salém.</Entry>
 	<Entry key="GAME_331" style="good_alert">%name% é o Traidor de Salém.</Entry>
 	<Entry key="GAME_332" style="good_alert">Uma sensação de calma tenta envolver você, mas sua determinação é muito forte. A [[#39]] não consegue controlar você.</Entry>
+	<Entry key="GAME_SHORT_332" style="good_alert">Sob [[:16]] mas imune</Entry>
 	<Entry key="GAME_333" style="good_alert">%name% não pôde ser controlado duas noites seguidas.</Entry>
+	<Entry key="GAME_SHORT_333" style="good_alert">%name% é imune a [[:16]]</Entry>
 	<Entry key="GAME_334" style="bad_alert">Você não pode votar por ter sido Silenciado.</Entry>
 	<Entry key="GAME_335" style="good_alert"></Entry>
 	<Entry key="GAME_336" style="good_alert"></Entry>
@@ -5323,17 +5365,25 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_339" style="good_alert"></Entry>
 	<Entry key="GAME_340" style="good_alert"></Entry>
 	<Entry key="GAME_341" style="bad_alert">Você foi mordido por um [[#52]]!</Entry>
+	<Entry key="GAME_SHORT_341" style="bad_alert">Mordido por um [[#52]]</Entry>
 	<Entry key="GAME_342" style="good_alert"></Entry>
 	<Entry key="GAME_343" style="bad_alert">Um [[#52]] conseguiu [[:85]] você!</Entry>
+	<Entry key="GAME_SHORT_343" style="bad_alert">Convertido ([[:85]]) para [[#52]]</Entry>
 	<Entry key="GAME_344" style="bad_alert">Você não escolheu um alvo então um foi escolhido aleatoriamente.</Entry>
+	<Entry key="GAME_SHORT_344" style="bad_alert">Alvo aleatório</Entry>
 	<Entry key="GAME_345" style="bad_alert">Uma [[#53]] trocou de almas com você!</Entry>
+	<Entry key="GAME_SHORT_345" style="bad_alert">Trocado por [[#53]]</Entry>
 	<Entry key="GAME_346" style="good_alert">Você trocou de alma com alguém!</Entry>
+	<Entry key="GAME_SHORT_346" style="good_alert">Almas trocadas</Entry>
 	<Entry key="GAME_347" style="good_alert">%name% foi convertido em um [[#52]]!</Entry>
+	<Entry key="GAME_SHORT_347" style="good_alert">%name% convertido para [[#52]]</Entry>
 	<Entry key="GAME_348" style="good_alert">%name% foi promovido para [[#52]] principal!</Entry>
 	<Entry key="GAME_349" style="bad_alert">Você não escolheu um primeiro alvo então você não realizou nenhuma habilidade noturna.</Entry>
 	<Entry key="GAME_350" style="bad_alert">Você não escolheu um segundo alvo então você não realizou nenhuma habilidade noturna.</Entry>
 	<Entry key="GAME_351" style="lover_alert">Sua [[:37]] secreta é um %role%.</Entry> <!--Obsession-->
+	<Entry key="GAME_SHORT_351" style="lover_alert">[[:37]] é %role%</Entry> <!--Obsession-->
 	<Entry key="GAME_352" style="good_alert">Você conseguiu [[:87]] %name% com sucesso.</Entry>
+	<Entry key="GAME_SHORT_352" style="good_alert">Agraciou ([[:87]]) %name%</Entry>
 	<Entry key="GAME_353" style="good_alert"></Entry>
 	<Entry key="GAME_354" style="good_alert"></Entry>
 	<Entry key="GAME_355" style="good_alert"></Entry>
@@ -5344,6 +5394,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_360" style="good_alert"></Entry>
 	<Entry key="GAME_361" style="good_alert"></Entry>
 	<Entry key="GAME_362" style="bad_alert">Não há mais alvos válidos para serem sua [[:37]] secreta.</Entry> <!--Obsession, Invalid-->
+	<Entry key="GAME_SHORT_362" style="bad_alert">Sem [[:37]] válida</Entry> <!--Obsession, Invalid-->
 	<Entry key="GAME_363" style="good_alert"></Entry>
 	<Entry key="GAME_364" style="good_alert"></Entry>
 	<Entry key="GAME_365" style="good_alert"></Entry>
@@ -5352,31 +5403,44 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_368" style="good_alert"></Entry>
 	<Entry key="GAME_369" style="good_alert"></Entry>
 	<Entry key="GAME_370" style="lover_alert">Sua [[:37]] secreta é um [[#102]].</Entry> <!--Obsession, Town Protective-->
+	<Entry key="GAME_SHORT_370" style="lover_alert">[[:37]] é [[#102]]</Entry> <!--Obsession, Town Protective-->
 	<Entry key="GAME_371" style="lover_alert">Sua [[:37]] secreta é um [[#103]].</Entry> <!--Obsession, Town Killing-->
+	<Entry key="GAME_SHORT_371" style="lover_alert">[[:37]] é [[#103]]</Entry> <!--Obsession, Town Killing-->
 	<Entry key="GAME_372" style="good_alert">Você perdeu seus Alertas restantes enquanto é realizada a Caça ao Traidor de Salém.</Entry><!--Veteran-->
+	<Entry key="GAME_SHORT_372" style="good_alert">Sem Alertas devido à Caça ao Traidor</Entry><!--Veteran-->
 	<Entry key="GAME_373" style="good_alert">%name% não visitou ninguém na noite passada.</Entry>
+	<Entry key="GAME_SHORT_373" style="good_alert">%name% não visitou</Entry>
 	<Entry key="GAME_374" style="good_alert">Seu [[:62]] em %name% foi ativado e revelou a seguinte informação.</Entry>
+	<Entry key="GAME_SHORT_374" style="good_alert">[[:62]] em %name% ativado</Entry>
 	<Entry key="GAME_375" style="bad_alert"></Entry>
 	<Entry key="GAME_376" style="good_alert">Você não possui nenhum ataque absorvido.</Entry><!--Trickster-->
 	<Entry key="GAME_377" style="good_alert"></Entry>
 	<Entry key="GAME_378" style="bad_alert">Você sofreu uma [[:80]]!</Entry><!--doom-->
+	<Entry key="GAME_SHORT_378" style="bad_alert">[[:80]]</Entry><!--doom-->
 	<Entry key="GAME_379" style="bad_alert">%name% sofreu uma [[:80]].</Entry><!--doom-->
+	<Entry key="GAME_SHORT_379" style="bad_alert">%name% sofreu [[:80]]</Entry><!--doom-->
 	<Entry key="GAME_380" style="bad_alert"></Entry><!--Trickster-->
 	<Entry key="GAME_381" style="good_alert">O Modo Rápido foi ativado.</Entry>
 	<Entry key="GAME_382" style="good_alert">%name% levou %name2% para a [[:14]]!</Entry><!--Jail-->
 	<Entry key="GAME_383" style="bad_alert">De alguma maneira, você selecionou a si mesmo. Sua vontade de ferro rejeita essa decisão.</Entry>
 	<Entry key="GAME_384" style="good_alert"></Entry>
 	<Entry key="GAME_385" style="bad_alert">Você Envolveu %name% e ele não visitou ninguém, então você o atacou!</Entry>
+	<Entry key="GAME_SHORT_385" style="bad_alert">Envolveu e %name% por não visitar</Entry>
     <Entry key="GAME_386" style="bad_alert">Você morreu por ter linchado um membro de Salém.</Entry>
     <Entry key="GAME_387" style="good_alert">%name% se reconectou a vida.</Entry>
     <Entry key="GAME_388" style="bad_alert">%name% visitou você e foi acertado por sua [[:15]]!</Entry>
+	<Entry key="GAME_SHORT_388" style="bad_alert">%name% acertado por sua [[:15]]</Entry>
     <Entry key="GAME_389" style="bad_alert">Você deve esperar até o final da primeira noite para condenar jogadores.</Entry>
+	<Entry key="GAME_SHORT_389" style="bad_alert">Não pode condernar ainda</Entry>
     <Entry key="GAME_390" style="good_alert"></Entry>
     <Entry key="GAME_391" style="mayor_reveal"><![CDATA[<color=#06f85c>]]>%name%, o [[#55]], declarou um [[:114]].<![CDATA[</color>]]></Entry>
     <Entry key="GAME_392" style="bad_alert"></Entry><!--UNUSED-->
     <Entry key="GAME_393" style="identity_alert">%name% lidera a milícia da cidade. Ele deve ser o %role%.</Entry><!--Marshal-->
+	<Entry key="GAME_SHORT_393" style="identity_alert">%name% é o %role%.</Entry>
     <Entry key="GAME_394" style="identity_alert">%name% gosta de festejar durante a noite. Ela deve ser uma %role%.</Entry><!--Socialite-->
+	<Entry key="GAME_SHORT_394" style="identity_alert">%name% é uma %role%.</Entry>
     <Entry key="GAME_395" style="spy">Seu [[:62]] detectou que um %role% visitou %name%.</Entry><!--Perception-->
+	<Entry key="GAME_SHORT_395" style="spy">%role% visitou %name%</Entry>
     <Entry key="GAME_396" style="identity_alert">%name% aceitou a oferta do [[#26]] para o [[:74]] e se tornou um %role%.</Entry><!--Retrain and Coven Leader-->
     <Entry key="GAME_397" style="identity_alert">%name% rejeitou a oferta do [[#26]] para o [[:74]].</Entry><!--Retrain and Coven Leader-->
 	<Entry key="GAME_398" style="good_alert"></Entry>
@@ -5384,22 +5448,36 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_400" style="good_alert"></Entry>
 	<Entry key="GAME_401" style="good_alert"></Entry>
 	<Entry key="GAME_402" style="bad_alert">Você descobriu evidência de que %name% está cometendo [[:115]]!</Entry><!--Trespassing-->
+	<Entry key="GAME_SHORT_402" style="bad_alert">%name% cometeu [[:115]]</Entry><!--Trespassing-->
 	<Entry key="GAME_403" style="good_alert">%name% foi adicionado à sua [[:120]]!</Entry>
+	<Entry key="GAME_SHORT_403" style="good_alert">%name% adicionaado à [[:120]]</Entry>
 	<Entry key="GAME_404" style="good_alert">Você decidiu [[:127]] uma bala em sua arma!</Entry><!--Load-->
+	<Entry key="GAME_SHORT_404" style="good_alert">[[:127]] bala</Entry><!--Load-->
 	<Entry key="GAME_405" style="bad_alert">Você não possui balas não carregadas restantes.</Entry>
+	<Entry key="GAME_SHORT405" style="bad_alert">Sem balas não carregadas</Entry>
 	<Entry key="GAME_406" style="good_alert">Você tem %number% balas não carregadas restantes.</Entry>
+	<Entry key="GAME_SHORT_406" style="good_alert">%number% balas</Entry>
 	<Entry key="GAME_407" style="good_alert">Você tem 1 bala não carregada restante.</Entry>
+	<Entry key="GAME_SHORT_407" style="good_alert">1 bala não carregada</Entry>
 	<Entry key="GAME_408" style="identity_alert">Os [[:131]]s são um %role%, um %role2% e um %role3%!</Entry>
+	<Entry key="GAME_SHORT_408" style="identity_alert">%role%, %role2%, e %role3% são [[:131]]s</Entry>
 	<Entry key="GAME_409" style="bad_alert">%name% é um [[:131]]!</Entry>
+	<Entry key="GAME_SHORT_409" style="bad_alert">%name% é um [[:131]]</Entry>
 	<Entry key="GAME_410" style="good_alert">Um [[:131]] pereceu!</Entry>
+	<Entry key="GAME_SHORT_410" style="good_alert">Um [[:131]] pereceu</Entry>
 	<Entry key="GAME_411" style="good_alert">%name% não é um [[:131]].</Entry>
+	<Entry key="GAME_SHORT_411" style="good_alert">%name% não é [[:131]]</Entry>
 	<Entry key="GAME_412" style="bad_alert">Por engano tu decidiste [[:130]] um que não era um [[:131]]! Daqui por diante, nada de [[:130]], cão do mar!</Entry>
+	<Entry key="GAME_SHORT_412" style="bad_alert">Decidiu [[:130]] um não-[[:131]]</Entry>
 	<Entry key="GAME_413" style="good_alert">O [[#9]] tentou [[:64]] você, mas uma [[:32]] protegeu você!</Entry>
+	<Entry key="GAME_SHORT_413" style="good_alert">[[#9]] tentou [[:64]] mas salvo por [[:32]]</Entry>
 	<Entry key="GAME_414" style="bad_alert">Você morreu de tédio porque você não cumpriu o requerimento de [[:129]]!</Entry>
 	<Entry key="GAME_415" style="bad_alert">Você deve cumprir o requerimento de [[:129]] antes de ser linchado pela cidade ou você perderá!</Entry>
 	<Entry key="GAME_416" style="good_alert">O [[#45]] não pode se dar o trabalho de ter sua vingança de além do túmulo!</Entry>
 	<Entry key="GAME_417" style="good_alert">A confiança da Cidade em você está crescendo... você ganhou outro voto!</Entry>
+	<Entry key="GAME_SHORT_417" style="good_alert">Ganhou voto</Entry>
 	<Entry key="GAME_418" style="bad_alert">A confiança da Cidade em você está desaparecendo... você perdeu um voto!</Entry>
+	<Entry key="GAME_SHORT_418" style="bad_alert">Perdeu voto</Entry><!--Mayor (this was scrapped, why does this exist?)-->
 
 	<Entry key="GAME_419" style="good_alert">Você recebeu 1 Ficha do Bufão! Você pode gastá-la ao pressionar o ícone de Ficha do Bufão na Barra de Acesso.</Entry>
 	<Entry key="GAME_420" style="good_alert">Você recebeu %number% Fichas do Bufão!</Entry>
