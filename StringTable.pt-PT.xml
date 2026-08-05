@@ -5005,7 +5005,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_SHORT_90" style="bad_alert">%name2% visitou %name%</Entry>
 	<Entry key="GAME_91" style="bad_alert">Você foi morto por um [[#43]]!</Entry><!--Doomsayer-->
 	<Entry key="GAME_92" style="bad_alert">Você viu o [[#31]] %name% visitar %name2%!</Entry>
-	<Entry key="GAME_SHORT_92" style="bad_alert">%name%, o [[#31]] em %name2%</Entry><!--Jinx-->
+	<Entry key="GAME_SHORT_92" style="bad_alert">%name% é o [[#31]] em %name2%</Entry><!--Jinx-->
 	<Entry key="GAME_93" style="bad_alert"></Entry>
 	<Entry key="GAME_94" style="bad_alert">Você foi morto pelo [[#36]]!</Entry><!--Ritualist-->
 	<Entry key="GAME_95" style="bad_alert">%name% visitou %name2% na noite passada!</Entry>
@@ -5210,9 +5210,9 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_214" style="bad_alert">O [[#9]] decidiu [[:64]] você.</Entry><!--Jailor--><!--Execute-->
 	<Entry key="GAME_215" style="good_alert">O [[#9]] mudou de ideia.</Entry><!--Jailor-->
 	<Entry key="GAME_216" style="good_alert">Alguém tentou te dar uma bebida, mas você estava de [[:30]].</Entry><!--Hungover-->
-	<Entry key="GAME_SHORT_216" style="good_alert">Sofreu [[:31]] mas estava de [[:30]]</Entry><!--Roleblock--><!--Hungover-->
+	<Entry key="GAME_SHORT_216" style="good_alert">[[:31]] sofrido mas estava de [[:30]]</Entry><!--Roleblock--><!--Hungover-->
 	<Entry key="GAME_217" style="plain_white">Você matou um membro de Salém, portanto você não pode atacar novamente.</Entry>
-	<Entry key="GAME_SHORT_217" style="plain_white">Matou Salemita</Entry>
+	<Entry key="GAME_SHORT_217" style="plain_white">Salemita morto</Entry>
 	<Entry key="GAME_218" style="plain_white">%name% deixou um testamento.</Entry>
 	<Entry key="GAME_219" style="plain_white">%name% não deixou um testamento.</Entry>
 	<Entry key="GAME_220" style="transform_alert">O [[#41]] se transformou na [[#250]], Cavaleiro do Apocalipse! Uma grande fome começou!</Entry><!--Baker and Famine-->
@@ -5232,7 +5232,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_227_SELF" style="good_alert">Você conseguiu fazer com que seu alvo fosse linchado!</Entry>
 	<Entry key="GAME_228" style="transform_alert">Uma [[:9]] consumiu a cidade, transformando o [[#47]] na [[#252]], Cavaleiro do Apocalipse!</Entry><!--Plague--><!--Plaguebearer and Pestilence-->
 	<Entry key="GAME_229" style="good_alert">Você coletou a alma de %name% com sucesso.</Entry>
-	<Entry key="GAME_SHORT_229" style="good_alert">Coletou a alma de %name%</Entry>
+	<Entry key="GAME_SHORT_229" style="good_alert">Alma de %name% coletada</Entry>
 	<Entry key="GAME_230" style="transform_alert">Agora o [[#50]] se tornou a [[#253]], Destruidor de Mundos e Cavaleiro do Apocalipse!</Entry><!--Soul Collector and Death-->
 	<Entry key="GAME_231" style="good_alert"></Entry>
 	<Entry key="GAME_232" style="bad_alert"></Entry>
@@ -5305,14 +5305,14 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_290" style="good_alert">Sua [[:17]] em %name% foi ativada por %role%.</Entry><!--Trap-->
 	<Entry key="GAME_SHORT_290" style="good_alert">[[:17]] em %name% ativada por %role%</Entry><!--Trap-->
 	<Entry key="GAME_291" style="bad_alert">Você guardou sua arma por ter matado acidentalmente um membro de Salém!</Entry>
-	<Entry key="GAME_SHORT_291" style="bad_alert">Matou Salemita</Entry>
+	<Entry key="GAME_SHORT_291" style="bad_alert">Salemita morto</Entry>
 	<Entry key="GAME_292" style="bad_alert">Você conseguiu [[:18]] um jogador que visitou você.</Entry><!--Douse-->
 	<Entry key="GAME_SHORT_292" style="bad_alert">Conseguiu [[:18]] um visitante</Entry><!--Douse-->
 	<Entry key="GAME_293" style="bad_alert">Você morreu de fome!</Entry>
 	<Entry key="GAME_294" style="bad_alert">%name2% visitou %name% enquanto você decidiu o [[:11]], e você o atacou!</Entry><!--Shroud-->
 	<Entry key="GAME_SHORT_294" style="bad_alert">Atacou %name% porquê %name2% visitou</Entry><!--Shroud-->
 	<Entry key="GAME_295" style="good_alert">O [[#37]] tentou lhe colocar sob [[:25]], mas sua voz estava bem descansada!</Entry><!--Sielnce-->
-	<Entry key="GAME_SHORT_295" style="good_alert">Tentaram causar [[:25]] mas imune</Entry><!--Silence-->
+	<Entry key="GAME_SHORT_295" style="good_alert">Resistência ao sofrer [[:25]]</Entry><!--Silence-->
 	<Entry key="GAME_296" style="good_alert">Você está construindo sua [[:17]].</Entry><!--Trap-->
 	<Entry key="GAME_297" style="good_alert">O [[#27]] se foi! Você consegue descansar tranquilamente agora.</Entry><!--Dreamweaver-->
 	<Entry key="GAME_298" style="good_alert">Ninguém visitou %name% na noite passada.</Entry>
@@ -5322,7 +5322,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_SHORT_300" style="bad_alert">Um Nomeado ([[:29]]) foi morto</Entry><!--knight-->
 	<Entry key="GAME_301" style="plain_white">%role% não possui uma habilidade que pode ser usada.</Entry>
 	<Entry key="GAME_302" style="good_alert">Você passivamente coletou uma alma do Submundo.</Entry>
-	<Entry key="GAME_SHORT_302" style="good_alert">Coletou uma alma</Entry>
+	<Entry key="GAME_SHORT_302" style="good_alert">Alma coletada</Entry>
 	<Entry key="GAME_303" style="good_alert"></Entry>
 	<Entry key="GAME_304" style="mayor_reveal">%name% alcançou seu objetivo como %role% e deixou a cidade.</Entry>
 	<Entry key="GAME_305" style="bad_alert">Você morreu de [[:38]]!</Entry> <!--scurvy-->
@@ -5365,7 +5365,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_339" style="good_alert"></Entry>
 	<Entry key="GAME_340" style="good_alert"></Entry>
 	<Entry key="GAME_341" style="bad_alert">Você foi mordido por um [[#52]]!</Entry>
-	<Entry key="GAME_SHORT_341" style="bad_alert">Mordido por um [[#52]]</Entry>
+	<Entry key="GAME_SHORT_341" style="bad_alert">Mordido por [[#52]]</Entry>
 	<Entry key="GAME_342" style="good_alert"></Entry>
 	<Entry key="GAME_343" style="bad_alert">Um [[#52]] conseguiu [[:85]] você!</Entry>
 	<Entry key="GAME_SHORT_343" style="bad_alert">Convertido ([[:85]]) para [[#52]]</Entry>
@@ -5383,7 +5383,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_351" style="lover_alert">Sua [[:37]] secreta é um %role%.</Entry> <!--Obsession-->
 	<Entry key="GAME_SHORT_351" style="lover_alert">[[:37]] é %role%</Entry> <!--Obsession-->
 	<Entry key="GAME_352" style="good_alert">Você conseguiu [[:87]] %name% com sucesso.</Entry>
-	<Entry key="GAME_SHORT_352" style="good_alert">Agraciou ([[:87]]) %name%</Entry>
+	<Entry key="GAME_SHORT_352" style="good_alert">%name% Agraciado ([[:87]]) </Entry>
 	<Entry key="GAME_353" style="good_alert"></Entry>
 	<Entry key="GAME_354" style="good_alert"></Entry>
 	<Entry key="GAME_355" style="good_alert"></Entry>
@@ -5425,13 +5425,13 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_383" style="bad_alert">De alguma maneira, você selecionou a si mesmo. Sua vontade de ferro rejeita essa decisão.</Entry>
 	<Entry key="GAME_384" style="good_alert"></Entry>
 	<Entry key="GAME_385" style="bad_alert">Você Envolveu %name% e ele não visitou ninguém, então você o atacou!</Entry>
-	<Entry key="GAME_SHORT_385" style="bad_alert">Envolveu e %name% por não visitar</Entry>
+	<Entry key="GAME_SHORT_385" style="bad_alert">%name% Envolvido e atacado por não visitar</Entry>
     <Entry key="GAME_386" style="bad_alert">Você morreu por ter linchado um membro de Salém.</Entry>
     <Entry key="GAME_387" style="good_alert">%name% se reconectou a vida.</Entry>
-    <Entry key="GAME_388" style="bad_alert">%name% visitou você e foi acertado por sua [[:15]]!</Entry>
-	<Entry key="GAME_SHORT_388" style="bad_alert">%name% acertado por sua [[:15]]</Entry>
+    <Entry key="GAME_388" style="bad_alert">%name% visitou você e foi atingido por sua [[:15]]!</Entry>
+	<Entry key="GAME_SHORT_388" style="bad_alert">%name% atingido por sua [[:15]]</Entry>
     <Entry key="GAME_389" style="bad_alert">Você deve esperar até o final da primeira noite para condenar jogadores.</Entry>
-	<Entry key="GAME_SHORT_389" style="bad_alert">Não pode condernar ainda</Entry>
+	<Entry key="GAME_SHORT_389" style="bad_alert">Não pode condenar ainda</Entry>
     <Entry key="GAME_390" style="good_alert"></Entry>
     <Entry key="GAME_391" style="mayor_reveal"><![CDATA[<color=#06f85c>]]>%name%, o [[#55]], declarou um [[:114]].<![CDATA[</color>]]></Entry>
     <Entry key="GAME_392" style="bad_alert"></Entry><!--UNUSED-->
@@ -5448,7 +5448,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_400" style="good_alert"></Entry>
 	<Entry key="GAME_401" style="good_alert"></Entry>
 	<Entry key="GAME_402" style="bad_alert">Você descobriu evidência de que %name% está cometendo [[:115]]!</Entry><!--Trespassing-->
-	<Entry key="GAME_SHORT_402" style="bad_alert">%name% cometeu [[:115]]</Entry><!--Trespassing-->
+	<Entry key="GAME_SHORT_402" style="bad_alert">%name% [[:115]]</Entry><!--Trespassing-->
 	<Entry key="GAME_403" style="good_alert">%name% foi adicionado à sua [[:120]]!</Entry>
 	<Entry key="GAME_SHORT_403" style="good_alert">%name% adicionaado à [[:120]]</Entry>
 	<Entry key="GAME_404" style="good_alert">Você decidiu [[:127]] uma bala em sua arma!</Entry><!--Load-->
@@ -5464,7 +5464,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_409" style="bad_alert">%name% é um [[:131]]!</Entry>
 	<Entry key="GAME_SHORT_409" style="bad_alert">%name% é um [[:131]]</Entry>
 	<Entry key="GAME_410" style="good_alert">Um [[:131]] pereceu!</Entry>
-	<Entry key="GAME_SHORT_410" style="good_alert">Um [[:131]] pereceu</Entry>
+	<Entry key="GAME_SHORT_410" style="good_alert">[[:131]] pereceu</Entry>
 	<Entry key="GAME_411" style="good_alert">%name% não é um [[:131]].</Entry>
 	<Entry key="GAME_SHORT_411" style="good_alert">%name% não é [[:131]]</Entry>
 	<Entry key="GAME_412" style="bad_alert">Por engano tu decidiste [[:130]] um que não era um [[:131]]! Daqui por diante, nada de [[:130]], cão do mar!</Entry>
@@ -5475,9 +5475,9 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_415" style="bad_alert">Você deve cumprir o requerimento de [[:129]] antes de ser linchado pela cidade ou você perderá!</Entry>
 	<Entry key="GAME_416" style="good_alert">O [[#45]] não pode se dar o trabalho de ter sua vingança de além do túmulo!</Entry>
 	<Entry key="GAME_417" style="good_alert">A confiança da Cidade em você está crescendo... você ganhou outro voto!</Entry>
-	<Entry key="GAME_SHORT_417" style="good_alert">Ganhou voto</Entry>
+	<Entry key="GAME_SHORT_417" style="good_alert">Voto ganho</Entry>
 	<Entry key="GAME_418" style="bad_alert">A confiança da Cidade em você está desaparecendo... você perdeu um voto!</Entry>
-	<Entry key="GAME_SHORT_418" style="bad_alert">Perdeu voto</Entry><!--Mayor (this was scrapped, why does this exist?)-->
+	<Entry key="GAME_SHORT_418" style="bad_alert">Voto perdido</Entry><!--Mayor (this was scrapped, why does this exist?)-->
 
 	<Entry key="GAME_419" style="good_alert">Você recebeu 1 Ficha do Bufão! Você pode gastá-la ao pressionar o ícone de Ficha do Bufão na Barra de Acesso.</Entry>
 	<Entry key="GAME_420" style="good_alert">Você recebeu %number% Fichas do Bufão!</Entry>
