@@ -4865,13 +4865,13 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_2" style="good_alert">Você não conseguiu encontrar evidências de irregularidades. %name% parece inocente.</Entry>
 	<Entry key="GAME_SHORT_2">%name% é Inocente</Entry>
 	<Entry key="GAME_3" style="bad_alert">Alguém te deu uma bebida na noite passada e você dormiu! Você sofreu um [[:31]].</Entry>
-	<Entry key="GAME_SHORT_3">Você sofreu um [[:31]]</Entry>
+	<Entry key="GAME_SHORT_3">[[:31]] sofrido</Entry>
 	<Entry key="GAME_4" style="good_alert">Alguém te deu uma bebida na noite passada, mas você tem uma alta tolerância. Não foi possível causar um [[:31]] a você.</Entry>
-	<Entry key="GAME_SHORT_4" style="good_alert">Você sofreu um [[:31]] mas você é imune</Entry>
+	<Entry key="GAME_SHORT_4" style="good_alert">[[:31]] sofrido mas imune</Entry>
 	<Entry key="GAME_5" style="identity_alert">%name% vive uma vida simples. Ele deve ser um %role%.</Entry>
 	<Entry key="GAME_SHORT_5">%name% é um %role%</Entry>
 	<Entry key="GAME_6" style="bad_alert">Sua voz parece ter se perdido! Você está sob [[:25]].</Entry>
-	<Entry key="GAME_SHORT_6" style="bad_alert">Lhe causaram [[:25]]</Entry>
+	<Entry key="GAME_SHORT_6" style="bad_alert">Sob [[:25]]</Entry>
 	<Entry key="GAME_7" style="identity_alert">%name% é devoto ao Necronomicon. Ele deve ser um %role%.</Entry>
 	<Entry key="GAME_SHORT_7" style="identity_alert">%name% é um %role%.</Entry>
 	<Entry key="GAME_8" style="bad_alert">Você foi morto por um membro do <![CDATA[<style="CovenColor">]]>Coven<![CDATA[</style>]]>!</Entry>
@@ -4904,17 +4904,17 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_SHORT_26" style="good_alert">Sem visitas</Entry>
 	<Entry key="GAME_27" style="bad_alert">Você foi morto por um [[#6]]!</Entry><!--Crusader-->
 	<Entry key="GAME_28" style="identity_alert">%name% é um mestre em doutrinação. Ele deve ser o %role%. </Entry>
-	<Entry key="GAME_SHORT_28" style="identity_alert">%name% é o %role%. </Entry>
+	<Entry key="GAME_SHORT_28" style="identity_alert">%name% é o %role%.</Entry>
 	<Entry key="GAME_29" style="good_alert">Alguém atacou você, mas um [[#3]] lutou com seu atacante!</Entry><!--NEW MESSAGES WITHOUT THE ROLE START FROM HERE.-->
-	<Entry key="GAME_SHORT_29" style="good_alert">Atacado mas salvo por um [[#3]]</Entry>
+	<Entry key="GAME_SHORT_29" style="good_alert">Atacado mas salvo por [[#3]]</Entry>
 	<Entry key="GAME_30" style="good_alert">Alguém atacou você, mas uma [[:17]] salvou você!</Entry><!--Trap-->
 	<Entry key="GAME_SHORT_30" style="good_alert">Atacado mas salvo por [[:17]]</Entry><!--Trap-->
 	<Entry key="GAME_31" style="good_alert">Alguém atacou você, mas uma [[:32]] protegeu você!</Entry><!--Barrier-->
 	<Entry key="GAME_SHORT_31" style="good_alert">Atacado mas salvo por [[:32]]</Entry><!--Barrier-->
 	<Entry key="GAME_32" style="good_alert">Alguém atacou você, mas um [[#6]] protegeu você!</Entry><!--Crusader-->
-	<Entry key="GAME_SHORT_32" style="good_alert">Atacado mas salvo por um [[#6]]</Entry><!--Crusader-->
+	<Entry key="GAME_SHORT_32" style="good_alert">Atacado mas salvo por [[#6]]</Entry><!--Crusader-->
 	<Entry key="GAME_33" style="good_alert">Alguém atacou você, mas sua armadura te protegeu!</Entry><!--Bodyguard Self-->
-	<Entry key="GAME_SHORT_33" style="good_alert">Atacado mas se salvou</Entry><!--Bodyguard Self-->
+	<Entry key="GAME_SHORT_33" style="good_alert">Atacado mas salvo por armadura</Entry><!--Bodyguard Self-->
 	<Entry key="GAME_34" style="good_alert">Alguém atacou você, mas sua defesa enquanto em [[:69]] era muito alta!</Entry><!--Alert-->
 	<Entry key="GAME_SHORT_34" style="good_alert">Atacado mas salvo por [[:69]]</Entry><!--Alert-->
 	<Entry key="GAME_35" style="good_alert">Alguém atacou você, mas sua defesa era muito alta!</Entry>
@@ -4930,13 +4930,13 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_42" style="good_alert">Com os poderes do [[:21]] você possui [[:1]].</Entry>
 	<Entry key="GAME_43" style="fullmoon">Há um [[:137]]. Todos abaixaram suas armas e escudos por essa noite!</Entry>
 	<Entry key="GAME_44" style="bad_alert">Você não é capaz de ouvir nada, você está com [[:138]]!</Entry>
-	<Entry key="GAME_SHORT_44" style="bad_alert">Lhe causaram [[:138]]</Entry><!--Deaf-->
+	<Entry key="GAME_SHORT_44" style="bad_alert">Sob [[:138]]</Entry><!--Deaf-->
 	<Entry key="GAME_45" style="good_alert">O [[#37]] tentou lhe causar [[:138]], mas seus sentidos estão aguçados!</Entry>
-	<Entry key="GAME_SHORT_45" style="good_alert">Tentaram lhe causar [[:138]] mas falharam</Entry>
+	<Entry key="GAME_SHORT_45" style="good_alert">Resistência ao sofrer [[:138]]</Entry>
 	<Entry key="GAME_46" style="bad_alert">Você não consegue ver nada além da escuridão, você está com [[:139]]!</Entry>
-	<Entry key="GAME_SHORT_46" style="bad_alert">Lhe causaram [[:139]]</Entry>
+	<Entry key="GAME_SHORT_46" style="bad_alert">Sob [[:139]]</Entry>
 	<Entry key="GAME_47" style="good_alert">O [[#37]] tentou lhe causar [[:139]], mas seus sentidos estão aguçados!</Entry>
-	<Entry key="GAME_SHORT_47" style="good_alert">Tentaram lhe causar [[:139]] mas falharam</Entry>
+	<Entry key="GAME_SHORT_47" style="good_alert">Resistência ao sofrer [[:139]]</Entry>
 	<Entry key="GAME_48" style="plain_white">Você decidiu causar [[:25]] em seu alvo essa noite.</Entry>
 	<Entry key="GAME_49" style="plain_white">Você decidiu causar [[:138]] em seu alvo essa noite.</Entry>
 	<Entry key="GAME_50" style="plain_white">Você decidiu causar [[:139]] em seu alvo essa noite.</Entry>
@@ -4946,7 +4946,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_54" style="bad_alert">Sua habilidade falhou devido a um [[:122]].</Entry><!--UO-->
 	<Entry key="GAME_SHORT_54" style="bad_alert">[[:122]]</Entry><!--UO-->
 	<Entry key="GAME_55" style="bad_alert">Você encontrou evidências de [[:108]] na casa de %name%!</Entry><!--Murder-->
-	<Entry key="GAME_SHORT_55" style="bad_alert">Evidência de [[:108]] em %name%</Entry><!--Murder-->
+	<Entry key="GAME_SHORT_55" style="bad_alert">%name% [[:108]]</Entry><!--Murder-->
 	<Entry key="GAME_56" style="good_alert">Você não encontrou nenhuma evidência de [[:121]] na casa de %name%.</Entry><!--No Crime-->
 	<Entry key="GAME_SHORT_56" style="good_alert">%name% [[:111]]</Entry><!--No Crime-->
 	<Entry key="GAME_57" style="good_alert">Você sente que %name% e %name2% são amigos!</Entry>
@@ -4967,7 +4967,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_65" style="bad_alert">Você prendeu a [[#251]] e foi obliterado. Carambolas!</Entry><!--War-->
 	<Entry key="GAME_66" style="bad_alert">Você foi assombrado por um [[#45]]. Você morreu de susto!</Entry><!--Jester-->
 	<Entry key="GAME_67" style="good_alert">Você atirou em alguém que te visitou na noite passada!</Entry>
-	<Entry key="GAME_SHORT_67" style="good_alert">Atirou em alguém</Entry>
+	<Entry key="GAME_SHORT_67" style="good_alert">Visitante baleado</Entry>
 	<Entry key="GAME_68" style="good_alert"></Entry>
 	<Entry key="GAME_69" style="bad_alert"></Entry>
 	<Entry key="GAME_70" style="bad_alert">Você encontrou evidências que mostram que %name% é um assassino e sua função é %role%.</Entry>
@@ -4984,9 +4984,9 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_78" style="good_alert"></Entry>
 	<Entry key="GAME_79" style="good_alert"></Entry>
 	<Entry key="GAME_80" style="good_alert">Você protegeu %name%, e uma [[:32]] protegeu você!</Entry>
-	<Entry key="GAME_SHORT_80" style="good_alert">Protegeu %name% e salvo por uma [[:32]]</Entry>
+	<Entry key="GAME_SHORT_80" style="good_alert">Protegi %name% e salvo por uma [[:32]]</Entry>
 	<Entry key="GAME_81" style="good_alert">Você protegeu %name%, e um [[#6]] protegeu você!</Entry><!--Crusader-->
-	<Entry key="GAME_SHORT_81" style="good_alert">Protegeu %name% e salvo por um [[#6]]</Entry><!--Crusader-->
+	<Entry key="GAME_SHORT_81" style="good_alert">Protegi %name% e salvo por um [[#6]]</Entry><!--Crusader-->
 	<Entry key="GAME_82" style="bad_alert">Você foi morto protegendo %name%!</Entry>
 	<Entry key="GAME_83" style="bad_alert">%name% visitou %name2% na noite passada!</Entry>
 	<Entry key="GAME_SHORT_83" style="bad_alert">%name% visitou %name2%</Entry>
