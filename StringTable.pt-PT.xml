@@ -5549,12 +5549,12 @@ Seus ataques matarão qualquer um com o valor de defesa Nenhuma.<br>
 Seu ataque deve ser mais forte do que a defesa de seu alvo para matá-lo com sucesso.</indent>]]>
 </Entry>
     <Entry key="GUI_ROLE_CARD_POWERFUL_ATTACK">Poderoso</Entry>
-    <Entry key="GUI_ROLE_CARD_POWERFUL_ATTACK_TOOLTIP"><![CDATA[<b>Você possui Ataques Poderoso.</b><br>
+    <Entry key="GUI_ROLE_CARD_POWERFUL_ATTACK_TOOLTIP"><![CDATA[<b>Você possui Ataque Poderoso.</b><br>
 Seus ataques matarão qualquer um com o valor de defesa Básica ou Nenhuma.<br>
 Seu ataque deve ser mais forte do que a defesa de seu alvo para matá-lo com sucesso.</indent>]]>
 </Entry>
     <Entry key="GUI_ROLE_CARD_UNSTOPPABLE_ATTACK">Imparável</Entry>
-    <Entry key="GUI_ROLE_CARD_UNSTOPPABLE_ATTACK_TOOLTIP"><![CDATA[<b>You have an Unstoppable Attack.</b><br>
+    <Entry key="GUI_ROLE_CARD_UNSTOPPABLE_ATTACK_TOOLTIP"><![CDATA[<b>Você possui Ataque Imparável.</b><br>
 Seus ataques matarão qualquer um com o valor de defesa Poderosa, Básica ou Nenhuma.<br>
 Seu ataque deve ser mais forte do que a defesa de seu alvo para matá-lo com sucesso.</indent>]]>
 </Entry>
