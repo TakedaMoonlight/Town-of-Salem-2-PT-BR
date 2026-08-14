@@ -4274,6 +4274,7 @@ Você lançará Ilusões sobre todos os seus colegas vivos, fazendo-os parecer i
     <Entry key="GUI_ROLE_ATTRIBUTES_30">Com o Necronomicon, você pode desferir um Ataque Básico em seus alvos não membros do Coven.
 
 Você pode aparecer como uma função de sua escolha quando morrer.</Entry>
+	<Entry key="GUI_ROLE_ATTRIBUTES_30_VOICE">Com o Necronomicon, você pode desferir um Ataque Básico em seus alvos não membros do Coven.</Entry>
 
     <!--Jinx-->
     <Entry key="GUI_ROLE_ABILITY_SUMMARY_31">Você pode escolher ficar à espreita na casa de seu alvo e Azarar um visitante aleatório não membro do Coven.</Entry>
