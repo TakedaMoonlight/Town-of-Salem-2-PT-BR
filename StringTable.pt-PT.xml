@@ -6230,8 +6230,8 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
     <Entry key="GUI_KEYWORD_VFA_TOOLTIP"><![CDATA[
     
 • <style="PowerAlignmentColor">Vote Pelo Alinhamento</style> ou VPA, é uma estratégia utilizada pelos jogadores por certas razões, tanto <style="PowerAlignmentColor">Do Bem</style> quanto <style="PowerAlignmentColor">Do Mal</style>.<br>
-• Essa estratégia consiste em <style="PowerAlignmentColor">Votar</style> jogadores para um Julgamento e forçá-los a dizer seus Alinhamentos, com o risco de ser <style="PowerAlignmentColor">Linchado</style> caso não façam.<br>
-• O motivo do Alinhamento ser dito ao invés da função se deve pelas funções de <style="CovenColor">Ritualista</style> e <style="DoomsayerColor">Condenador</style> poderem matar jogadores caso tenham suas funções exatas.]]></Entry>
+• Essa estratégia consiste em <style="PowerAlignmentColor">Votar</style> jogadores para um Julgamento e forçá-los a dizerem seus Alinhamentos, com o risco de serem <style="PowerAlignmentColor">Linchado</style> caso não façam.<br>
+• O motivo do Alinhamento ser dito ao invés da função se deve ao fato das funções <style="CovenColor">Ritualista</style> e <style="DoomsayerColor">Condenador</style> poderem matar jogadores caso tenham suas funções exatas.]]></Entry>
 	<Entry key="GUI_KEYWORD_PARTY">Festa</Entry>
     <Entry key="GUI_KEYWORD_PARTY_TOOLTIP"><![CDATA[
     
