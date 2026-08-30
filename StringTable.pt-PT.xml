@@ -7868,11 +7868,11 @@ Você desbloqueou "%item%"!</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_43">Vença 25 partidas como Prefeito</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_44">Imperador</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_44">Vença sua primeira partida como Monarca</Entry>
-	<Entry key="GUI_ACHIEVEMENT_TITLE_45">Soberano</Entry>
+	<Entry key="GUI_ACHIEVEMENT_TITLE_45">Realeza</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_45">Vença 5 partidas como Monarca</Entry>
-	<Entry key="GUI_ACHIEVEMENT_TITLE_46">Aristocrata</Entry>
+	<Entry key="GUI_ACHIEVEMENT_TITLE_46">Soberano</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_46">Vença 10 partidas como Monarca</Entry>
-	<Entry key="GUI_ACHIEVEMENT_TITLE_47">Orléans e Bragança</Entry>
+	<Entry key="GUI_ACHIEVEMENT_TITLE_47">Aristocrata</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_47">Vença 25 partidas como Monarca</Entry>
 	<Entry key="GUI_ACHIEVEMENT_TITLE_48">Advogado</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_48">Vença sua primeira partida como Promotor</Entry>
