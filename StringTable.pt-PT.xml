@@ -8897,7 +8897,7 @@ O primeiro a rolar 0 perde.</Entry>
 	<Entry key="GUI_GHOST_LEARN_MORE_TEXT_4">Em breve</Entry>
 
     <Entry key="GUI_SYSTEM_MESSAGE">Sistema</Entry>
-    <Entry key="GUI_DISCONNECTED_FROM_GAME_SERVER">Desconectado do from Servidor do Jogo.</Entry>
+    <Entry key="GUI_DISCONNECTED_FROM_GAME_SERVER">Desconectado do Servidor do Jogo.</Entry>
     <Entry key="GUI_YOU_HAVE_BEEN_DISCONNECTED">Você foi descontado do servidor.</Entry>
 	
 	<Entry key="GUI_DISCONNECT_0">Você foi desconectado do servidor devido a uma razão desconhecida.</Entry>
