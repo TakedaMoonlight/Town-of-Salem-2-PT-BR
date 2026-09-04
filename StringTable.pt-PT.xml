@@ -83,7 +83,7 @@
     <Entry key="ITEM_4_2_BLURB">Essa bolinha de pelo fofa e carinhosa é o animal de estimação perfeito para uma bruxa.</Entry>
     <!--White Wolf / Lobo Branco-->
     <Entry key="ITEM_4_3_BLURB">Um companheiro leal e feroz.</Entry>
-    <!--Gobby-->
+    <!--Gobby / Dendi-->
     <Entry key="ITEM_4_4_BLURB">Vestido com trapos, mas veja só esse sorriso!</Entry>
     <!--Bessie / Mimosa-->
     <Entry key="ITEM_4_5_BLURB">Mimosa é a vaca mais velha da Cidade, mas também a mais durona!</Entry>
@@ -1194,7 +1194,7 @@ Jogo de Cartas</Entry>
 	<Entry key="PET_SKIN_1">Cavalo Pálido</Entry>
     <Entry key="PET_SKIN_2">Gato Preto</Entry>
     <Entry key="PET_SKIN_3">Lobo Branco</Entry>
-    <Entry key="PET_SKIN_4">Gobby</Entry>
+    <Entry key="PET_SKIN_4">Dendi</Entry>
     <Entry key="PET_SKIN_5">Mimosa</Entry>
     <Entry key="PET_SKIN_6">Arânea</Entry>
     <Entry key="PET_SKIN_7">Poe</Entry>
