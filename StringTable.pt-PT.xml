@@ -3251,7 +3251,7 @@ Você pode explorar o guia para mais informações detalhadas, ou volte ao menu 
 	
 <!--Tutorial_Intro-->
 	<Entry key="GUI_TSS_INTRO_FLAVOR1"><![CDATA[Bem-Vindo! Town of Salem 2 é um jogo de dedução social de 15 jogadores onde cada um deles recebe uma Função especial com habilidades distintas. ]]></Entry>
-    <Entry key="GUI_TSS_INTRO_FLAVOR2"><![CDATA[Durante o dia, a paranóica <Style="TownColor">Salém</style> conduz julgamentos e linchamentos contra aqueles cujo acredita que são malfeitores. Durante a noite, o <style="CovenColor">Coven</style> e outros perigos atacam <Style="TownColor">Salém</style> para cumprirem seus próprios objetivos.]]></Entry>
+    <Entry key="GUI_TSS_INTRO_FLAVOR2"><![CDATA[Durante o dia, a paranóica <Style="TownColor">Salém</style> conduz julgamentos e linchamentos contra aqueles que acredita que são malfeitores. Durante a noite, o <style="CovenColor">Coven</style> e outros perigos atacam <Style="TownColor">Salém</style> para cumprirem seus próprios objetivos.]]></Entry>
     <Entry key="GUI_TSS_INTRO_WHATROLE_TITLE"><![CDATA[O que é uma Função?]]></Entry>
     <Entry key="GUI_TSS_INTRO_WHATROLE_CONTENT"><![CDATA[Sua Função é seu trabalho na Cidade, e dita quais habilidades você possui, quem seus colegas de time são, e qual é sua condição de vitória.
 No começo de cada partida, cada jogador recebe uma Função da Lista de Funções da partida. 
