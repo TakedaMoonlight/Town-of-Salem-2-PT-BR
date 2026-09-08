@@ -7777,6 +7777,7 @@ Você desbloqueou "%item%"!</Entry>
     <Entry key="GUI_ACHIEVEMENTS">Conquistas</Entry>
     <Entry key="GUI_ACHIEVEMENT_GENERAL">Geral</Entry>
     <Entry key="GUI_ACHIEVEMENT_TITLE0">Initiation</Entry>
+	<Entry key="GUI_ACHIEVEMENT_DESC_HIDDEN">É um segredo!</Entry>
 	
 	<Entry key="GUI_ACHIEVEMENT_TITLE_0">Adoração</Entry>
 	<Entry key="GUI_ACHIEVEMENT_DESC_0">Vença sua primeira partida como Admirador</Entry>
