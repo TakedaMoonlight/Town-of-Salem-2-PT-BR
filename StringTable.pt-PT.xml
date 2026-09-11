@@ -3114,6 +3114,8 @@ Max vs NPC (%npcMax%)</Entry>
     <Entry key="GUI_FRIEND_STATUS_LOOKUP_ONLINE">Online</Entry>
     <Entry key="GUI_FRIEND_STATUS_LOOKUP_ACTIVE">Online</Entry>
     <Entry key="GUI_FRIEND_STATUS_LOOKUP_ON_HOMEPAGE">Na Página Inicial</Entry>
+	<Entry key="GUI_FRIEND_STATUS_LOOKUP_DISCORD_ONLINE">Online no Discord</Entry>
+    <Entry key="GUI_FRIEND_STATUS_LOOKUP_DISCORD_OFFLINE">Offline no Discord</Entry>
     <Entry key="GUI_FRIEND_STATUS_LOOKUP_AFK">Inativo</Entry>
     <Entry key="GUI_FRIEND_STATUS_LOOKUP_INGAME">Em uma Partida</Entry>
     <Entry key="GUI_FRIEND_STATUS_LOOKUP_INLOBBY">Em um Lobby</Entry>
