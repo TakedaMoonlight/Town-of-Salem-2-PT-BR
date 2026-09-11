@@ -10411,7 +10411,7 @@ They will have revenge from beyond the grave!</Entry>
 	<Entry key="GUI_FACTION_TARGETING_4_NOMICON_CANCEL">%name%, no lugar disso, decide ficar em casa essa noite.</Entry><!--attack with necronomicon-->
 	<Entry key="GUI_FACTION_TARGETING_4_SPECIAL">%name% decidiu lançar uma [[:32]] em si mesmo essa noite.</Entry><!--Barrier-->
 	<Entry key="GUI_FACTION_TARGETING_4_INSTEAD_SPECIAL">%name%, no lugar disso, decide lançar uma [[:32]] em si mesmo essa noite.</Entry><!--Barrier-->
-	<Entry key="GUI_FACTION_TARGETING_4_CANCEL_SPECIAL">%name%, no lugar disso, decided não lançar uma [[:32]] em ninguém essa noite.</Entry><!--Barrier-->
+	<Entry key="GUI_FACTION_TARGETING_4_CANCEL_SPECIAL">%name%, no lugar disso, decide não lançar uma [[:32]] em ninguém essa noite.</Entry><!--Barrier-->
 	<Entry key="GUI_FACTION_TARGETING_4_NOMICON_SPECIAL">%name% decidiu lançar uma [[:32]] em si mesmo essa noite.</Entry><!--Barrier-->
 	<Entry key="GUI_FACTION_TARGETING_4_NOMICON_INSTEAD_SPECIAL">%name%, no lugar disso, decide lançar uma [[:32]] em si mesmo essa noite.</Entry><!--Barrier-->
 	<Entry key="GUI_FACTION_TARGETING_4_NOMICON_CANCEL_SPECIAL">%name%, no lugar disso, decide não lançar uma [[:32]] em ninguém essa noite.</Entry><!--Barrier-->
@@ -10846,7 +10846,7 @@ They will have revenge from beyond the grave!</Entry>
 	<Entry key="GUI_GAME_KILLED_BY_REASON_15">Ele foi morto por um <![CDATA[<style="TownColor"><sprite="RoleIcons" name="Role6">]]>%name_role6%<![CDATA[</style>]]>.</Entry>
 	<Entry key="GUI_GAME_KILLED_BY_REASON_16">Ele foi morto por um <![CDATA[<style="TownColor"><sprite="RoleIcons" name="Role21">]]>%name_role21%<![CDATA[</style>]]>.</Entry>
 	<Entry key="GUI_GAME_KILLED_BY_REASON_17">Ele foi morto pelo <![CDATA[<style="CovenColor"><sprite="RoleIcons" name="Role31">]]>%name_role31%<![CDATA[</style>]]>.</Entry>
-	<Entry key="GUI_GAME_KILLED_BY_REASON_18">Ele sucumbiu a pestilência.</Entry>
+	<Entry key="GUI_GAME_KILLED_BY_REASON_18">Ele sucumbiu à pestilência.</Entry>
 	<Entry key="GUI_GAME_KILLED_BY_REASON_19">Ele foi massacrado pelo <![CDATA[<style="ApocalypseColor"><sprite="RoleIcons" name="Role42">]]>%name_role42%<![CDATA[</style>]]>.</Entry>
 	<Entry key="GUI_GAME_KILLED_BY_REASON_20">Ele foi saqueado por um <![CDATA[<style="PirateColor"><sprite="RoleIcons" name="Role46">]]>%name_role46%<![CDATA[</style>]]>.</Entry>
 	<Entry key="GUI_GAME_KILLED_BY_REASON_21">Ele foi morto pelo <![CDATA[<style="CovenColor"><sprite="RoleIcons" name="Role36">]]>%name_role36%<![CDATA[</style>]]>.</Entry>
@@ -10888,7 +10888,7 @@ They will have revenge from beyond the grave!</Entry>
 	<Entry key="GUI_GAME_ALSO_KILLED_BY_REASON_15">Ele também foi morto por um <![CDATA[<style="TownColor"><sprite="RoleIcons" name="Role6">]]>%name_role6%<![CDATA[</style>]]>.</Entry>
 	<Entry key="GUI_GAME_ALSO_KILLED_BY_REASON_16">Ele também foi morto por um <![CDATA[<style="TownColor"><sprite="RoleIcons" name="Role21">]]>%name_role21%<![CDATA[</style>]]>.</Entry>
 	<Entry key="GUI_GAME_ALSO_KILLED_BY_REASON_17">Ele também foi morto pelo <![CDATA[<style="CovenColor"><sprite="RoleIcons" name="Role31">]]>%name_role31%<![CDATA[</style>]]>.</Entry>
-	<Entry key="GUI_GAME_ALSO_KILLED_BY_REASON_18">Ele também sucumbiu a pestilência.</Entry>
+	<Entry key="GUI_GAME_ALSO_KILLED_BY_REASON_18">Ele também sucumbiu à pestilência.</Entry>
 	<Entry key="GUI_GAME_ALSO_KILLED_BY_REASON_19">Ele também foi massacrado pelo <![CDATA[<style="ApocalypseColor"><sprite="RoleIcons" name="Role42">]]>%name_role42%<![CDATA[</style>]]>.</Entry>
 	<Entry key="GUI_GAME_ALSO_KILLED_BY_REASON_20">Ele também foi saqueado por um <![CDATA[<style="PirateColor"><sprite="RoleIcons" name="Role46">]]>%name_role46%<![CDATA[</style>]]>.</Entry>
 	<Entry key="GUI_GAME_ALSO_KILLED_BY_REASON_21">Ele também foi morto pelo <![CDATA[<style="CovenColor"><sprite="RoleIcons" name="Role36">]]>%name_role36%<![CDATA[</style>]]>.</Entry>
