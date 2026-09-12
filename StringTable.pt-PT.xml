@@ -2212,7 +2212,7 @@ Conquistas</Entry>
   <Entry key="GUI_GAME_TYPE_18">Monojulgamento</Entry>
   <Entry key="GUI_GAME_TYPE_19">Clássico</Entry>
   <Entry key="GUI_GAME_TYPE_20">Partida Rápida</Entry>
-  <Entry key="GUI_GAME_TYPE_25">Todos Aleatórios Malucos</Entry>
+  <Entry key="GUI_GAME_TYPE_25">Tolos Aleatórios</Entry>
   <Entry key="GUI_GAME_TYPE_26">Casual</Entry>
   <Entry key="GUI_GAME_TYPE_27">Teste de Ranqueada</Entry>
   <Entry key="GUI_GAME_TYPE_28">Todos Aleatórios Verdadeiro</Entry>
@@ -2256,7 +2256,7 @@ Necessárias 10 partidas jogadas.</Entry><Entry key="GUI_GAME_TYPE_DESC_22">Prá
 Necessárias 10 partidas jogadas.</Entry><Entry key="GUI_GAME_TYPE_DESC_23">Prática de Ranqueada permite que os jogadores testem suas habilidades com uma lista de funções balanceada para jogadores experientes.
 Necessárias 10 partidas jogadas.</Entry><Entry key="GUI_GAME_TYPE_DESC_24">Prática de Ranqueada permite que os jogadores testem suas habilidades com uma lista de funções balanceada para jogadores experientes.
 Necessárias 10 partidas jogadas.</Entry>	
-	<Entry key="GUI_GAME_TYPE_DESC_25">Todos Aleatórios Malucos é um verdadeiro... Jogo de Sorte?</Entry>
+	<Entry key="GUI_GAME_TYPE_DESC_25">Tolos Aleatórios é um verdadeiro... Jogo de Sorte?</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_26">Casual permite que você vote para qual lista de funções dentre uma seleção específica você gostaria de jogar, o modo com o maior número de votos vence!</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_27">Teste de Ranqueada permite que os jogadores testem suas habilidades com listas de funções balanceadas para jogadores experientes.</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_28"><![CDATA[Todos Aleatórios Verdadeiro é uma verdadeira... <shake a=0.3><style=ApocalypseColor>Anarquia</style>]]></Entry>
