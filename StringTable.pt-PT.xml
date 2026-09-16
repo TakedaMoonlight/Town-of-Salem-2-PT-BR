@@ -3596,6 +3596,7 @@ Funções de <Style="TownColor">Salém</style> <style="InvestigativeAlignmentCol
     <Entry key="GUI_ROLENAME_215">Eleição</Entry>
     <Entry key="GUI_ROLENAME_216">Período Próspero</Entry>
     <Entry key="GUI_ROLENAME_217">Anomalia</Entry>
+	<Entry key="GUI_ROLENAME_218">Sem Pergaminhos</Entry>
 
 	<Entry key="GUI_ROLENAME_241">Oculta</Entry>
 
