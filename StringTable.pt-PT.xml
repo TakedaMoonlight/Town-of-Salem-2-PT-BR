@@ -6306,7 +6306,8 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 	
 • O Modificador de <style="PowerAlignmentColor">Quatro Cavaleiros</style> permite que até 4 funções do <style="ApocalypseColor">Apocalipse</style> possam spawnar na mesma partida.<br>
 • As funções do <style="ApocalypseColor">Apocalipse</style> irão começar com <style="PowerAlignmentColor">Defesa Nenhuma</style> e irão compartilhar um chat noturno.<br>
-• As funções do <style="ApocalypseColor">Apocalipse</style> irão aparecer como <style="PowerAlignmentColor">Suspeitos</style> para um <style="TownColor">Xerife</style>, exceto o <style=ApocalypseColor">Berserker</style>.]]></Entry>	
+• As funções do <style="ApocalypseColor">Apocalipse</style> irão aparecer como <style="PowerAlignmentColor">Suspeitos</style> para <style="TownColor">Xerifes</style>.<br>
+• Os Modificador é desabilitado automaticamente caso apenas uma função do <style="ApocalypseColor">Apocalipse</style> esteja viva.]]></Entry>	
 	<Entry key="GUI_KEYWORD_AEGIS">Égide</Entry>
 	<Entry key="GUI_KEYWORD_AEGIS_TOOLTIP"><![CDATA[
 
