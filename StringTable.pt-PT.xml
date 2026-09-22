@@ -203,7 +203,7 @@
 	<!--Poisoner / Envenenadora-->
 	<Entry key="ITEM_5_65_BLURB">A Envenenadora coloca plantas perigosas discretamente nas bebidas dos moradores da cidade.</Entry>
 	<!--Blueflame / Chamázul-->
-	<Entry key="ITEM_5_69_BLURB">O fogo de Chamázul é duas vezes mais quente do que o do Incendiário!</Entry>
+	<Entry key="ITEM_5_69_BLURB">O fogo de Chamázul é duas vezes mais quente do que o do Arsonista!</Entry>
     
     <!--ACCESSORIES-->
     <!--
@@ -3584,7 +3584,7 @@ Funções de <Style="TownColor">Salém</style> <style="InvestigativeAlignmentCol
     <Entry key="GUI_ROLENAME_203">Cidade Fantasma</Entry>
     <Entry key="GUI_ROLENAME_204">Cidade Perfeita</Entry>
     <Entry key="GUI_ROLENAME_205">Modo Lento</Entry>
-    <Entry key="GUI_ROLENAME_206">Modo Acelerado</Entry>
+    <Entry key="GUI_ROLENAME_206">Modo Rápido</Entry>
     <Entry key="GUI_ROLENAME_207">Votação Anônima</Entry>
     <Entry key="GUI_ROLENAME_208">Assassinos Secretos</Entry>
     <Entry key="GUI_ROLENAME_209">Funções Ocultas</Entry>
@@ -3694,7 +3694,7 @@ Funções de <Style="TownColor">Salém</style> <style="InvestigativeAlignmentCol
     <Entry key="GUI_ROLE_SHORTNAME_203">Cidade Fantasma</Entry>
     <Entry key="GUI_ROLE_SHORTNAME_204">Cidade Perfeita</Entry>
     <Entry key="GUI_ROLE_SHORTNAME_205">Modo Lento</Entry>
-    <Entry key="GUI_ROLE_SHORTNAME_206">Modo Acelerado</Entry>
+    <Entry key="GUI_ROLE_SHORTNAME_206">Modo Rápido</Entry>
     <Entry key="GUI_ROLE_SHORTNAME_207">Votação Anônima</Entry>
     <Entry key="GUI_ROLE_SHORTNAME_208">Assassinos Secretos</Entry>
     <Entry key="GUI_ROLE_SHORTNAME_209">Funções Ocultas</Entry>
@@ -4794,7 +4794,7 @@ Votação Anônima faz com que todos os votos sejam anônimos quando um jogador 
   	</Entry>
 
   	<Entry key="GUI_ROLEDESC_KILLER_ROLES_HIDDEN">
-Assassinos Ocultos previne que a função do assassino seja revelada quando um jogador é morto.<![CDATA[<br><br>]]>
+Assassinos Secretos previne que a função do assassino seja revelada quando um jogador é morto.<![CDATA[<br><br>]]>
   	</Entry>
 
   	<Entry key="GUI_ROLEDESC_ROLES_HIDDEN_ON_DEATH">
@@ -5424,7 +5424,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_379" style="bad_alert">%name% sofreu uma [[:80]].</Entry><!--doom-->
 	<Entry key="GAME_SHORT_379" style="bad_alert">%name% sofreu [[:80]]</Entry><!--doom-->
 	<Entry key="GAME_380" style="bad_alert"></Entry><!--Trickster-->
-	<Entry key="GAME_381" style="good_alert">O Modo Rápido foi ativado.</Entry>
+	<Entry key="GAME_381" style="good_alert">O Modo Acelerado foi ativado.</Entry>
 	<Entry key="GAME_382" style="good_alert">%name% levou %name2% para a [[:14]]!</Entry><!--Jail-->
 	<Entry key="GAME_383" style="bad_alert">De alguma maneira, você selecionou a si mesmo. Sua vontade de ferro rejeita essa decisão.</Entry>
 	<Entry key="GAME_384" style="good_alert"></Entry>
@@ -6124,11 +6124,11 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
     
 • Um <style="TownColor">Malandro</style> pode colocar <style="PowerAlignmentColor">Espelhos Mágicos</style> em qualquer um que ele queira durante a noite<br>
 • Quando um <style="TownColor">Malandro</style> absorve um <style="PowerAlignmentColor">Ataque</style> com sucesso através do <style="PowerAlignmentColor">Espelho Mágico</style>, ele pode <style="PowerAlignmentColor">Liberar</style> o <style="PowerAlignmentColor">Ataque</style> em outro jogador em uma noite futura.]]></Entry>
-	<Entry key="GUI_KEYWORD_RAPIDMODE">Modo Rápido</Entry>
+	<Entry key="GUI_KEYWORD_RAPIDMODE">Modo Acelerado</Entry>
     <Entry key="GUI_KEYWORD_RAPIDMODE_TOOLTIP"><![CDATA[
     
-• O <style="PowerAlignmentColor">Modo Rápido</style> ativa em cenário de 1v1 que não sejam um impasse para ajudar a acelerar a partida.<br>
-• Durante o <style="PowerAlignmentColor">Modo Rápido</style> a fase de discussão e a fase de votação irão durar apenas 10 segundos. A fase da Noite terá apenas 15 segundos.]]></Entry>
+• O <style="PowerAlignmentColor">Modo Acelerado</style> ativa em cenários de 1v1 que não sejam um impasse para ajudar a acelerar a partida.<br>
+• Durante o <style="PowerAlignmentColor">Modo Acelerado</style> a Fase de Discussão e a Fase de Votação durarão apenas 10 segundos. A Fase da Noite durará apenas 15 segundos.]]></Entry>
 	<Entry key="GUI_KEYWORD_GHOSTTOWN">Cidade Fantasma</Entry>
     <Entry key="GUI_KEYWORD_GHOSTTOWN_TOOLTIP"><![CDATA[
     
@@ -6174,10 +6174,10 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
     <Entry key="GUI_KEYWORD_SLOWMODE_TOOLTIP"><![CDATA[
     
 • O <style="PowerAlignmentColor">Modo Lento</style> dobra o tempo que os jogadores tem para discutir e votar!]]></Entry>
-	<Entry key="GUI_KEYWORD_FASTMODE">Modo Acelerado</Entry>
+	<Entry key="GUI_KEYWORD_FASTMODE">Modo Rápido</Entry>
     <Entry key="GUI_KEYWORD_FASTMODE_TOOLTIP"><![CDATA[
     
-• O <style="PowerAlignmentColor">Modo Acelerado</style> reduz pela metade a quantidade de tempo que os jogadores têm para discussão e votação!]]></Entry>
+• O <style="PowerAlignmentColor">Modo Rápido</style> reduz pela metade a quantidade de tempo que os jogadores têm para discussão e votação!]]></Entry>
 	<Entry key="GUI_KEYWORD_ANONYMOUSVOTING">Votação Anônima</Entry>
     <Entry key="GUI_KEYWORD_ANONYMOUSVOTING_TOOLTIP"><![CDATA[
 
@@ -9664,11 +9664,11 @@ They will have revenge from beyond the grave!</Entry>
 	<Entry key="GUI_ROLE_TARGETING_18_NOMICON_INSTEAD">Em vez disso, você decide atacar e colocar um [[:62]] na casa de %target% essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_18_NOMICON_CANCEL">Em vez disso, você decide ficar em casa essa noite.</Entry>
     <!--ROLE 19 = TAVERN KEEPER-->
-    <Entry key="GUI_ROLE_TARGETING_19">Você decidiu beber com %target% essa noite.</Entry>
-    <Entry key="GUI_ROLE_TARGETING_19_INSTEAD">Em vez disso, você decide beber com %target% essa noite.</Entry>
-    <Entry key="GUI_ROLE_TARGETING_19_CANCEL">Em vez disso, você decide não beber com ninguém essa noite.</Entry>
-	<Entry key="GUI_ROLE_TARGETING_19_NOMICON">Você decidiu beber e atacar %target% essa noite.</Entry>
-	<Entry key="GUI_ROLE_TARGETING_19_NOMICON_INSTEAD">Em vez disso, você decide beber e atacar %target% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_19">Você decidiu [[:73]] com %target% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_19_INSTEAD">Em vez disso, você decide [[:73]] com %target% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_19_CANCEL">Em vez disso, você decide não [[:73]] com ninguém essa noite.</Entry>
+	<Entry key="GUI_ROLE_TARGETING_19_NOMICON">Você decidiu [[:73]] e atacar %target% essa noite.</Entry>
+	<Entry key="GUI_ROLE_TARGETING_19_NOMICON_INSTEAD">Em vez disso, você decide [[:73]] e atacar %target% essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_19_NOMICON_CANCEL">Em vez disso, você decide ficar em casa essa noite.</Entry>
     <!--ROLE 20 = TRACKER-->
     <Entry key="GUI_ROLE_TARGETING_20">Você decidiu [[:63]] %target% essa noite.</Entry><!--track-->
@@ -9822,18 +9822,18 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_ROLE_TARGETING_33_NOMICON_INSTEAD_TARGET2_SELF">Em vez disso, você decide comandar seu %monstertype% para %actiontype% você essa noite.</Entry>
     <Entry key="GUI_ROLE_TARGETING_33_NOMICON_CANCEL_TARGET2">Em vez disso, você decide não comandar seu %monstertype% para nenhuma ação essa noite.</Entry>
     <!--ROLE 34 = POISONER-->
-    <Entry key="GUI_ROLE_TARGETING_34">Você decidiu beber com %target% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_34">Você decidiu [[:73]] com %target% essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_34_TARGET2">Você decidiu colocar [[:36]] na casa de %target2% essa noite.</Entry><!--Smog-->
-    <Entry key="GUI_ROLE_TARGETING_34_INSTEAD">Em vez disso, você decide beber com %target% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_34_INSTEAD">Em vez disso, você decide [[:73]] com %target% essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_34_INSTEAD_TARGET2">Em vez disso, você decide colocar [[:36]] na casa de %target2% essa noite.</Entry><!--Smog-->
     <Entry key="GUI_ROLE_TARGETING_34_CANCEL">Em vez disso, você decide ficar em casa essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_34_CANCEL_TARGET2">Em vez disso, você decide ficar em casa essa noite.</Entry>
     <Entry key="GUI_ROLE_TARGETING_34_CANCEL_SPECIAL">Em vez disso, você decide não colocar [[:36]] em ninguém essa noite.</Entry><!--Smog-->
-    <Entry key="GUI_ROLE_TARGETING_34_NOMICON">Você decidiu beber e atacar %target% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_34_NOMICON">Você decidiu [[:73]] e atacar %target% essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_34_NOMICON_TARGET2">Você decidiu colocar [[:36]] na casa de %target2% essa noite.</Entry><!--Smog-->
-    <Entry key="GUI_ROLE_TARGETING_34_NOMICON_INSTEAD">Em vez disso, você decide beber e atacar %target% essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_34_NOMICON_INSTEAD">Em vez disso, você decide [[:73]] e atacar %target% essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_34_NOMICON_INSTEAD_TARGET2">Em vez disso, você decide colocar [[:36]] na casa de %target2% essa noite.</Entry><!--Smog-->
-    <Entry key="GUI_ROLE_TARGETING_34_NOMICON_CANCEL">Em vez disso, você decide não beber ou atacar ninguém essa noite.</Entry>
+    <Entry key="GUI_ROLE_TARGETING_34_NOMICON_CANCEL">Em vez disso, você decide não [[:73]] ou atacar ninguém essa noite.</Entry>
 	<Entry key="GUI_ROLE_TARGETING_34_NOMICON_CANCEL_TARGET2">Em vez disso, você decide não colocar [[:36]] em ninguém essa noite.</Entry><!--Smog-->
     <!--ROLE 35 = POTION MASTER-->
     <Entry key="GUI_ROLE_TARGETING_35">Você decidiu lançar uma [[:32]] em %target%.</Entry>
@@ -10238,18 +10238,18 @@ They will have revenge from beyond the grave!</Entry>
     <Entry key="GUI_FACTION_TARGETING_33_NOMICON_INSTEAD_TARGET2_SELF">%name%, no lugar disso, decide comandar %monstertype% para %actiontype% ele essa noite.</Entry>
     <Entry key="GUI_FACTION_TARGETING_33_NOMICON_CANCEL_TARGET2">%name%, no lugar disso, decide não comandar seu %monstertype% para nenhuma ação essa noite.</Entry>
 	<!--ROLE 34 = POISONER-->
-	<Entry key="GUI_FACTION_TARGETING_34">%name% decidiu beber com %target% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_34">%name% decidiu [[:73]] com %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_34_TARGET2">%name% decidiu colocar [[:36]] na casa de %target2% essa noite.</Entry><!--Smog-->
-	<Entry key="GUI_FACTION_TARGETING_34_INSTEAD">%name%, no lugar disso, decide beber com %target% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_34_INSTEAD">%name%, no lugar disso, decide [[:73]] com %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_34_INSTEAD_TARGET2">%name%, no lugar disso, decide colocar [[:36]] na casa de %target2% essa noite.</Entry><!--Smog-->
 	<Entry key="GUI_FACTION_TARGETING_34_CANCEL">%name%, no lugar disso, decide ficar em casa essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_34_CANCEL_TARGET2">%name%, no lugar disso, decide ficar em casa essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_34_CANCEL_SPECIAL">%name%, no lugar disso, decide não colocar [[:36]] na casa de ninguém essa noite.</Entry><!--Smog-->
-	<Entry key="GUI_FACTION_TARGETING_34_NOMICON">%name% decidiu beber e atacar %target% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_34_NOMICON">%name% decidiu [[:73]] e atacar %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_34_NOMICON_TARGET2">%name% decidiu colocar [[:36]] na casa de %target2% essa noite.</Entry><!--Smog-->
-	<Entry key="GUI_FACTION_TARGETING_34_NOMICON_INSTEAD">%name%, no lugar disso, decide beber e atacar %target% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_34_NOMICON_INSTEAD">%name%, no lugar disso, decide [[:73]] e atacar %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_34_NOMICON_INSTEAD_TARGET2">%name%, no lugar disso, decide colocar [[:36]] na casa de %target2% essa noite.</Entry><!--Smog-->
-	<Entry key="GUI_FACTION_TARGETING_34_NOMICON_CANCEL">%name%, no lugar disso, decide não beber ou atacar ninguém essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_34_NOMICON_CANCEL">%name%, no lugar disso, decide não [[:73]] ou atacar ninguém essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_34_NOMICON_CANCEL_TARGET2">%name%, no lugar disso, decide não colocar [[:36]] na casa de ninguém essa noite.</Entry><!--Smog-->
     <!--ROLE 35 = POTION MASTER-->
     <Entry key="GUI_FACTION_TARGETING_35">%name% decidiu lançar uma [[:32]] em %target%.</Entry>
@@ -10552,11 +10552,11 @@ They will have revenge from beyond the grave!</Entry>
 	<Entry key="GUI_FACTION_TARGETING_18_NOMICON_INSTEAD">%name%, no lugar disso, decide atacar e colocar um [[:62]] na casa de %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_18_NOMICON_CANCEL">%name%, no lugar disso, decide ficar em casa essa noite.</Entry>
 	<!--ROLE 19 = TAVERN KEEPER-->
-	<Entry key="GUI_FACTION_TARGETING_19">%name% decidiu beber com %target% essa noite.</Entry>
-	<Entry key="GUI_FACTION_TARGETING_19_INSTEAD">%name%, no lugar disso, decide beber com %target% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_19">%name% decidiu [[:73]] com %target% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_19_INSTEAD">%name%, no lugar disso, decide [[:73]] com %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_19_CANCEL">%name%, no lugar disso, decide ficar em casa essa noite.</Entry>
-	<Entry key="GUI_FACTION_TARGETING_19_NOMICON">%name% decidiu beber e atacar %target% essa noite.</Entry>
-	<Entry key="GUI_FACTION_TARGETING_19_NOMICON_INSTEAD">%name%, no lugar disso, decide beber e atacar %target% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_19_NOMICON">%name% decidiu [[:73]] e atacar %target% essa noite.</Entry>
+	<Entry key="GUI_FACTION_TARGETING_19_NOMICON_INSTEAD">%name%, no lugar disso, decide [[:73]] e atacar %target% essa noite.</Entry>
 	<Entry key="GUI_FACTION_TARGETING_19_NOMICON_CANCEL">%name%, no lugar disso, decide ficar em casa essa noite.</Entry>
 	<!--ROLE 20 = TRACKER-->
 	<Entry key="GUI_FACTION_TARGETING_20">%name% decidiu [[:63]] %target% essa noite.</Entry><!--track-->
