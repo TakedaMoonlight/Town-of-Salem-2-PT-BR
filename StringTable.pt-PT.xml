@@ -5424,7 +5424,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_379" style="bad_alert">%name% sofreu uma [[:80]].</Entry><!--doom-->
 	<Entry key="GAME_SHORT_379" style="bad_alert">%name% sofreu [[:80]]</Entry><!--doom-->
 	<Entry key="GAME_380" style="bad_alert"></Entry><!--Trickster-->
-	<Entry key="GAME_381" style="good_alert">O Modo Acelerado foi ativado.</Entry>
+	<Entry key="GAME_381" style="good_alert">O [[:93]] foi ativado.</Entry>
 	<Entry key="GAME_382" style="good_alert">%name% levou %name2% para a [[:14]]!</Entry><!--Jail-->
 	<Entry key="GAME_383" style="bad_alert">De alguma maneira, você selecionou a si mesmo. Sua vontade de ferro rejeita essa decisão.</Entry>
 	<Entry key="GAME_384" style="good_alert"></Entry>
@@ -5631,9 +5631,20 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 • <style="PowerAlignmentColor">Ataques Imparáveis</style> matarão qualquer um que tenha <style="PowerAlignmentColor">Defesa Poderosa</style>, Básica ou Nenhuma.<br>
 • O <style="PowerAlignmentColor">Ataque</style> de um jogador deve ser mais forte do que a <style="PowerAlignmentColor">Defesa</style> do alvo para conseguir matá-lo.]]></Entry>
     <Entry key="GUI_KEYWORD_ASTRAL_VISIT">Visita Astral</Entry>
-    <Entry key="GUI_KEYWORD_ASTRAL_VISIT_TOOLTIP"><![CDATA[
+    <Entry key="GUI_KEYWORD_ASTRAL_VISIT_TOOLTIP">
+	<![CDATA[<style="PowerAlignmentColor">Visitas Astrais</style> não ativam habilidades que dependam de <style="PowerAlignmentColor">Visitas</style> e não podem ser detectadas. Habilidades <style="PowerAlignmentColor">Astrais</style> não podem ser impedidas por <style="PowerAlignmentColor">Obstáculos Desconhecidos</style>.
 
-• <style="PowerAlignmentColor">Visitas Astrais</style> não ativarão nenhuma mecânica que dependa de visitas a jogadores. Isso inclui: <style="TownColor">]]>%name_role10%es<![CDATA[</style>]]>, <![CDATA[<style="TownColor">]]>%name_role20%es<![CDATA[</style>]]>, <![CDATA[<style="TownColor">]]>%name_role23%s<![CDATA[</style>]]>, <![CDATA[<style="TownColor">]]>%name_role3%<![CDATA[</style>]]>, <![CDATA[<style="TownColor">]]>%name_role21%s<![CDATA[</style>]]>, <![CDATA[<style="TownColor">]]>%name_role22%s<![CDATA[</style>]]>, <![CDATA[<style="TownColor">]]>%name_role6%s<![CDATA[</style>]]>, o <![CDATA[<style="CovenColor">]]>%name_role31%<![CDATA[</style>]]>, o <![CDATA[<style="ApocalypseColor">]]>%name_role47%<![CDATA[</style>]]>, a <![CDATA[<style="ApocalypseColor">]]>Peste<![CDATA[</style>]]>, o <![CDATA[<style="ApocalypseColor">]]>%name_role42%<![CDATA[</style>]]>, a <![CDATA[<style="ApocalypseColor">]]>Guerra<![CDATA[</style>]]>, <![CDATA[<style="ArsonistColor">]]>%name_role40%s<![CDATA[</style>]]> e <![CDATA[<style="WerewolfColor">]]>Lobisomens<![CDATA[</style>]]>.</Entry>
+São <style="PowerAlignmentColor">Visitas Astrais</style>: 
+• <style="CovenColor">Mestre das Maldições</style> (com o <style="PowerAlignmentColor">Necronomicon</style>)
+• <style="CovenColor">Ritualista</style> (<style="PowerAlignmentColor">Ritual de Sangue</style>)
+• <style="DoomsayerColor">Condenador</style> (<style="PowerAlignmentColor">Condenação</style>)
+• <style="CovenColor">Ilusionista</style> (<style="PowerAlignmentColor">Ilusão</style>, selecionando um membro do <style="CovenColor">Coven</style> como alvo)
+• <style="ApocalypseColor">Coletor de Almas</style> (Ceifar)
+• <style="ShroudColor">Mortalha</style> (<style="PowerAlignmentColor">Envolver</style>)
+• <style="TownColor">Oráculo</style> (<style="PowerAlignmentColor">Égide</style>)
+• <style="CursedSoulColor">Alma Amaldiçoada</style> (<style="PowerAlignmentColor">Troca de Almas</style>)
+• As visitas de um jogador <style="PowerAlignmentColor">Agraciado</style> por um <Style="TownColor">Admirador</style>
+• As visitas de um <style="PowerAlignmentColor">Soberano</style> não-membro do time de <style="TownColor">Salém</style>]]></Entry>
     <Entry key="GUI_KEYWORD_NONE_DEFENSE">Defesa Nenhuma</Entry>
     <Entry key="GUI_KEYWORD_NONE_DEFENSE_TOOLTIP"><![CDATA[
 
