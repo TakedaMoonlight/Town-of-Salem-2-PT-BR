@@ -5633,7 +5633,7 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
     <Entry key="GUI_KEYWORD_ASTRAL_VISIT">Visita Astral</Entry>
     <Entry key="GUI_KEYWORD_ASTRAL_VISIT_TOOLTIP"><![CDATA[
 		
-		<style="PowerAlignmentColor">Visitas Astrais</style> não ativam habilidades que dependam de <style="PowerAlignmentColor">Visitas</style> e não podem ser detectadas. Habilidades <style="PowerAlignmentColor">Astrais</style> não podem ser impedidas por <style="PowerAlignmentColor">Obstáculos Desconhecidos</style>.
+	<style="PowerAlignmentColor">Visitas Astrais</style> não ativam habilidades que dependam de <style="PowerAlignmentColor">Visitas</style> e não podem ser detectadas. Habilidades <style="PowerAlignmentColor">Astrais</style> não podem ser impedidas por <style="PowerAlignmentColor">Obstáculos Desconhecidos</style>.
 
 São <style="PowerAlignmentColor">Visitas Astrais</style>: 
 • <style="CovenColor">Mestre das Maldições</style> (com o <style="PowerAlignmentColor">Necronomicon</style>)
