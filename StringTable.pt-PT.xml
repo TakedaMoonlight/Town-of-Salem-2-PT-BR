@@ -5632,20 +5632,20 @@ Com o Necronomicon você irá aparecer como Não Suspeito para %name_role17%s.
 • O <style="PowerAlignmentColor">Ataque</style> de um jogador deve ser mais forte do que a <style="PowerAlignmentColor">Defesa</style> do alvo para conseguir matá-lo.]]></Entry>
     <Entry key="GUI_KEYWORD_ASTRAL_VISIT">Visita Astral</Entry>
     <Entry key="GUI_KEYWORD_ASTRAL_VISIT_TOOLTIP"><![CDATA[
-		
-	<style="PowerAlignmentColor">Visitas Astrais</style> não ativam habilidades que dependam de <style="PowerAlignmentColor">Visitas</style> e não podem ser detectadas. Habilidades <style="PowerAlignmentColor">Astrais</style> não podem ser impedidas por <style="PowerAlignmentColor">Obstáculos Desconhecidos</style>.
 
-São <style="PowerAlignmentColor">Visitas Astrais</style>: 
-• <style="CovenColor">Mestre das Maldições</style> (com o <style="PowerAlignmentColor">Necronomicon</style>)
-• <style="CovenColor">Ritualista</style> (<style="PowerAlignmentColor">Ritual de Sangue</style>)
-• <style="DoomsayerColor">Condenador</style> (<style="PowerAlignmentColor">Condenação</style>)
-• <style="CovenColor">Ilusionista</style> (<style="PowerAlignmentColor">Ilusão</style>, selecionando um membro do <style="CovenColor">Coven</style> como alvo)
-• <style="ApocalypseColor">Coletor de Almas</style> (Ceifar)
-• <style="ShroudColor">Mortalha</style> (<style="PowerAlignmentColor">Envolver</style>)
-• <style="TownColor">Oráculo</style> (<style="PowerAlignmentColor">Égide</style>)
-• <style="CursedSoulColor">Alma Amaldiçoada</style> (<style="PowerAlignmentColor">Troca de Almas</style>)
-• As visitas de um jogador <style="PowerAlignmentColor">Agraciado</style> por um <Style="TownColor">Admirador</style>
-• As visitas de um <style="PowerAlignmentColor">Soberano</style> não-membro de <style="TownColor">Salém</style>]]></Entry>
+<style="PowerAlignmentColor">Visitas Astrais</style> não ativam habilidades que dependam de <style="PowerAlignmentColor">Visitas</style> e não podem ser detectadas. Habilidades <style="PowerAlignmentColor">Astrais</style> não podem ser impedidas por <style="PowerAlignmentColor">Obstáculos Desconhecidos</style>.
+
+Possuem <style="PowerAlignmentColor">Visitas Astrais</style>: 
+• O <style="CovenColor">Mestre das Maldições</style> (com o <style="PowerAlignmentColor">Necronomicon</style>)
+• O <style="CovenColor">Ritualista</style> (<style="PowerAlignmentColor">Ritual de Sangue</style>)
+• <style="DoomsayerColor">Condenadores</style> (<style="PowerAlignmentColor">Condenação</style>)
+• O <style="CovenColor">Ilusionista</style> (<style="PowerAlignmentColor">Ilusão</style>, selecionando um membro do <style="CovenColor">Coven</style> como alvo)
+• O <style="ApocalypseColor">Coletor de Almas</style> (Ceifar)
+• <style="ShroudColor">Mortalhas</style> (<style="PowerAlignmentColor">Envolver</style>)
+• <style="TownColor">Oráculos</style> (<style="PowerAlignmentColor">Égide</style>)
+• <style="CursedSoulColor">Almas Amaldiçoadas</style> (<style="PowerAlignmentColor">Troca de Almas</style>)
+• Jogadores <style="PowerAlignmentColor">Agraciados</style> por um <Style="TownColor">Admirador</style>
+• Um <style="PowerAlignmentColor">Soberano</style> não-membro de <style="TownColor">Salém</style>]]></Entry>
     <Entry key="GUI_KEYWORD_NONE_DEFENSE">Defesa Nenhuma</Entry>
     <Entry key="GUI_KEYWORD_NONE_DEFENSE_TOOLTIP"><![CDATA[
 
