@@ -176,8 +176,8 @@
 	<Entry key="ITEM_5_51_BLURB">Flávia é a segunda bartender favorita de Salém!</Entry>
 	<!--Archibald / Arquibaldo-->
 	<Entry key="ITEM_5_52_BLURB">Arquibaldo adora pescar quando Salém não está ocupada caçando bruxas.</Entry>
-	<!--Lauf / Travês-->
-	<Entry key="ITEM_5_53_BLURB">Travês adora sair pedindo doces, ele faz isso todas as noites!</Entry>
+	<!--Lauf / Plates-->
+	<Entry key="ITEM_5_53_BLURB">Plates adora sair pedindo doces, ele faz isso todas as noites!</Entry>
 	<!--Giles Quarry / Egídio Pedreira-->
 	<Entry key="ITEM_5_54_BLURB">Quanto mais Egídio desce nas minas, mais jovem ele fica.</Entry>
 	<!--Gorgon / Górgona-->
@@ -1154,7 +1154,7 @@ Jogo de Cartas</Entry>
     <Entry key="SKIN_50">Clave</Entry>
     <Entry key="SKIN_51">Flávia</Entry>
     <Entry key="SKIN_52">Arquibaldo</Entry>
-    <Entry key="SKIN_53">Travês</Entry>
+    <Entry key="SKIN_53">Plates</Entry>
     <Entry key="SKIN_54">Egídio Pedreira</Entry>
     <Entry key="SKIN_55">Górgona</Entry>
     <Entry key="SKIN_56">Radú</Entry>
