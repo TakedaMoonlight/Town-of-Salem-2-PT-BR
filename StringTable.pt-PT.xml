@@ -5789,7 +5789,7 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_BARRIER_TOOLTIP"><![CDATA[
 
 • Jogadores com uma <style="PowerAlignmentColor">Barreira</style> receberão <style="PowerAlignmentColor">Defesa Poderosa</style> naquela noite.<br>
-• As funções que podem conceder uma <style="PowerAlignmentColor">Barreira</style> a um jogador são <style="TownColor">%name_role1%es</style>, <style="TownColor">%name_role4%s</style>, <style="TownColor">%name_role56%s</style> e o <style="CovenColor">%name_role35%</style>.]]></Entry>
+• As funções que podem conceder uma <style="PowerAlignmentColor">Barreira</style> a um jogador são <style="TownColor">%name_role1%es</style>, <style="TownColor">%name_role4%s</style>, <style="TownColor">%name_role6%s</style>, <style="TownColor">%name_role56%s</style> e o <style="CovenColor">%name_role35%</style>.]]></Entry>
     <Entry key="GUI_KEYWORD_REVEALED">Revelado</Entry>
     <Entry key="GUI_KEYWORD_REVEALED_TOOLTIP"><![CDATA[
 
@@ -5923,7 +5923,7 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
 • O <style="CovenColor">%name_role35%</style>, <style="TownColor">%name_role4%s</style>, <style="TownColor">%name_role1%es</style> e <style="TownColor">%name_role56%s</style> possuem <style="PowerAlignmentColor">Barreiras</style> que irão conceder <style="PowerAlignmentColor">Defesa Poderosa</style> ao alvo de suas habilidades durante aquela noite.<br>
 • A função do <style="TownColor">%name_role3%</style> pode <style="PowerAlignmentColor">Guardar</style> um jogador, redirecionando um atacante para si mesmo e lutando com esse atacante, desferindo um <style="PowerAlignmentColor">Ataque Poderoso</style> a ele.<br>
 • A função do <style="TownColor">%name_role21%</style> pode colocar uma <style="PowerAlignmentColor">Armadilha</style> na casa de um jogador, impedindo um atacante de Atacar seu alvo e desferindo um <style="PowerAlignmentColor">Ataque Poderoso</style> ao atacante.<br>
-• A função do <style="TownColor">%name_role6%</style> pode <style="PowerAlignmentColor">Fortificar</style> um jogador, concedendo a ele <style="PowerAlignmentColor">Defesa Poderosa</style> durante aquela noite, além de atacar um visitante aleatório.]]></Entry>
+• A função do <style="TownColor">%name_role6%</style> pode <style="PowerAlignmentColor">Fortificar</style> um jogador, providenciando uma <style="PowerAlignmentColor">Barreira</style> que concede a ele <style="PowerAlignmentColor">Defesa Poderosa</style> durante aquela noite, além de atacar um visitante aleatório.]]></Entry>
 	<Entry key="GUI_KEYWORD_VISIT">Visita</Entry>
     <Entry key="GUI_KEYWORD_VISIT_TOOLTIP"><![CDATA[
     
@@ -5940,6 +5940,7 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
 • O time de <style="TownColor">Salém</style> deve proteger o <color=#00FED5>VIP</color> a qualquer custo.<br>
 • Se o <color=#00FED5>VIP</color> morrer, o time de <style="TownColor">Salém</style> irá perder.<br>
 • Se o <color=#00FED5>VIP</color> se desconectar antes de morrer, um novo <color=#00FED5>VIP</color> será designado se possível.<br>
+• O <color=#00FED5>VIP</color> não pode ser <style="PowerAlignmentColor">Doutrinado</style> pelo <style="CovenColor">Cultista</style>.<br>
 • O <color=#00FED5>VIP</color> não pode ser um <style="TownColor">%name_role2%</style> ou <style="TownColor">%name_role3%</style>.]]></Entry>
 	<Entry key="GUI_KEYWORD_TOWNTRAITOR">Traidor de Salém</Entry>
     <Entry key="GUI_KEYWORD_TOWNTRAITOR_TOOLTIP"><![CDATA[
@@ -6010,7 +6011,7 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
 	<Entry key="GUI_KEYWORD_FORTIFY">Fortificar</Entry>
     <Entry key="GUI_KEYWORD_FORTIFY_TOOLTIP"><![CDATA[
 
-• O <style="TownColor">%name_role6%</style> pode <style="PowerAlignmentColor">Fortificar</style> a casa de um jogador durante a noite concedendo <style="PowerAlignmentColor">Defesa Poderosa</style>.<br>
+• O <style="TownColor">%name_role6%</style> pode <style="PowerAlignmentColor">Fortificar</style> a casa de um jogador durante à noite, providenciando uma <style="PowerAlignmentColor">Barreira</style> que concede <style="PowerAlignmentColor">Defesa Poderosa</style>.<br>
 • O <style="TownColor">%name_role6%</style> irá desferir um <style="PowerAlignmentColor">Ataque Básico</style> contra um visitante aleatório de seu alvo.]]></Entry>
 	<Entry key="GUI_KEYWORD_GUARD">Guardar</Entry>
     <Entry key="GUI_KEYWORD_GUARD_TOOLTIP"><![CDATA[
@@ -6386,7 +6387,8 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
 		<![CDATA[
 
 • Como o <style="CovenColor">Cultista</style>, converta um membro do time de <style="TownColor">Salém</style> para o time do <style="CovenColor">Coven</style>.<br>
-• O membro de <style="TownColor">Salém</style> que foi convertido será capaz de usar o <style="PowerAlignmentColor">Necronomicon</style>.]]></Entry>
+• O membro de <style="TownColor">Salém</style> que foi convertido será capaz de usar o <style="PowerAlignmentColor">Necronomicon</style>.<br>
+• Em partidas de <color=#00FED5>VIP</color>, o <color=#00FED5>VIP</color> não pode ser <style="PowerAlignmentColor">Doutrinado</style> pelo <style="CovenColor">Cultista</style>.]]></Entry>
 	<Entry key="GUI_KEYWORD_GRACEPERIOD">Período Próspero</Entry>
 	<Entry key="GUI_KEYWORD_GRACEPERIOD_TOOLTIP"><![CDATA[
 
@@ -11316,7 +11318,7 @@ Caso encontre problemas de tradução, textos incorretos ou queira enviar sugest
 
 Obrigado por jogar, e divirtam-se!
 
-- Takeda Moonlight, tradutor voluntário
+- Tácito Luar
 
 <align=center><b><size=110%>• • •</size></b></align>
 
