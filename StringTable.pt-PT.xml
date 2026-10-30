@@ -3960,7 +3960,7 @@ Mortalhas podem fazer um jogador aparentar ser um assassino.</Entry>
 Você atacará uma pessoa aleatória que visitar seu alvo na mesma noite.</Entry>
     <Entry key="GUI_ROLE_ATTRIBUTES_6">Você saberá caso seu alvo seja atacado.
 	
-	Caso uma Caça ao Traidor de Salém comece, você não poderá mais Fortificar jogadores.</Entry>
+Caso uma Caça ao Traidor de Salém comece, você não poderá mais Fortificar jogadores.</Entry>
 
     <!--Deputy-->
     <Entry key="GUI_ROLE_ABILITY_SUMMARY_7">Você pode tentar Atirar em um jogador durante o dia.</Entry>
@@ -4701,7 +4701,7 @@ Você pode lançar sua Égide sobre Oráculos apenas uma vez por partida.</Entry
 	<Entry key="GUI_ROLE_SPECIAL_ABILITY_DESC_60">Converta um membro de Salém para seu time.</Entry>
 	<Entry key="GUI_ROLE_ATTRIBUTES_60">Você terá Defesa Básica até que tenha convertido alguém com sucesso.
 	
-	Caso você tente Doutrinar o VIP em partidas de VIP, sua habilidade falhará.</Entry>
+Caso você tente Doutrinar o VIP em partidas de VIP, sua habilidade falhará.</Entry>
     
 	<!-- *** HORSEMEN ROLE CARD DATA *** -->
     <!--Famine-->
