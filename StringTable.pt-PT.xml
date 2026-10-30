@@ -3955,10 +3955,12 @@ Mortalhas podem fazer um jogador aparentar ser um assassino.</Entry>
     <!--Crusader-->
     <Entry key="GUI_ROLE_ABILITY_SUMMARY_6">Escolha um jogador para proteger a cada noite atacando um visitante aleatório.</Entry>
     <Entry key="GUI_ROLE_ABILITY1_VERB_6">Fortificar</Entry>
-    <Entry key="GUI_ROLE_ABILITY1_DESC_6">Jogadores que você fortifica ganham Defesa Poderosa durante a noite.
+    <Entry key="GUI_ROLE_ABILITY1_DESC_6">Jogadores que você fortifica ganham uma Barreira que lhes concede Defesa Poderosa durante a noite.
 
 Você atacará uma pessoa aleatória que visitar seu alvo na mesma noite.</Entry>
-    <Entry key="GUI_ROLE_ATTRIBUTES_6">Você saberá caso seu alvo seja atacado.</Entry>
+    <Entry key="GUI_ROLE_ATTRIBUTES_6">Você saberá caso seu alvo seja atacado.
+	
+	Caso uma Caça ao Traidor de Salém comece, você não poderá mais Fortificar jogadores.</Entry>
 
     <!--Deputy-->
     <Entry key="GUI_ROLE_ABILITY_SUMMARY_7">Você pode tentar Atirar em um jogador durante o dia.</Entry>
@@ -3997,7 +3999,7 @@ Caso você execute um membro de Salém você perderá a habilidade de prender.</
     <Entry key="GUI_ROLE_SPECIAL_ABILITY_VERB_9">Prisão</Entry>
     <Entry key="GUI_ROLE_SPECIAL_ABILITY_DESC_9">Você pode conversar anonimamente com seu prisioneiro.
 
-Você não pode prender a mesma pessoa duas noites seguidas.
+Você não pode prender a mesma pessoa consecutivamente.
 
 Jogadores na Prisão não podem ser alvos diretos de nenhuma habilidade, a menos que sejam Visitas Astrais.</Entry>
     <Entry key="GUI_ROLE_ATTRIBUTES_9">O jogador na Prisão não pode realizar nenhuma ação noturna.
@@ -4697,7 +4699,9 @@ Você pode lançar sua Égide sobre Oráculos apenas uma vez por partida.</Entry
 	<Entry key="GUI_ROLE_ABILITY_SUMMARY_60">Você pode Doutrinar um membro de Salém para se juntar ao seu time durante o dia.</Entry>
 	<Entry key="GUI_ROLE_SPECIAL_ABILITY_VERB_60">Doutrinar</Entry>
 	<Entry key="GUI_ROLE_SPECIAL_ABILITY_DESC_60">Converta um membro de Salém para seu time.</Entry>
-	<Entry key="GUI_ROLE_ATTRIBUTES_60">Você terá Defesa Básica até que tenha convertido alguém com sucesso.</Entry>
+	<Entry key="GUI_ROLE_ATTRIBUTES_60">Você terá Defesa Básica até que tenha convertido alguém com sucesso.
+	
+	Caso você tente Doutrinar o VIP em partidas de VIP, sua habilidade falhará.</Entry>
     
 	<!-- *** HORSEMEN ROLE CARD DATA *** -->
     <!--Famine-->
@@ -5678,7 +5682,7 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_SHROUD">Envolver</Entry>
     <Entry key="GUI_KEYWORD_SHROUD_TOOLTIP"><![CDATA[
 
-• A <style="ShroudColor">%name_role49%</style> pode <style="PowerAlignmentColor">Envolver</style> um jogador fazendo com que aquele jogador desfira um <style="PowerAlignmentColor">Ataque Básico</style> a pessoa que ele visitar.]]></Entry>
+• A <style="ShroudColor">%name_role49%</style> pode <style="PowerAlignmentColor">Envolver</style> um jogador, fazendo com que aquele jogador desfira um <style="PowerAlignmentColor">Ataque Básico</style> à pessoa que ele visitar.]]></Entry>
     <Entry key="GUI_KEYWORD_INVESTIGATE">Investigar</Entry>
     <Entry key="GUI_KEYWORD_INVESTIGATE_TOOLTIP"><![CDATA[
 
@@ -5688,10 +5692,10 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_JAIL">Prisão</Entry>
     <Entry key="GUI_KEYWORD_JAIL_TOOLTIP"><![CDATA[
 
-• O <style="TownColor">%name_role9%</style> pode escolher levar um jogador à <style="PowerAlignmentColor">Prisão</style> durante o dia.<br>
+• Durante o dia, o <style="TownColor">%name_role9%</style> pode escolher um jogador para manter na <style="PowerAlignmentColor">Prisão</style> durante a noite.<br>
 • A <style="PowerAlignmentColor">Prisão</style> de um jogador faz com que todas as visitas diretas a ele falhem, exceto <style="PowerAlignmentColor">Visitas Astrais</style>.<br>
 • Jogadores <style="PowerAlignmentColor">Presos</style> não podem realizar ações noturnas.<br>
-• Jogadores não podem ser <style="PowerAlignmentColor">Presos</style> duas noites seguidas.]]></Entry>
+• Jogadores não podem ser <style="PowerAlignmentColor">Presos</style> consecutivamente.]]></Entry>
     <Entry key="GUI_KEYWORD_RAMPAGE">Irrupção</Entry>
     <Entry key="GUI_KEYWORD_RAMPAGE_TOOLTIP"><![CDATA[
 
@@ -5699,16 +5703,16 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_CONTROL">Controle</Entry>
     <Entry key="GUI_KEYWORD_CONTROL_TOOLTIP"><![CDATA[
 
-• Colocar um jogador sob <style="PowerAlignmentColor">Controle</style> permite o controlador escolher um alvo para que suas habilidades sejam utilizadas.<br>
-• Jogadores <style="PowerAlignmentColor">Controlados</style> podem ser controlados até sí mesmos.<br>
+• Colocar um jogador sob <style="PowerAlignmentColor">Controle</style> permite que o controlador escolha um alvo para que as habilidades do controlado sejam utilizadas.<br>
+• Jogadores <style="PowerAlignmentColor">Controlados</style> podem ser controlados até si mesmos.<br>
 • Jogadores <style="PowerAlignmentColor">Controlados</style> saberão que foram controlados.<br>
 • A função do jogador <style="PowerAlignmentColor">Controlado</style> será revelada ao controlador.<br>
-• Feedbacks das habilidades de jogadores controlados serão enviados ao controlador.]]></Entry>
+• Resultados das habilidades de jogadores controlados serão enviados ao controlador.]]></Entry>
     <Entry key="GUI_KEYWORD_TRAP">Armadilha</Entry>
     <Entry key="GUI_KEYWORD_TRAP_TOOLTIP"><![CDATA[
 
-• <style="PowerAlignmentColor">Armadilhas</style> ativarão em jogadores visitando diretamente quem estiver com a <style="PowerAlignmentColor">Armadilha</style>, mas atacará apenas caso seja uma <style="PowerAlignmentColor">Visita Prejudicial</style>.<br>
-• Quando a <style="PowerAlignmentColor">Armadilha</style> ativar, o dono dela recebe a informação de quais são as funções dos jogadores que visitaram o alvo com a armadilha, exceto quando a <style="PowerAlignmentColor">Armadilha</style> ataca alguém.]]></Entry>
+• <style="PowerAlignmentColor">Armadilhas</style> ativarão em jogadores visitando diretamente quem estiver com a <style="PowerAlignmentColor">Armadilha</style>, mas atacarão apenas caso seja uma <style="PowerAlignmentColor">Visita Prejudicial</style>.<br>
+• Quando a <style="PowerAlignmentColor">Armadilha</style> ativar, o dono dela recebe a informação de quais são as funções dos jogadores que visitaram o alvo com a <style="PowerAlignmentColor">Armadilha</style>, exceto quando a <style="PowerAlignmentColor">Armadilha</style> ataca alguém.]]></Entry>
     <Entry key="GUI_KEYWORD_DOUSE">Encharcar</Entry>
     <Entry key="GUI_KEYWORD_DOUSE_TOOLTIP"><![CDATA[
 
@@ -5718,8 +5722,8 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_HEX">Maldição</Entry>
     <Entry key="GUI_KEYWORD_HEX_TOOLTIP"><![CDATA[
 
-• Jogadores Amaldiçoados não saberão que estão com uma <style="PowerAlignmentColor">Maldição</style>.<br>
-• Se o <style="CovenColor">%name_role29%</style> estiver vivo e todos os jogadores que não forem de seu time estiverem Amaldiçoados, o <style="CovenColor">%name_role29%</style> matará todos os jogadores que tiverem uma <style="PowerAlignmentColor">Maldição</style>.<br>
+• Jogadores Amaldiçoados não saberão que possuem uma <style="PowerAlignmentColor">Maldição</style>.<br>
+• Se o <style="CovenColor">%name_role29%</style> estiver vivo e todos os jogadores não membros de seu time estiverem Amaldiçoados, o <style="CovenColor">%name_role29%</style> matará todos os jogadores que possuírem uma <style="PowerAlignmentColor">Maldição</style>.<br>
 • É possível <style="PowerAlignmentColor">Reanimar</style> o <style="CovenColor">%name_role29%</style> fazendo com que todas as <style="PowerAlignmentColor">Maldições</style> detonem, matando todos os jogadores Amaldiçoados caso todos que não sejam de seu time estejam com uma <style="PowerAlignmentColor">Maldição</style>.]]></Entry>
     <!--ToS2 Keywords and Tooltips Start-->
     <Entry key="GUI_KEYWORD_NECRONOMICON">Necronomicon</Entry>
@@ -5747,22 +5751,22 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_SILENCE_TOOLTIP"><![CDATA[
 
 • Jogadores sob <style="PowerAlignmentColor">Silêncio</style> não podem falar durante o dia após a noite em que foram Silenciados.<br>
-• Jogadores sob <style="PowerAlignmentColor">Silêncio</style> não podem votar durante a fase de votação durante o dia após a noite em que foram Silenciados.<br>
-• Jogadores sob <style="PowerAlignmentColor">Silêncio</style> ainda podem votar para <style="GuiltyColor">Culpado</style> ou <style="InnocentColor">Inocente</style> durante um julgamento.]]></Entry>
+• Jogadores sob <style="PowerAlignmentColor">Silêncio</style> só podem votar uma vez durante a fase de votação durante o dia após a noite em que foram Silenciados, e não poderão cancelar seu voto.<br>
+• Jogadores sob <style="PowerAlignmentColor">Silêncio</style> ainda podem votar para <style="GuiltyColor">Culpado</style> ou <style="InnocentColor">Inocente</style> normalmente durante um julgamento.]]></Entry>
 	<Entry key="GUI_KEYWORD_ENCHANT">Encantamento</Entry>
     <Entry key="GUI_KEYWORD_ENCHANT_TOOLTIP"><![CDATA[
 
-• Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparentar terem o <style="PowerAlignmentColor">Crime</style> de <style="PowerAlignmentColor">Assassinato</style> e serem membros do <style="CovenColor">Coven</style> para <style="TownColor">%name_role8%es</style>.<br>
-• Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparentar serem <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role14%s</style>.<br>
-• Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparecer como <style="PowerAlignmentColor">Suspeito</style> para <style="TownColor">%name_role17%s</style>.<br>
-• Jogadores com <style="PowerAlignmentColor">Encantamento</style> irão aparecer como membros do <style="CovenColor">Coven</style> para <style="TownColor">%name_role16%s</style>.]]></Entry>
+• Jogadores com <style="PowerAlignmentColor">Encantamento</style> aparentarão ter o <style="PowerAlignmentColor">Crime</style> de <style="PowerAlignmentColor">Assassinato</style> e serem membros do <style="CovenColor">Coven</style> para <style="TownColor">%name_role8%es</style>.<br>
+• Jogadores com <style="PowerAlignmentColor">Encantamento</style> aparentarão ser <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role14%s</style>.<br>
+• Jogadores com <style="PowerAlignmentColor">Encantamento</style> aparecerão como <style="PowerAlignmentColor">Suspeitos</style> para <style="TownColor">%name_role17%s</style>.<br>
+• Jogadores com <style="PowerAlignmentColor">Encantamento</style> aparecerão como membros do <style="CovenColor">Coven</style> para <style="TownColor">%name_role16%s</style>.]]></Entry>
 	<Entry key="GUI_KEYWORD_ILLUSION">Ilusão</Entry>
     <Entry key="GUI_KEYWORD_ILLUSION_TOOLTIP"><![CDATA[
 
-• Alvos com <style="PowerAlignmentColor">Ilusão</style> irão aparecer como membros de <style="TownColor">Salém</style> para <style="TownColor">%name_role16%s</style>.<br>
-• Alvos com <style="PowerAlignmentColor">Ilusão</style> irão aparecer como <style="PowerAlignmentColor">Não Suspeito</style> para <style="TownColor">%name_role17%s</style>.<br>
-• Alvos com <style="PowerAlignmentColor">Ilusão</style> irão aparecer como <style="PowerAlignmentColor">Do Bem</style> para <style="TownColor">%name_role14%s</style>.<br>
-• A <style="PowerAlignmentColor">Ilusão</style> é uma <style="PowerAlignmentColor">Visita Astral</style>.]]></Entry>
+• Alvos com <style="PowerAlignmentColor">Ilusão</style> aparecerão como membros de <style="TownColor">Salém</style> para <style="TownColor">%name_role16%s</style>.<br>
+• Alvos com <style="PowerAlignmentColor">Ilusão</style> aparecerão como <style="PowerAlignmentColor">Não Suspeito</style> para <style="TownColor">%name_role17%s</style>.<br>
+• Alvos com <style="PowerAlignmentColor">Ilusão</style> aparecerão como <style="PowerAlignmentColor">Do Bem</style> para <style="TownColor">%name_role14%s</style>.<br>
+• A habilidade de <style="PowerAlignmentColor">Ilusão</style> é uma <style="PowerAlignmentColor">Visita Astral</style>.]]></Entry>
 	<Entry key="GUI_KEYWORD_INSANE">Insônia</Entry>
     <Entry key="GUI_KEYWORD_INSANE_TOOLTIP"><![CDATA[
 
@@ -5777,7 +5781,7 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_HUNGOVER_TOOLTIP"><![CDATA[
 
 • Quando um jogador sofre um <style="PowerAlignmentColor">Bloqueio</style> por um <style="TownColor">%name_role19%</style> ou pelo <style="CovenColor">%name_role34%</style>, na noite seguinte ele estará de <style="PowerAlignmentColor">Ressaca</style>.<br>
-• Jogadores que estão de <style="PowerAlignmentColor">Ressaca</style> não podem ser <style="PowerAlignmentColor">Bloqueados</style> ou <style="PowerAlignmentColor">Controlados</style> naquela noite.]]></Entry>
+• Jogadores que estão de <style="PowerAlignmentColor">Ressaca</style> não podem ser <style="PowerAlignmentColor">Bloqueados</style> ou <style="PowerAlignmentColor">Controlados</style> na noite seguinte.]]></Entry>
 	<Entry key="GUI_KEYWORD_ROLEBLOCK">Bloqueio</Entry>
     <Entry key="GUI_KEYWORD_ROLEBLOCK_TOOLTIP">
   <![CDATA[
@@ -5799,7 +5803,7 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_ADMIRE_TOOLTIP"><![CDATA[
 
 • O <style="TownColor">%name_role1%</style> pode <style="PowerAlignmentColor">Admirar</style> um jogador durante a noite para verificar se ele é ou não a <style="LoverColor">Obsessão</style> secreta.<br>
-• Se o <style="TownColor">%name_role1%</style> encontrar sua <style="LoverColor">Obsessão</style> secreta, ele irá desbloquear a habilidade de <style="PowerAlignmentColor">Cuidar</style> dela.<br>]]></Entry>
+• Se o <style="TownColor">%name_role1%</style> encontrar sua <style="LoverColor">Obsessão</style> secreta, ele desbloqueará a habilidade de <style="PowerAlignmentColor">Cuidar</style> dela.<br>]]></Entry>
     <Entry key="GUI_KEYWORD_BESTOW">Agraciar</Entry>
     <Entry key="GUI_KEYWORD_BESTOW_TOOLTIP"><![CDATA[
 
@@ -5808,6 +5812,7 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
     <Entry key="GUI_KEYWORD_BREAD">Pão</Entry>
     <Entry key="GUI_KEYWORD_BREAD_TOOLTIP"><![CDATA[
 
+• O <style="ApocalypseColor">Padeiro</style> pode visitar um jogador para entregar <style="PowerAlignmentColor">Pão</style> a ele, caso 3 jogadores vivos possuam <style="PowerAlignmentColor">Pão</style>, o <style="ApocalypseColor">Padeiro</style> se transformará na <style="ApocalypseColor">Fome</style>.<br>
 • Jogadores com <style="PowerAlignmentColor">Pão</style> não saberão que tem <style="PowerAlignmentColor">Pão</style> até que a Fome comece.<br>
 • Quando a Fome começar, jogadores com <style="PowerAlignmentColor">Pão</style> irão viver por mais 3 dias.<br>
 • A <style="ApocalypseColor">Fome</style> pode visitar um jogador com <style="PowerAlignmentColor">Pão</style> para o definhá-lo. Isso faz com que ele morra 1 dia mais rápido.]]></Entry>
@@ -5828,19 +5833,19 @@ Possuem <style="PowerAlignmentColor">Visitas Astrais</style>:
 
 • Jogadores <style="PowerAlignmentColor">Do Bem</style> são jogadores do time de <style="TownColor">Salém</style>.<br>
 • Certos jogadores <style="PowerAlignmentColor">Do Mal</style> podem aparentar serem <style="PowerAlignmentColor">Do Bem</style> para diferentes funções investigativas.<br>
-• O Portador do <style="PowerAlignmentColor">Necronomicon</style> irá aparentar ser <style="PowerAlignmentColor">Do Bem</style> para <style="TownColor">%name_role17%s</style>.<br>
+• O Portador do <style="PowerAlignmentColor">Necronomicon</style> aparentará ser <style="PowerAlignmentColor">Do Bem</style> para <style="TownColor">%name_role17%s</style>.<br>
 • O <style="CovenColor">%name_role30%</style> pode fazer membros do <style="CovenColor">Coven</style> parecerem <style="PowerAlignmentColor">Do Bem</style> para <style="TownColor">%name_role17%s</style>, <style="TownColor">%name_role16%s</style>, <style="TownColor">%name_role14%s</style> e <style="TownColor">%name_role8%es</style>.<br>
 • O <style="CovenColor">%name_role28%</style> pode fazer jogadores que não sao membros do <style="CovenColor">Coven</style> não aparecerem como <style="PowerAlignmentColor">Do Bem</style> para <style="TownColor">%name_role17%s</style>, <style="TownColor">%name_role16%s</style>, <style="TownColor">%name_role14%s</style> e <style="TownColor">%name_role8%es</style>.<br>
-• Jogadores que são <style="NeutralColor">Neutros</style> <style="KillingAlignmentColor">Letais</style>, e (se houver apenas um) <style="NeutralColor">Neutros</style> <style="ApocalypseColor">Apocalipse</style> irão aparecer como <style="PowerAlignmentColor">Do Bem</style> para <style="TownColor">%name_role17%s</style>.]]></Entry>
+• Jogadores que são <style="NeutralColor">Neutros</style> <style="KillingAlignmentColor">Letais</style>, e (se houver apenas um) <style="NeutralColor">Neutros</style> <style="ApocalypseColor">Apocalipse</style> aparecerão como <style="PowerAlignmentColor">Do Bem</style> para <style="TownColor">%name_role17%s</style>.]]></Entry>
 	<Entry key="GUI_KEYWORD_EVIL">Do Mal</Entry>
     <Entry key="GUI_KEYWORD_EVIL_TOOLTIP"><![CDATA[
 
 • Jogadores <style="PowerAlignmentColor">Do Mal</style> são jogadores que não sejam membros do time de <style="TownColor">Salém</style>.<br>
 • Certas funções <style="PowerAlignmentColor">Do Mal</style> podem aparentar serem <style="PowerAlignmentColor">Do Bem</style> para diferentes funções investigativas.<br>
-• O Portador do <style="PowerAlignmentColor">Necronomicon</style> não irá aparentar ser <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role17%s</style>.<br>
+• O Portador do <style="PowerAlignmentColor">Necronomicon</style> não aparentará ser <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role17%s</style>.<br>
 • O <style="CovenColor">%name_role30%</style> pode fazer membros do <style="CovenColor">Coven</style> não aparecerem como <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role17%s</style>, <style="TownColor">%name_role16%s</style>, <style="TownColor">%name_role14%s</style> and <style="TownColor">%name_role8%es</style>.<br>
-• O <style="CovenColor">%name_role28%</style> pode fazer jogadores que não sejam membros do <style="CovenColor">Coven</style> aparecerem como <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role17%s</style>, <style="TownColor">%name_role16%s</style>, <style="TownColor">%name_role14%s</style> and <style="TownColor">%name_role8%es</style>.<br>
-• Jogadores que são <style="NeutralColor">Neutros</style> <style="KillingAlignmentColor">Letais</style>, e (se houver apenas um) <style="NeutralColor">Neutros</style> <style="ApocalypseColor">Apocalipse</style> não irão aparecer como <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role17%s</style>.]]></Entry>
+• O <style="CovenColor">%name_role28%</style> pode fazer não membros do <style="CovenColor">Coven</style> aparecerem como <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role17%s</style>, <style="TownColor">%name_role16%s</style>, <style="TownColor">%name_role14%s</style> and <style="TownColor">%name_role8%es</style>.<br>
+• Jogadores que são <style="NeutralColor">Neutros</style> <style="KillingAlignmentColor">Letais</style>, e (se houver apenas um) <style="NeutralColor">Neutros</style> <style="ApocalypseColor">Apocalipse</style> não aparecerão como <style="PowerAlignmentColor">Do Mal</style> para <style="TownColor">%name_role17%s</style>.]]></Entry>
     <Entry key="GUI_KEYWORD_EXECUTIONER_TARGET">Alvo do Executor</Entry>
     <Entry key="GUI_KEYWORD_EXECUTIONER_TARGET_TOOLTIP"><![CDATA[
 • O <style="ExecutionerColor">%name_role44%</style> irá tentar convencer a Cidade a <style="PowerAlignmentColor">Linchar</style> o alvo dele.<br>
