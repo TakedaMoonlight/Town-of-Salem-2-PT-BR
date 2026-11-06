@@ -117,7 +117,7 @@
     <Entry key="ITEM_4_19_BLURB">Fúca, Púca e Búca cantam serenatas para guiar almas perdidas ao além sob a luz de cada Lua da Colheita.</Entry>
     <!--Cthulhu-->
     <Entry key="ITEM_4_20_BLURB">Cuidado ao fitar seus olhos, ou ouvirá os ecos da loucura de um mundo ancestral.</Entry>
-    <!--Grimmie / Griminho-->
+    <!--Grimmie / Ceifadorzinho-->
     <Entry key="ITEM_4_21_BLURB">Junto às carruagens da Morte, pequenos espíritos recolhem as almas de criaturinhas e insetos.</Entry>
     <!--Necronomicon-->
     <Entry key="ITEM_4_22_BLURB">A vontade do Necronomicon é carregada por todos os membros do Coven. Ninguém sabe suas verdadeiras intenções.</Entry>
@@ -1211,13 +1211,13 @@ Jogo de Cartas</Entry>
     <Entry key="PET_SKIN_18">Reluzescama</Entry>
 	<Entry key="PET_SKIN_19">Sátrio</Entry>
     <Entry key="PET_SKIN_20">Cthulhu</Entry>
-    <Entry key="PET_SKIN_21">Griminho</Entry>
+    <Entry key="PET_SKIN_21">Ceifadorzinho</Entry>
     <Entry key="PET_SKIN_22">Necronomicon</Entry>
     <Entry key="PET_SKIN_23">Lãzinho</Entry>
     <Entry key="PET_SKIN_24">Camaleão</Entry>
     <Entry key="PET_SKIN_25">Grifo</Entry>
     <Entry key="PET_SKIN_26">Hipgrook</Entry>
-    <Entry key="PET_SKIN_27">Blicks</Entry>
+    <Entry key="PET_SKIN_27">Blíques</Entry>
     <Entry key="PET_SKIN_28">Pássaro Trovão</Entry>
     <Entry key="PET_SKIN_29">Pégaso</Entry>
     <Entry key="PET_SKIN_30">Fênix</Entry>
