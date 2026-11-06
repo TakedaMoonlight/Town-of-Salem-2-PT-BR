@@ -2987,9 +2987,9 @@ Informações</Entry>
     <Entry key="GUI_CAULDRON_PURCHASE_POTION">Comprar</Entry>
     <Entry key="GUI_CAULDRON_CANCEL_PURCHASE_POTION">Cancelar</Entry>
     <Entry key="GUI_CAULDRON_READY">Pronto!</Entry>
-    <Entry key="GUI_CAULDRON_REWARD_DESC_SINGLE">Você recebeu %item%!</Entry>
-    <Entry key="GUI_CAULDRON_REWARD_DESC_SINGLE_CATEGORY">Você recebeu %item% %name2%!</Entry>
-    <Entry key="GUI_CAULDRON_REWARD_DESC_MULTIPLE">Você recebeu %amount%x %item%!</Entry>
+    <Entry key="GUI_CAULDRON_REWARD_DESC_SINGLE">Você recebeu '<![CDATA[<color=#B9F484>%item%</color>]]>'!</Entry>
+    <Entry key="GUI_CAULDRON_REWARD_DESC_SINGLE_CATEGORY">Você recebeu %name2% '<![CDATA[<color=#B9F484>%item%</color>]]>'!</Entry>
+    <Entry key="GUI_CAULDRON_REWARD_DESC_MULTIPLE">Você recebeu %amount%x '<![CDATA[<color=#B9F484>%item%</color>]]>'!</Entry>
 
     <Entry key="GUI_CAULDRON_REWARD_EXCLUSIVE_TITLE">Exclusivos do Caldeirão</Entry>
     <Entry key="GUI_CAULDRON_REWARD_EXCLUSIVE_DESC">Alguns itens só podem ser obtidos das Recompensas do Caldeirão. Veja alguns deles abaixo!</Entry>
