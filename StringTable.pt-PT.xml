@@ -2217,7 +2217,7 @@ Conquistas</Entry>
   <Entry key="GUI_GAME_TYPE_27">Teste de Ranqueada</Entry>
   <Entry key="GUI_GAME_TYPE_28">Todos Aleatórios Verdadeiro</Entry>
   <Entry key="GUI_GAME_TYPE_29">Padrão</Entry>
-  <Entry key="GUI_GAME_TYPE_30">Todos Aleatórios Anomalísticos</Entry>
+  <Entry key="GUI_GAME_TYPE_30">Todos Aleatórios Anomalístico</Entry>
   <Entry key="GUI_GAME_TYPE_31">Muitos Todos Aleatórios</Entry>
 	<Entry key="GUI_GAME_TYPE_32">Personalizado (Voz)</Entry>
 	
@@ -2261,7 +2261,7 @@ Necessárias 10 partidas jogadas.</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_27">Teste de Ranqueada permite que os jogadores testem suas habilidades com listas de funções balanceadas para jogadores experientes.</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_28"><![CDATA[Todos Aleatórios Verdadeiro é uma verdadeira... <shake a=0.3><style=ApocalypseColor>Anarquia</style>]]></Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_29">A experiência padrão de Town Of Salem!</Entry>
-	<Entry key="GUI_GAME_TYPE_DESC_30">Todos Aleatórios Anomalísticos é um verdadeiro mistério!</Entry>
+	<Entry key="GUI_GAME_TYPE_DESC_30">Todos Aleatórios Anomalístico é um verdadeiro mistério!</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_31">Muitos Todos Aleatórios é verdadeiramente tudo o que você quer que seja!</Entry>
 	<Entry key="GUI_GAME_TYPE_DESC_32">A experiência completa do bate-papo por voz! Necessário possuir a Escritura da Cidade para jogar.</Entry>
   
@@ -5351,7 +5351,7 @@ Cada Modificador ou Banimento extra adicionado tem metade da probabilidade de oc
 	<Entry key="GAME_319" style="bad_alert"></Entry>
 	<Entry key="GAME_320" style="bad_alert"></Entry>
 	<Entry key="GAME_321" style="bad_alert">Você não pode se curar em um cenário de 1v1.</Entry>
-	<Entry key="GAME_322" style="good_alert">O VIP é %name%.</Entry>
+	<Entry key="GAME_322" style="good_alert">O [[:54]] é %name%.</Entry>
 	<Entry key="GAME_323" style="good_alert">Sua sede de sangue está saciada.</Entry>
 	<Entry key="GAME_324" style="good_alert">Sua sede de sangue está aumentando.</Entry>
 	<Entry key="GAME_325" style="good_alert">Sua sede de sangue atingiu o ápice. Você irá desferir um [[:2]] e uma [[:15]] essa noite.</Entry>
